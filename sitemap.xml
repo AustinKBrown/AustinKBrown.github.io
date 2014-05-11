@@ -13,7 +13,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://AustinKBrown.com/images/eye-screw.jpg</loc>
+    <lastmod>2014-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://AustinKBrown.com/index.html</loc>
+    <lastmod>2014-05-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/about.html</loc>
     <lastmod>2014-05-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
