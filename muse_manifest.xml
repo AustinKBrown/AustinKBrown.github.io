@@ -2,7 +2,7 @@
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
     <file name="index.css" crc="4285962802" ref="index"/>
-    <file name="about.css" crc="279913614" ref="about"/>
+    <file name="about.css" crc="3866183548" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:about"/>
@@ -15,5 +15,5 @@
     <file name="eye-screw.jpg" crc="251971071" ref="about"/>
   </folder>
   <file name="index.html" crc="153601350" mt="1399847971201" redirect="true"/>
-  <file name="about.html" crc="4244381286" mt="1399848011968" redirect="true"/>
+  <file name="about.html" crc="130483160" mt="1399848360953" redirect="true"/>
 </manifest>

@@ -6,16 +6,16 @@
 #page
 {
 	z-index: 1;
-	width: 600px;
-	min-height: 376px;
+	width: 960px;
+	min-height: 438px;
 	background-image: none;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #FFFFFF;
+	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 62px 261px 62px 99px;
 }
 
 #u92
@@ -23,6 +23,20 @@
 	z-index: 2;
 	width: 600px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 62px;
+	left: 99px;
+}
+
+#u97-4
+{
+	z-index: 4;
+	width: 225px;
+	min-height: 313px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 194px;
+	left: 707px;
 }
 
 body
