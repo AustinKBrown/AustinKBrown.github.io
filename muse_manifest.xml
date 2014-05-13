@@ -1,19 +1,74 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="index.css" crc="4285962802" ref="index"/>
-    <file name="about.css" crc="3866183548" ref="about"/>
+    <file name="index.css" crc="267523438" ref="index"/>
+    <file name="about.css" crc="3990624942" ref="about"/>
+    <file name="master_a-master.css" crc="4098779860" ref="painting:index:illustration:contact:small-sculptures:building-art:about:circulum-vite:other-art"/>
+    <file name="painting.css" crc="3948332077" ref="painting"/>
+    <file name="illustration.css" crc="3948332077" ref="illustration"/>
+    <file name="contact.css" crc="265228958" ref="contact"/>
+    <file name="small-sculptures.css" crc="3948332077" ref="small-sculptures"/>
+    <file name="building-art.css" crc="3986860485" ref="building-art"/>
+    <file name="circulum-vite.css" crc="3948332077" ref="circulum-vite"/>
+    <file name="other-art.css" crc="3773780701" ref="other-art"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:about"/>
-    <file name="museutils.js" crc="3880880085" ref="index:about"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index:about"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:about:building-art:other-art:circulum-vite:painting:illustration:small-sculptures:contact"/>
+    <file name="museutils.js" crc="3880880085" ref="index:about:building-art:other-art:circulum-vite:painting:illustration:small-sculptures:contact"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:about:building-art:other-art:circulum-vite:painting:illustration:small-sculptures:contact"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index:about:building-art:other-art:circulum-vite:painting:illustration:small-sculptures:contact"/>
+    <file name="pie.js" crc="4147615982" ref="building-art"/>
+    <file name="webpro.js" crc="33264525" ref="building-art"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="building-art"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="building-art"/>
+    <file name="touchswipe.js" crc="261777990" ref="building-art"/>
+    <file name="musewpdisclosure.js" crc="250538392" ref="building-art"/>
   </folder>
   <folder name="images">
-    <file name="name.png" crc="4265214133" ref="index"/>
-    <file name="balcony.jpg" crc="493527461" ref="index"/>
-    <file name="eye-screw.jpg" crc="251971071" ref="about"/>
+    <file name="name.png" crc="4265214133" ref="index:about:building-art:other-art:circulum-vite:painting:illustration:small-sculptures:contact"/>
+    <file name="balcony.jpg" crc="493527461" ref="index:building-art"/>
+    <file name="coming soon.png" crc="66150867" ref="about:other-art:contact"/>
+    <file name="austin brown.jpg" crc="3803705557" ref="building-art"/>
+    <file name="blank.gif" crc="4208392903" ref="building-art"/>
+    <file name="isaac.jpg" crc="91958523" ref="building-art"/>
+    <file name="commons overhead.jpg" crc="4017315995" ref="building-art"/>
+    <file name="number of dowels.jpg" crc="3920428454" ref="building-art"/>
+    <file name="rows smaller attempt 2.jpg" crc="4270567277" ref="building-art"/>
+    <file name="austin brown147x110.jpg" crc="451409131" ref="building-art"/>
+    <file name="balcony166x110.jpg" crc="3818858843" ref="building-art"/>
+    <file name="isaac110x166.jpg" crc="4268530628" ref="building-art"/>
+    <file name="commons overhead192x110.jpg" crc="4127215988" ref="building-art"/>
+    <file name="number of dowels177x110.jpg" crc="4033372569" ref="building-art"/>
+    <file name="loading.gif" crc="3815509949" ref="building-art"/>
+    <file name="life of an installation_1.jpg" crc="192358985" ref="building-art"/>
+    <file name="life of an installation_7.jpg" crc="4143143014" ref="building-art"/>
+    <file name="life of an installation_9.jpg" crc="45440927" ref="building-art"/>
+    <file name="life of an installation_50.jpg" crc="323839566" ref="building-art"/>
+    <file name="senior gallery panarama.jpg" crc="4054141406" ref="building-art"/>
+    <file name="life of an installation_1166x110.jpg" crc="3848393292" ref="building-art"/>
+    <file name="life of an installation_7110x166.jpg" crc="2352130" ref="building-art"/>
+    <file name="life of an installation_9166x110.jpg" crc="139120504" ref="building-art"/>
+    <file name="life of an installation_50166x110.jpg" crc="3930939435" ref="building-art"/>
+    <file name="et dices ad odorandum_1.jpg" crc="208544974" ref="building-art"/>
+    <file name="et dices ad odorandum_10.jpg" crc="4241908704" ref="building-art"/>
+    <file name="et dices ad odorandum_11.jpg" crc="4182504706" ref="building-art"/>
+    <file name="et dices ad odorandum_23.jpg" crc="4120678139" ref="building-art"/>
+    <file name="odorandum wrap_6.jpg" crc="3773722429" ref="building-art"/>
+    <file name="odorandum wrap.jpg" crc="143291262" ref="building-art"/>
+    <file name="et dices ad odorandum_1166x110.jpg" crc="3874382475" ref="building-art"/>
+    <file name="et dices ad odorandum_10166x110.jpg" crc="186385247" ref="building-art"/>
+    <file name="et dices ad odorandum_11180x110.jpg" crc="118998387" ref="building-art"/>
+    <file name="et dices ad odorandum_23110x166.jpg" crc="489986186" ref="building-art"/>
+    <file name="odorandum wrap_6110x166.jpg" crc="4012477805" ref="building-art"/>
+    <file name="odorandum wrap110x166.jpg" crc="4012022103" ref="building-art"/>
   </folder>
-  <file name="index.html" crc="153601350" mt="1399847971201" redirect="true"/>
-  <file name="about.html" crc="130483160" mt="1399848360953" redirect="true"/>
+  <file name="index.html" crc="434039944" mt="1400019244124" redirect="true"/>
+  <file name="about.html" crc="268061332" mt="1400018395693" redirect="true"/>
+  <file name="building-art.html" crc="295291041" mt="1400019316762" redirect="true"/>
+  <file name="other-art.html" crc="165484858" mt="1400018372271" redirect="true"/>
+  <file name="circulum-vite.html" crc="458277817" mt="1400015298761" redirect="true"/>
+  <file name="painting.html" crc="3765528148" mt="1400015298769" redirect="true"/>
+  <file name="illustration.html" crc="506652832" mt="1400015298771" redirect="true"/>
+  <file name="small-sculptures.html" crc="379951972" mt="1400015298772" redirect="true"/>
+  <file name="contact.html" crc="257803631" mt="1400018420073" redirect="true"/>
 </manifest>
