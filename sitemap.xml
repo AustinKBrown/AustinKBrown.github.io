@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://AustinKBrown.com/scripts/form_check.php</loc>
+    <lastmod>2014-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/scripts/form_throttle.php</loc>
+    <lastmod>2014-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/scripts/form-u2488.php</loc>
+    <lastmod>2014-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://AustinKBrown.com/images/name.png</loc>
     <lastmod>2014-05-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -8,12 +26,6 @@
   </url>
   <url>
     <loc>http://AustinKBrown.com/images/balcony.jpg</loc>
-    <lastmod>2014-05-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://AustinKBrown.com/images/coming%20soon.png</loc>
     <lastmod>2014-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -572,6 +584,36 @@
   </url>
   <url>
     <loc>http://AustinKBrown.com/images/current%20project.png</loc>
+    <lastmod>2014-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/artist-s%20hands%20sq.jpg</loc>
+    <lastmod>2014-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u2501-17.png</loc>
+    <lastmod>2014-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u2501-17-r.png</loc>
+    <lastmod>2014-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u2501-17-m.png</loc>
+    <lastmod>2014-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u2501-17-fs.png</loc>
     <lastmod>2014-05-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
