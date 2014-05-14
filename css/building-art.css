@@ -1,18 +1,13 @@
 .html
 {
-	background-color: #7F7F7F;
+	background-color: #FFFFFF;
 }
 
 #page
 {
 	z-index: 1;
 	width: 930px;
-	min-height: 416.60000000000014px;
-	background-image: none;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: #FFFFFF;
+	min-height: 216.60000000000014px;
 	margin-left: auto;
 	margin-right: auto;
 	padding: 20px 18px 63.399999999999864px 12px;
@@ -194,7 +189,7 @@
 	width: 922px;
 	border-style: none;
 	border-color: transparent;
-	background-color: #739448;
+	background-color: #FFFFFF;
 	position: relative;
 }
 
@@ -215,6 +210,7 @@
 #u616:hover
 {
 	border-style: solid;
+	border-color: #999999;
 	background-color: #FFFFFF;
 	width: 307px;
 	min-height: 20px;
@@ -222,30 +218,21 @@
 	border-width: 1px 0px 1px 1px;
 }
 
-#u616.TabbedPanelsTabSelected
-{
-	border-style: solid;
-	background-color: #FFFFFF;
-	width: 307px;
-	min-height: 21px;
-	margin: 0px -10000px 0px 0px;
-	border-width: 1px 0px 0px 1px;
-}
-
 #u618-4
 {
 	z-index: 38;
-	width: 307px;
+	width: 308px;
 	min-height: 20px;
 	border-color: #999999;
 	background-color: transparent;
 	text-align: center;
 	line-height: 20px;
-	color: #999999;
+	color: #7F7F7F;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
 	top: 1px;
+	left: -1px;
 }
 
 #u616:hover #u618-4
@@ -276,6 +263,7 @@
 {
 	border-width: 1px;
 	border-style: solid;
+	border-color: #999999;
 	background-color: #FFFFFF;
 	width: 306px;
 	min-height: 20px;
@@ -291,11 +279,11 @@
 	background-color: transparent;
 	text-align: center;
 	line-height: 20px;
-	color: #999999;
+	color: #7F7F7F;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	top: 2px;
+	top: 1px;
 }
 
 #u624:hover #u625-4
@@ -326,20 +314,21 @@
 {
 	border-width: 1px;
 	border-style: solid;
+	border-color: #999999;
 	background-color: #FFFFFF;
 	width: 306px;
 	min-height: 20px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u624.TabbedPanelsTabSelected,#u885.TabbedPanelsTabSelected
+#u616.TabbedPanelsTabSelected,#u624.TabbedPanelsTabSelected,#u885.TabbedPanelsTabSelected
 {
-	border-style: solid;
-	background-color: #FFFFFF;
-	width: 306px;
-	min-height: 21px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #EEEEEE;
+	width: 308px;
+	min-height: 22px;
 	margin: 0px -10000px 0px 0px;
-	border-width: 1px 1px 0px;
 }
 
 #u887-4
@@ -351,7 +340,7 @@
 	background-color: transparent;
 	text-align: center;
 	line-height: 20px;
-	color: #999999;
+	color: #7F7F7F;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -377,6 +366,12 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u616.TabbedPanelsTabSelected #u618-4 p,#u624.TabbedPanelsTabSelected #u625-4 p,#u885.TabbedPanelsTabSelected #u887-4 p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
 #u581
 {
 	z-index: 52;
@@ -387,14 +382,13 @@
 #u582
 {
 	z-index: 53;
-	width: 920px;
-	border-style: solid;
-	border-color: #999999;
+	width: 922px;
+	border-style: none;
+	border-color: transparent;
 	background-color: #FFFFFF;
 	padding-bottom: 415px;
 	margin-right: -10000px;
 	position: relative;
-	border-width: 0px 1px 1px;
 }
 
 #slideshowu1210
@@ -405,7 +399,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 40px;
-	left: 32px;
+	left: 33px;
 }
 
 #u1211
@@ -741,22 +735,21 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 40px;
-	left: 547px;
+	left: 548px;
 }
 
 #u586
 {
 	z-index: 130;
 	width: 854px;
-	border-style: solid;
-	border-color: #999999;
+	border-style: none;
+	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-left: 32px;
+	padding-left: 33px;
 	padding-top: 40px;
-	padding-right: 34px;
+	padding-right: 35px;
 	margin-right: -10000px;
 	position: relative;
-	border-width: 0px 1px 1px;
 }
 
 #u1519
@@ -1082,14 +1075,13 @@
 #u889
 {
 	z-index: 203;
-	width: 920px;
-	border-style: solid;
-	border-color: #999999;
+	width: 922px;
+	border-style: none;
+	border-color: transparent;
 	background-color: #FFFFFF;
 	padding-bottom: 601px;
 	margin-right: -10000px;
 	position: relative;
-	border-width: 0px 1px 1px;
 }
 
 #slideshowu895
@@ -1100,7 +1092,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 40px;
-	left: 32px;
+	left: 33px;
 }
 
 #u900
@@ -1485,7 +1477,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 40px;
-	left: 547px;
+	left: 548px;
 }
 
 #u583-2,#u946-2,#u946-3,#u894-2
@@ -1509,7 +1501,7 @@
 
 body
 {
-	padding-top: 35px;
+	padding-top: 36px;
 	padding-bottom: 36px;
 }
 

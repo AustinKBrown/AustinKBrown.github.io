@@ -1,21 +1,16 @@
 .html
 {
-	background-color: #7F7F7F;
+	background-color: #FFFFFF;
 }
 
 #page
 {
 	z-index: 1;
 	width: 928px;
-	min-height: 418px;
-	background-image: none;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: #FFFFFF;
+	min-height: 249.75367647058818px;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 20px 20px 62px 12px;
+	padding: 20px 20px 30.246323529411825px 12px;
 }
 
 #pu191
@@ -188,9 +183,18 @@
 	position: relative;
 }
 
+#u2347
+{
+	z-index: 37;
+	width: 257px;
+	margin-left: 339px;
+	margin-top: 15px;
+	position: relative;
+}
+
 body
 {
-	padding-top: 35px;
+	padding-top: 36px;
 	padding-bottom: 36px;
 }
 
