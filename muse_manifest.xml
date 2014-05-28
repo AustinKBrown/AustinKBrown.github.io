@@ -1,16 +1,16 @@
-<manifest alg="2" build="5" opt="false" iceEnabled="true">
+<manifest alg="2" build="30" opt="true" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="4023935739"/>
+    <file name="site_global.css" crc="3983832653"/>
     <file name="index.css" crc="516448295" ref="index"/>
     <file name="about.css" crc="3999902952" ref="about"/>
     <file name="master_a-master.css" crc="4098779860" ref="painting:index:illustration:contact:small-sculptures:building-art:about:circulum-vite:other-art"/>
     <file name="painting.css" crc="3942363762" ref="painting"/>
     <file name="illustration.css" crc="3942363762" ref="illustration"/>
-    <file name="contact.css" crc="85975109" ref="contact"/>
+    <file name="contact.css" crc="52619300" ref="contact"/>
     <file name="small-sculptures.css" crc="3942363762" ref="small-sculptures"/>
-    <file name="building-art.css" crc="3800789346" ref="building-art"/>
+    <file name="building-art.css" crc="524673000" ref="building-art"/>
     <file name="circulum-vite.css" crc="3942363762" ref="circulum-vite"/>
-    <file name="other-art.css" crc="100812478" ref="other-art"/>
+    <file name="other-art.css" crc="3842544997" ref="other-art"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:about:building-art:other-art:circulum-vite:painting:illustration:small-sculptures:contact"/>
@@ -23,9 +23,9 @@
     <file name="jquery.museoverlay.js" crc="466079611" ref="building-art:other-art"/>
     <file name="touchswipe.js" crc="261777990" ref="building-art:other-art"/>
     <file name="musewpdisclosure.js" crc="250538392" ref="building-art:other-art"/>
-    <file name="form_check.php" crc="39676790" ref="contact"/>
-    <file name="form_throttle.php" crc="4202036461" ref="contact"/>
-    <file name="form-u2488.php" crc="392078860" ref="contact"/>
+    <file name="form_check.php" crc="28954828" ref="contact"/>
+    <file name="form_throttle.php" crc="412380283" ref="contact"/>
+    <file name="form-u2488.php" crc="220077620" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="name.png" crc="4265214133" ref="index:about:building-art:other-art:circulum-vite:painting:illustration:small-sculptures:contact"/>
@@ -129,13 +129,13 @@
     <file name="u2501-17-m.png" crc="3802471967" ref="contact"/>
     <file name="u2501-17-fs.png" crc="432182209" ref="contact"/>
   </folder>
-  <file name="index.html" crc="4261136979" mt="1400054557082" redirect="true"/>
-  <file name="about.html" crc="3967542188" mt="1400088864671" redirect="true"/>
-  <file name="building-art.html" crc="374719889" mt="1400058406291" redirect="true"/>
-  <file name="other-art.html" crc="4124119247" mt="1400055664488" redirect="true"/>
-  <file name="circulum-vite.html" crc="458277817" mt="1400054557090" redirect="true"/>
-  <file name="painting.html" crc="3765528148" mt="1400054557092" redirect="true"/>
-  <file name="illustration.html" crc="506652832" mt="1400054557094" redirect="true"/>
-  <file name="small-sculptures.html" crc="379951972" mt="1400054557096" redirect="true"/>
-  <file name="contact.html" crc="4067073827" mt="1400088434233" redirect="true"/>
+  <file name="index.html" crc="406953195" mt="1400054557082" redirect="true"/>
+  <file name="about.html" crc="392183360" mt="1400088864671" redirect="true"/>
+  <file name="building-art.html" crc="4025716535" mt="1400058406291" redirect="true"/>
+  <file name="other-art.html" crc="36100959" mt="1400055664488" redirect="true"/>
+  <file name="circulum-vite.html" crc="3955000826" mt="1400054557090" redirect="true"/>
+  <file name="painting.html" crc="274330094" mt="1400054557092" redirect="true"/>
+  <file name="illustration.html" crc="291366272" mt="1400054557094" redirect="true"/>
+  <file name="small-sculptures.html" crc="196472151" mt="1400054557096" redirect="true"/>
+  <file name="contact.html" crc="3891429330" mt="1401254146781" redirect="true"/>
 </manifest>
