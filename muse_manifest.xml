@@ -15,23 +15,22 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="index.css" crc="4172684877" ref="index"/>
-    <file name="about.css" crc="198659488" ref="about"/>
-    <file name="master_a-master.css" crc="4025059689" ref="index:about:web-design:type-book:illustrations"/>
-    <file name="web-design.css" crc="4278510517" ref="web-design"/>
-    <file name="type-book.css" crc="3770583614" ref="type-book"/>
-    <file name="illustrations.css" crc="4047265139" ref="illustrations"/>
+    <file name="index.css" crc="3834388306" ref="index"/>
+    <file name="master_a-master.css" crc="129142442" ref="index:web-design:type-book:illustrations"/>
+    <file name="web-design.css" crc="3781195350" ref="web-design"/>
+    <file name="type-book.css" crc="4026922562" ref="type-book"/>
+    <file name="illustrations.css" crc="465036138" ref="illustrations"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:about:tablet>index:tablet>untitled-2:tablet>untitled-3:tablet>untitled-4:tablet>untitled-5:type-book:illustrations:web-design"/>
-    <file name="museutils.js" crc="3880880085" ref="index:about:tablet>index:tablet>untitled-2:tablet>untitled-3:tablet>untitled-4:tablet>untitled-5:type-book:illustrations:web-design"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index:about:tablet>index:tablet>untitled-2:tablet>untitled-3:tablet>untitled-4:tablet>untitled-5:type-book:illustrations:web-design"/>
-    <file name="jquery.musemenu.js" crc="32367222" ref="index:about:type-book:illustrations:web-design"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:type-book:illustrations:web-design:about"/>
-    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:type-book:illustrations:web-design:about"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:tablet>index:tablet>untitled-2:tablet>untitled-3:tablet>untitled-4:tablet>untitled-5:type-book:illustrations:web-design"/>
+    <file name="museutils.js" crc="3880880085" ref="index:tablet>index:tablet>untitled-2:tablet>untitled-3:tablet>untitled-4:tablet>untitled-5:type-book:illustrations:web-design"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:tablet>index:tablet>untitled-2:tablet>untitled-3:tablet>untitled-4:tablet>untitled-5:type-book:illustrations:web-design"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index:type-book:illustrations:web-design"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:type-book:illustrations:web-design"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:type-book:illustrations:web-design"/>
   </folder>
   <folder name="images">
-    <file name="name.png" crc="311407197" ref="index:about:type-book:illustrations:web-design"/>
+    <file name="name.png" crc="311407197" ref="index:type-book:illustrations:web-design"/>
     <file name="what-.jpg" crc="3847350092" ref="index"/>
     <file name="summermovies2014.jpg" crc="398688275" ref="illustrations"/>
     <file name="mad libs.jpg" crc="176639216" ref="illustrations"/>
@@ -50,11 +49,9 @@
     <file name="easter eggs bright.jpg" crc="165651286" ref="illustrations"/>
     <file name="new year 2014_533.jpg" crc="307748733" ref="web-design"/>
     <file name="skreenshot drew-s home.jpg" crc="3760399261" ref="web-design"/>
-    <file name="new year 2014_53.jpg" crc="16566713" ref="about"/>
   </folder>
-  <file name="index.html" crc="3964906865" mt="1401921426376" redirect="true"/>
-  <file name="about.html" crc="66800865" mt="1401920113989" redirect="true"/>
-  <file name="type-book.html" crc="4031040228" mt="1401921430328" redirect="true"/>
-  <file name="illustrations.html" crc="411952868" mt="1401921425705" redirect="true"/>
-  <file name="web-design.html" crc="281520840" mt="1401921426378" redirect="true"/>
+  <file name="index.html" crc="314473589" mt="1401945822811" redirect="true"/>
+  <file name="type-book.html" crc="3803380208" mt="1401945822812" redirect="true"/>
+  <file name="illustrations.html" crc="3869463834" mt="1401945822814" redirect="true"/>
+  <file name="web-design.html" crc="3930108066" mt="1401945822815" redirect="true"/>
 </manifest>

@@ -55,7 +55,7 @@
 
 #u83
 {
-	width: 182px;
+	width: 228px;
 	min-height: 34px;
 	margin-right: -10000px;
 	top: 8px;
@@ -63,12 +63,12 @@
 
 #u84
 {
-	width: 182px;
+	width: 228px;
 }
 
 #u86-4
 {
-	width: 182px;
+	width: 228px;
 	min-height: 17px;
 	margin-right: -10000px;
 }
@@ -83,15 +83,15 @@
 
 #u133
 {
-	width: 182px;
+	width: 228px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 184px;
+	left: 230px;
 }
 
 #u134
 {
-	width: 182px;
+	width: 228px;
 	padding-bottom: 17px;
 }
 
@@ -102,7 +102,7 @@
 
 #u135-4
 {
-	width: 182px;
+	width: 228px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
@@ -118,15 +118,15 @@
 
 #u149
 {
-	width: 182px;
+	width: 229px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 368px;
+	left: 460px;
 }
 
 #u152
 {
-	width: 182px;
+	width: 229px;
 	padding-bottom: 17px;
 }
 
@@ -137,7 +137,7 @@
 
 #u155-4
 {
-	width: 182px;
+	width: 229px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
@@ -153,16 +153,21 @@
 
 #u166
 {
-	width: 183px;
+	width: 229px;
 	min-height: 34px;
 	margin-right: -10000px;
 	top: 8px;
-	left: 552px;
+	left: 691px;
+}
+
+#u167
+{
+	width: 229px;
 }
 
 #u168-4
 {
-	width: 183px;
+	width: 229px;
 	min-height: 17px;
 	margin-right: -10000px;
 }
@@ -175,36 +180,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u184
-{
-	width: 183px;
-	min-height: 34px;
-	margin-right: -10000px;
-	top: 8px;
-	left: 737px;
-}
-
-#u167,#u187
-{
-	width: 183px;
-}
-
-#u190-4
-{
-	width: 183px;
-	min-height: 17px;
-	margin-right: -10000px;
-}
-
-#u167.MuseMenuActive #u168-4,#u187:hover #u190-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u187.MuseMenuActive #u190-4
+#u167.MuseMenuActive #u168-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -222,7 +198,7 @@
 
 #u376
 {
-	z-index: 39;
+	z-index: 33;
 	height: 520px;
 	width: 335px;
 	vertical-align: top;
@@ -247,7 +223,7 @@
 
 #u526
 {
-	z-index: 41;
+	z-index: 35;
 	width: 356px;
 	-pie-box-shadow: none;
 	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
@@ -268,7 +244,7 @@
 
 #u532
 {
-	z-index: 43;
+	z-index: 37;
 	width: 358px;
 	-pie-box-shadow: none;
 	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);

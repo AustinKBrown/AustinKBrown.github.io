@@ -75,6 +75,11 @@
 	visibility: inherit;
 }
 
+#u76,#menuu82,#u83,#u84,#u133,#u149,#u166,#u167
+{
+	position: relative;
+}
+
 #u168-4
 {
 	border-style: none;
@@ -92,29 +97,7 @@
 	visibility: inherit;
 }
 
-#u76,#menuu82,#u83,#u84,#u133,#u149,#u166,#u167,#u184,#u187
-{
-	position: relative;
-}
-
-#u190-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	color: #603813;
-	text-align: center;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u187:hover #u190-4 p
-{
-	color: #C7B299;
-	visibility: inherit;
-}
-
-#u84.MuseMenuActive #u86-4 p,#u134.MuseMenuActive #u135-4 p,#u152.MuseMenuActive #u155-4 p,#u167.MuseMenuActive #u168-4 p,#u187.MuseMenuActive #u190-4 p
+#u84.MuseMenuActive #u86-4 p,#u134.MuseMenuActive #u135-4 p,#u152.MuseMenuActive #u155-4 p,#u167.MuseMenuActive #u168-4 p
 {
 	color: #998675;
 	visibility: inherit;
