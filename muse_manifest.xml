@@ -1,26 +1,27 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405976087139">
   <folder name="css">
-    <file name="site_global.css" crc="3983832653"/>
+    <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="252745721" ref="index"/>
-    <file name="master_a-master.css" crc="4097465122" ref="index:about:contact:building-art:circulum-vite:other-art"/>
+    <file name="master_a-master.css" crc="199767026" ref="index:about:contact:building-art:circulum-vite:other-art"/>
     <file name="about.css" crc="3768073374" ref="about"/>
     <file name="contact.css" crc="3812122428" ref="contact"/>
-    <file name="building-art.css" crc="3854395125" ref="building-art"/>
+    <file name="building-art.css" crc="3789077534" ref="building-art"/>
     <file name="circulum-vite.css" crc="3929100349" ref="circulum-vite"/>
     <file name="other-art.css" crc="424283180" ref="other-art"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:about:building-art:other-art:circulum-vite:contact"/>
-    <file name="museutils.js" crc="3880880085" ref="index:about:building-art:other-art:circulum-vite:contact"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index:about:building-art:other-art:circulum-vite:contact"/>
-    <file name="jquery.musemenu.js" crc="32367222" ref="index:about:building-art:other-art:circulum-vite:contact"/>
-    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:about:building-art:other-art:circulum-vite:contact"/>
-    <file name="pie.js" crc="4147615982" ref="building-art:other-art"/>
-    <file name="webpro.js" crc="33264525" ref="building-art:other-art"/>
-    <file name="musewpslideshow.js" crc="272207905" ref="building-art:other-art"/>
-    <file name="jquery.museoverlay.js" crc="466079611" ref="building-art:other-art"/>
-    <file name="touchswipe.js" crc="261777990" ref="building-art:other-art"/>
-    <file name="musewpdisclosure.js" crc="250538392" ref="building-art:other-art"/>
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:about:building-art:other-art:circulum-vite:contact"/>
+    <file name="museutils.js" crc="353204447" ref="index:about:building-art:other-art:circulum-vite:contact"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="index:about:building-art:other-art:circulum-vite:contact"/>
+    <file name="jquery.musemenu.js" crc="4076024383" ref="index:about:building-art:other-art:circulum-vite:contact"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:about:other-art:circulum-vite:contact"/>
+    <file name="pie.js" crc="3827607177" ref="building-art:other-art"/>
+    <file name="webpro.js" crc="317917375" ref="building-art:other-art"/>
+    <file name="musewpslideshow.js" crc="177288662" ref="building-art:other-art"/>
+    <file name="jquery.museoverlay.js" crc="524248676" ref="building-art:other-art"/>
+    <file name="touchswipe.js" crc="367691663" ref="building-art:other-art"/>
+    <file name="musewpdisclosure.js" crc="4003881138" ref="building-art:other-art"/>
+    <file name="html5shiv.js" crc="4241844378" ref="building-art"/>
   </folder>
   <folder name="images">
     <file name="name.png" crc="311407197" ref="index:about:building-art:other-art:circulum-vite:contact"/>
@@ -35,35 +36,18 @@
     <file name="blank.gif" crc="4208392903" ref="building-art:other-art"/>
     <file name="isaac.jpg" crc="91958523" ref="building-art"/>
     <file name="commons overhead.jpg" crc="4103267527" ref="building-art"/>
-    <file name="number of dowels.jpg" crc="3920428454" ref="building-art"/>
-    <file name="rows smaller attempt 2.jpg" crc="4270567277" ref="building-art"/>
-    <file name="austin brown147x110.jpg" crc="451409131" ref="building-art"/>
-    <file name="balcony166x110.jpg" crc="3818858843" ref="building-art"/>
-    <file name="isaac110x166.jpg" crc="4268530628" ref="building-art"/>
-    <file name="commons overhead192x110.jpg" crc="4206026671" ref="building-art"/>
-    <file name="number of dowels177x110.jpg" crc="4033372569" ref="building-art"/>
     <file name="loading.gif" crc="3815509949" ref="building-art:other-art"/>
     <file name="life of an installation_1.jpg" crc="192358985" ref="building-art"/>
     <file name="life of an installation_7.jpg" crc="4143143014" ref="building-art"/>
     <file name="life of an installation_9.jpg" crc="45440927" ref="building-art"/>
     <file name="life of an installation_50.jpg" crc="323839566" ref="building-art"/>
     <file name="senior gallery panarama.jpg" crc="4054141406" ref="building-art"/>
-    <file name="life of an installation_1166x110.jpg" crc="3848393292" ref="building-art"/>
-    <file name="life of an installation_7110x166.jpg" crc="2352130" ref="building-art"/>
-    <file name="life of an installation_9166x110.jpg" crc="139120504" ref="building-art"/>
-    <file name="life of an installation_50166x110.jpg" crc="3930939435" ref="building-art"/>
     <file name="et dices ad odorandum_1.jpg" crc="208544974" ref="building-art"/>
     <file name="et dices ad odorandum_10.jpg" crc="4241908704" ref="building-art"/>
     <file name="et dices ad odorandum_11.jpg" crc="4182504706" ref="building-art"/>
     <file name="et dices ad odorandum_23.jpg" crc="4120678139" ref="building-art"/>
     <file name="odorandum wrap_6.jpg" crc="3773722429" ref="building-art"/>
     <file name="odorandum wrap.jpg" crc="143291262" ref="building-art"/>
-    <file name="et dices ad odorandum_1166x110.jpg" crc="3874382475" ref="building-art"/>
-    <file name="et dices ad odorandum_10166x110.jpg" crc="186385247" ref="building-art"/>
-    <file name="et dices ad odorandum_11180x110.jpg" crc="118998387" ref="building-art"/>
-    <file name="et dices ad odorandum_23110x166.jpg" crc="489986186" ref="building-art"/>
-    <file name="odorandum wrap_6110x166.jpg" crc="4012477805" ref="building-art"/>
-    <file name="odorandum wrap110x166.jpg" crc="4012022103" ref="building-art"/>
     <file name="barrel of sea horses.jpg" crc="4228715213" ref="other-art"/>
     <file name="boys at play.jpg" crc="3973359709" ref="other-art"/>
     <file name="girls at play.jpg" crc="452555602" ref="other-art"/>
@@ -119,10 +103,25 @@
     <file name="sketches 2110x148.jpg" crc="3838865012" ref="other-art"/>
     <file name="sketches 3148x110.jpg" crc="401078729" ref="other-art"/>
     <file name="hood wordmark sq.jpg" crc="283327464" ref="other-art"/>
+    <file name="austin brown-crop-u1381.jpg" crc="4089256222" ref="building-art"/>
+    <file name="balcony-crop-u1393.jpg" crc="4076152423" ref="building-art"/>
+    <file name="isaac-crop-u1407.jpg" crc="399525661" ref="building-art"/>
+    <file name="commons overhead-crop-u1421.jpg" crc="4226429729" ref="building-art"/>
+    <file name="life of an installation_1-crop-u1312.jpg" crc="276788268" ref="building-art"/>
+    <file name="life of an installation_7-crop-u1321.jpg" crc="4212098639" ref="building-art"/>
+    <file name="life of an installation_9-crop-u1330.jpg" crc="4239088397" ref="building-art"/>
+    <file name="life of an installation_50-crop-u1339.jpg" crc="3851177767" ref="building-art"/>
+    <file name="senior gallery panarama-crop-u1357.jpg" crc="4011148912" ref="building-art"/>
+    <file name="et dices ad odorandum_1-crop-u930.jpg" crc="99969471" ref="building-art"/>
+    <file name="et dices ad odorandum_10-crop-u1030.jpg" crc="363893759" ref="building-art"/>
+    <file name="et dices ad odorandum_11-crop-u1039.jpg" crc="52533821" ref="building-art"/>
+    <file name="et dices ad odorandum_23-crop-u1048.jpg" crc="334406583" ref="building-art"/>
+    <file name="odorandum wrap_6-crop-u1057.jpg" crc="151864548" ref="building-art"/>
+    <file name="odorandum wrap-crop-u1066.jpg" crc="414144651" ref="building-art"/>
   </folder>
   <file name="index.html" crc="101051437" mt="1405733595722" redirect="true"/>
   <file name="about.html" crc="4164871255" mt="1405733688446" redirect="true"/>
-  <file name="building-art.html" crc="3787661920" mt="1405733595730" redirect="true"/>
+  <file name="building-art.html" crc="4013373844" mt="1405976019717" redirect="true"/>
   <file name="other-art.html" crc="460006592" mt="1405733595734" redirect="true"/>
   <file name="circulum-vite.html" crc="453277066" mt="1405733595738" redirect="true"/>
   <file name="contact.html" crc="4064192307" mt="1405733659451" redirect="true"/>
