@@ -1,110 +1,190 @@
-#u549-3
+#u2524
 {
 	-pie-box-shadow: none;
-	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
-	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.5);
-	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.5);
-	border-color: #000000;
+	-moz-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 8px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+	border-style: none;
+	border-color: transparent;
 	background-color: #FFFFFF;
-	opacity: 0.65;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
-	filter: alpha(opacity=65);
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
 	position: relative;
 }
 
-#u86-4
+#u345
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u345:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u348-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #603813;
+	color: #43270C;
 	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
 	position: relative;
 }
 
-#u84:hover #u86-4 p
+#u345:hover #u348-4
 {
-	color: #C7B299;
+	background-color: transparent;
+}
+
+#u345:hover #u348-4 p
+{
+	color: #8C6239;
 	visibility: inherit;
 }
 
-#u134
+#u381
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u135-4
+#u345.MuseMenuActive,#u381:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u383-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #603813;
+	color: #43270C;
 	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
 	position: relative;
 }
 
-#u134:hover #u135-4 p
+#u345.MuseMenuActive #u348-4,#u381:hover #u383-4
 {
-	color: #C7B299;
+	background-color: transparent;
+}
+
+#u345.MuseMenuActive #u348-4 p,#u381:hover #u383-4 p
+{
+	color: #8C6239;
 	visibility: inherit;
 }
 
-#u152
+#u395
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u155-4
+#u381.MuseMenuActive,#u395:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u397-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #603813;
+	color: #43270C;
 	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
 	position: relative;
 }
 
-#u152:hover #u155-4 p
+#u381.MuseMenuActive #u383-4,#u395:hover #u397-4
 {
-	color: #C7B299;
+	background-color: transparent;
+}
+
+#u381.MuseMenuActive #u383-4 p,#u395:hover #u397-4 p
+{
+	color: #8C6239;
 	visibility: inherit;
 }
 
-#u76,#menuu82,#u83,#u84,#u133,#u149,#u166,#u167
+#u400
 {
+	background-color: transparent;
 	position: relative;
 }
 
-#u168-4
+#u395.MuseMenuActive,#u400:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u400.MuseMenuActive
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u403-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	color: #603813;
+	color: #43270C;
 	text-align: center;
+	font-size: 16px;
+	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
 	position: relative;
 }
 
-#u167:hover #u168-4 p
+#u395.MuseMenuActive #u397-4,#u400:hover #u403-4
 {
-	color: #C7B299;
+	background-color: transparent;
+}
+
+#u400.MuseMenuActive #u403-4
+{
+	background-color: transparent;
+}
+
+#u395.MuseMenuActive #u397-4 p,#u400:hover #u403-4 p
+{
+	color: #8C6239;
 	visibility: inherit;
 }
 
-#u84.MuseMenuActive #u86-4 p,#u134.MuseMenuActive #u135-4 p,#u152.MuseMenuActive #u155-4 p,#u167.MuseMenuActive #u168-4 p
+#u400.MuseMenuActive #u403-4 p
 {
-	color: #998675;
+	color: #8C6239;
 	visibility: inherit;
 }
 
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#menuu336,#u344,#u378,#u392,#u399,#u2538
+{
+	position: relative;
 }
 

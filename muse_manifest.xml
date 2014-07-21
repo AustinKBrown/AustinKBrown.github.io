@@ -1,57 +1,129 @@
 <manifest alg="2" build="30" opt="true" iceEnabled="true">
-  <folder name="tablet">
-    <folder name="css">
-      <file name="untitled-5.css" crc="227096194" ref="tablet>untitled-5"/>
-      <file name="untitled-4.css" crc="227096194" ref="tablet>untitled-4"/>
-      <file name="index.css" crc="227096194" ref="tablet>index"/>
-      <file name="untitled-2.css" crc="227096194" ref="tablet>untitled-2"/>
-      <file name="untitled-3.css" crc="227096194" ref="tablet>untitled-3"/>
-    </folder>
-    <file name="index.html" crc="259187731" mt="1401252516842" redirect="false"/>
-    <file name="untitled-2.html" crc="271727989" mt="1401252594809" redirect="false"/>
-    <file name="untitled-3.html" crc="4008463123" mt="1401252603604" redirect="false"/>
-    <file name="untitled-4.html" crc="385288225" mt="1401252610971" redirect="false"/>
-    <file name="untitled-5.html" crc="3895033415" mt="1401252618098" redirect="false"/>
-  </folder>
   <folder name="css">
     <file name="site_global.css" crc="3983832653"/>
-    <file name="index.css" crc="3834388306" ref="index"/>
-    <file name="master_a-master.css" crc="129142442" ref="index:web-design:type-book:illustrations"/>
-    <file name="web-design.css" crc="3781195350" ref="web-design"/>
-    <file name="type-book.css" crc="4026922562" ref="type-book"/>
-    <file name="illustrations.css" crc="465036138" ref="illustrations"/>
+    <file name="index.css" crc="252745721" ref="index"/>
+    <file name="master_a-master.css" crc="4097465122" ref="index:about:contact:building-art:circulum-vite:other-art"/>
+    <file name="about.css" crc="3768073374" ref="about"/>
+    <file name="contact.css" crc="3812122428" ref="contact"/>
+    <file name="building-art.css" crc="3854395125" ref="building-art"/>
+    <file name="circulum-vite.css" crc="3929100349" ref="circulum-vite"/>
+    <file name="other-art.css" crc="424283180" ref="other-art"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:tablet>index:tablet>untitled-2:tablet>untitled-3:tablet>untitled-4:tablet>untitled-5:type-book:illustrations:web-design"/>
-    <file name="museutils.js" crc="3880880085" ref="index:tablet>index:tablet>untitled-2:tablet>untitled-3:tablet>untitled-4:tablet>untitled-5:type-book:illustrations:web-design"/>
-    <file name="jquery.watch.js" crc="4199601726" ref="index:tablet>index:tablet>untitled-2:tablet>untitled-3:tablet>untitled-4:tablet>untitled-5:type-book:illustrations:web-design"/>
-    <file name="jquery.musemenu.js" crc="32367222" ref="index:type-book:illustrations:web-design"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:type-book:illustrations:web-design"/>
-    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:type-book:illustrations:web-design"/>
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:about:building-art:other-art:circulum-vite:contact"/>
+    <file name="museutils.js" crc="3880880085" ref="index:about:building-art:other-art:circulum-vite:contact"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:about:building-art:other-art:circulum-vite:contact"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index:about:building-art:other-art:circulum-vite:contact"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:about:building-art:other-art:circulum-vite:contact"/>
+    <file name="pie.js" crc="4147615982" ref="building-art:other-art"/>
+    <file name="webpro.js" crc="33264525" ref="building-art:other-art"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="building-art:other-art"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="building-art:other-art"/>
+    <file name="touchswipe.js" crc="261777990" ref="building-art:other-art"/>
+    <file name="musewpdisclosure.js" crc="250538392" ref="building-art:other-art"/>
   </folder>
   <folder name="images">
-    <file name="name.png" crc="311407197" ref="index:type-book:illustrations:web-design"/>
-    <file name="what-.jpg" crc="3847350092" ref="index"/>
-    <file name="summermovies2014.jpg" crc="398688275" ref="illustrations"/>
-    <file name="mad libs.jpg" crc="176639216" ref="illustrations"/>
-    <file name="learning to fly.jpg" crc="4239346172" ref="illustrations"/>
-    <file name="new year 2014_150.jpg" crc="15022464" ref="index"/>
-    <file name="u376.png" crc="4153330699" ref="index"/>
-    <file name="u376-r.png" crc="209990989" ref="index"/>
-    <file name="skreenshot drew-s home359x259.jpg" crc="3891887778" ref="index"/>
-    <file name="palouse falls _2.jpg" crc="4170242513" ref="type-book"/>
-    <file name="type book_3.jpg" crc="2061734" ref="type-book"/>
-    <file name="type book_8.jpg" crc="354392484" ref="type-book"/>
-    <file name="type book.jpg" crc="4004802122" ref="type-book"/>
-    <file name="type book_2-u486.png" crc="3947559650" ref="type-book"/>
-    <file name="new year 2014_220.jpg" crc="4217569734" ref="illustrations"/>
-    <file name="hood wordmark.jpg" crc="371000557" ref="illustrations"/>
-    <file name="easter eggs bright.jpg" crc="165651286" ref="illustrations"/>
-    <file name="new year 2014_533.jpg" crc="307748733" ref="web-design"/>
-    <file name="skreenshot drew-s home.jpg" crc="3760399261" ref="web-design"/>
+    <file name="name.png" crc="311407197" ref="index:about:building-art:other-art:circulum-vite:contact"/>
+    <file name="what-.jpg" crc="3880324289" ref="other-art"/>
+    <file name="summermovies2014.jpg" crc="4142367436" ref="other-art"/>
+    <file name="mad libs.jpg" crc="176639216" ref="other-art"/>
+    <file name="learning to fly.jpg" crc="3991209576" ref="other-art"/>
+    <file name="balcony.jpg" crc="493527461" ref="index:building-art"/>
+    <file name="current project.png" crc="277509866" ref="index"/>
+    <file name="artist-s hands sq.jpg" crc="91339106" ref="about:contact"/>
+    <file name="austin brown.jpg" crc="3803705557" ref="building-art"/>
+    <file name="blank.gif" crc="4208392903" ref="building-art:other-art"/>
+    <file name="isaac.jpg" crc="91958523" ref="building-art"/>
+    <file name="commons overhead.jpg" crc="4103267527" ref="building-art"/>
+    <file name="number of dowels.jpg" crc="3920428454" ref="building-art"/>
+    <file name="rows smaller attempt 2.jpg" crc="4270567277" ref="building-art"/>
+    <file name="austin brown147x110.jpg" crc="451409131" ref="building-art"/>
+    <file name="balcony166x110.jpg" crc="3818858843" ref="building-art"/>
+    <file name="isaac110x166.jpg" crc="4268530628" ref="building-art"/>
+    <file name="commons overhead192x110.jpg" crc="4206026671" ref="building-art"/>
+    <file name="number of dowels177x110.jpg" crc="4033372569" ref="building-art"/>
+    <file name="loading.gif" crc="3815509949" ref="building-art:other-art"/>
+    <file name="life of an installation_1.jpg" crc="192358985" ref="building-art"/>
+    <file name="life of an installation_7.jpg" crc="4143143014" ref="building-art"/>
+    <file name="life of an installation_9.jpg" crc="45440927" ref="building-art"/>
+    <file name="life of an installation_50.jpg" crc="323839566" ref="building-art"/>
+    <file name="senior gallery panarama.jpg" crc="4054141406" ref="building-art"/>
+    <file name="life of an installation_1166x110.jpg" crc="3848393292" ref="building-art"/>
+    <file name="life of an installation_7110x166.jpg" crc="2352130" ref="building-art"/>
+    <file name="life of an installation_9166x110.jpg" crc="139120504" ref="building-art"/>
+    <file name="life of an installation_50166x110.jpg" crc="3930939435" ref="building-art"/>
+    <file name="et dices ad odorandum_1.jpg" crc="208544974" ref="building-art"/>
+    <file name="et dices ad odorandum_10.jpg" crc="4241908704" ref="building-art"/>
+    <file name="et dices ad odorandum_11.jpg" crc="4182504706" ref="building-art"/>
+    <file name="et dices ad odorandum_23.jpg" crc="4120678139" ref="building-art"/>
+    <file name="odorandum wrap_6.jpg" crc="3773722429" ref="building-art"/>
+    <file name="odorandum wrap.jpg" crc="143291262" ref="building-art"/>
+    <file name="et dices ad odorandum_1166x110.jpg" crc="3874382475" ref="building-art"/>
+    <file name="et dices ad odorandum_10166x110.jpg" crc="186385247" ref="building-art"/>
+    <file name="et dices ad odorandum_11180x110.jpg" crc="118998387" ref="building-art"/>
+    <file name="et dices ad odorandum_23110x166.jpg" crc="489986186" ref="building-art"/>
+    <file name="odorandum wrap_6110x166.jpg" crc="4012477805" ref="building-art"/>
+    <file name="odorandum wrap110x166.jpg" crc="4012022103" ref="building-art"/>
+    <file name="barrel of sea horses.jpg" crc="4228715213" ref="other-art"/>
+    <file name="boys at play.jpg" crc="3973359709" ref="other-art"/>
+    <file name="girls at play.jpg" crc="452555602" ref="other-art"/>
+    <file name="realities loop.jpg" crc="4136838844" ref="other-art"/>
+    <file name="the old council.jpg" crc="4149284539" ref="other-art"/>
+    <file name="tree of knowledge.jpg" crc="382969590" ref="other-art"/>
+    <file name="tree of knowledge (bunny).jpg" crc="300321207" ref="other-art"/>
+    <file name="barrel of sea horses148x110.jpg" crc="71180342" ref="other-art"/>
+    <file name="boys at play165x110.jpg" crc="4115356314" ref="other-art"/>
+    <file name="girls at play116x110.jpg" crc="464896712" ref="other-art"/>
+    <file name="realities loop110x165.jpg" crc="4155089842" ref="other-art"/>
+    <file name="the old council165x110.jpg" crc="4291937394" ref="other-art"/>
+    <file name="tree of knowledge165x110.jpg" crc="272571430" ref="other-art"/>
+    <file name="tree of knowledge (bunny)165x110.jpg" crc="4195648243" ref="other-art"/>
+    <file name="prussian still life.jpg" crc="366656509" ref="other-art"/>
+    <file name="reis.jpg" crc="432006879" ref="other-art"/>
+    <file name="masks.jpg" crc="496672775" ref="other-art"/>
+    <file name="amanda.jpg" crc="4243534754" ref="other-art"/>
+    <file name="spain germany and russia.jpg" crc="4009513031" ref="other-art"/>
+    <file name="cebimde.jpg" crc="531010211" ref="other-art"/>
+    <file name="wife and husband (husband close).jpg" crc="99742353" ref="other-art"/>
+    <file name="barnacle printing bath.jpg" crc="309747535" ref="other-art"/>
+    <file name="barnacles.jpg" crc="4026987784" ref="other-art"/>
+    <file name="prussian still life110x146.jpg" crc="3849991138" ref="other-art"/>
+    <file name="reis147x110.jpg" crc="4045725309" ref="other-art"/>
+    <file name="masks110x148.jpg" crc="4015161968" ref="other-art"/>
+    <file name="amanda155x110.jpg" crc="3996570585" ref="other-art"/>
+    <file name="spain germany and russia110x110.jpg" crc="309193346" ref="other-art"/>
+    <file name="cebimde139x110.jpg" crc="3832954999" ref="other-art"/>
+    <file name="wife and husband (husband close)165x110.jpg" crc="4157065148" ref="other-art"/>
+    <file name="barnacle printing bath166x110.jpg" crc="114837264" ref="other-art"/>
+    <file name="barnacles165x110.jpg" crc="271756017" ref="other-art"/>
+    <file name="recovered image series no 1.jpg" crc="112145140" ref="other-art"/>
+    <file name="recovered image series no 5.jpg" crc="4106694950" ref="other-art"/>
+    <file name="w2ater logo.jpg" crc="4117301612" ref="other-art"/>
+    <file name="sardinia by motorcycle logo.jpg" crc="3987301421" ref="other-art"/>
+    <file name="jasiel music logo.jpg" crc="478491344" ref="other-art"/>
+    <file name="pq character designs.jpg" crc="4005027240" ref="other-art"/>
+    <file name="sketches.jpg" crc="222966902" ref="other-art"/>
+    <file name="sketches 2.jpg" crc="462975429" ref="other-art"/>
+    <file name="sketches 3.jpg" crc="3973912787" ref="other-art"/>
+    <file name="recovered image series no 1133x110.jpg" crc="403817591" ref="other-art"/>
+    <file name="recovered image series no 5110x124.jpg" crc="271500306" ref="other-art"/>
+    <file name="w2ater logo116x110.jpg" crc="4100847005" ref="other-art"/>
+    <file name="sardinia by motorcycle logo132x110.jpg" crc="49490263" ref="other-art"/>
+    <file name="jasiel music logo110x116.jpg" crc="4261010350" ref="other-art"/>
+    <file name="what-110x110.jpg" crc="66608238" ref="other-art"/>
+    <file name="pq character designs148x110.jpg" crc="173705481" ref="other-art"/>
+    <file name="summermovies2014110x165.jpg" crc="3833919808" ref="other-art"/>
+    <file name="mad libs110x147.jpg" crc="3775578315" ref="other-art"/>
+    <file name="learning to fly110x170.jpg" crc="228803532" ref="other-art"/>
+    <file name="sketches110x148.jpg" crc="99396936" ref="other-art"/>
+    <file name="sketches 2110x148.jpg" crc="3838865012" ref="other-art"/>
+    <file name="sketches 3148x110.jpg" crc="401078729" ref="other-art"/>
+    <file name="hood wordmark sq.jpg" crc="283327464" ref="other-art"/>
   </folder>
-  <file name="index.html" crc="314473589" mt="1401945822811" redirect="true"/>
-  <file name="type-book.html" crc="3803380208" mt="1401945822812" redirect="true"/>
-  <file name="illustrations.html" crc="3869463834" mt="1401945822814" redirect="true"/>
-  <file name="web-design.html" crc="3930108066" mt="1401945822815" redirect="true"/>
+  <file name="index.html" crc="101051437" mt="1405733595722" redirect="true"/>
+  <file name="about.html" crc="4164871255" mt="1405733688446" redirect="true"/>
+  <file name="building-art.html" crc="3787661920" mt="1405733595730" redirect="true"/>
+  <file name="other-art.html" crc="460006592" mt="1405733595734" redirect="true"/>
+  <file name="circulum-vite.html" crc="453277066" mt="1405733595738" redirect="true"/>
+  <file name="contact.html" crc="4064192307" mt="1405733659451" redirect="true"/>
 </manifest>
