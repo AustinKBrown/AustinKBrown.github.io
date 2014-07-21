@@ -1,3 +1,9 @@
+.version.about /* version checker */
+{
+	color: #0000FF;
+	background-color: #B52F5A;
+}
+
 .html
 {
 	background-color: #FFFFFF;
@@ -15,22 +21,19 @@
 #page_position_content
 {
 	margin-top: -36px;
-	margin-bottom: 62px;
+	padding-bottom: 62px;
 }
 
 #pu2524
 {
 	width: 0.01px;
-	left: -100px;
-	position: relative;
+	margin-left: -100px;
 }
 
-#u2524
+#u2524,#u2524-bw
 {
 	z-index: 2;
-	width: 1160px;
 	height: 147px;
-	margin-right: -10000px;
 }
 
 #menuu336
@@ -204,7 +207,6 @@
 	width: 0.01px;
 	margin-left: 20px;
 	margin-top: 49px;
-	position: relative;
 }
 
 #u2553
@@ -267,12 +269,14 @@
 	font-style: italic;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 116px;
-	left: 153px;
+	margin-top: 222px;
+	left: 149px;
 }
 
 body
 {
+	position: relative;
+	min-width: 960px;
 	padding-top: 36px;
 	padding-bottom: 36px;
 }

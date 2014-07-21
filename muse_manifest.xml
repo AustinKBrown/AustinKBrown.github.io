@@ -1,9 +1,9 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405976087139">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405976224301">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="252745721" ref="index"/>
     <file name="master_a-master.css" crc="199767026" ref="index:about:contact:building-art:circulum-vite:other-art"/>
-    <file name="about.css" crc="3768073374" ref="about"/>
+    <file name="about.css" crc="4290064218" ref="about"/>
     <file name="contact.css" crc="3812122428" ref="contact"/>
     <file name="building-art.css" crc="3789077534" ref="building-art"/>
     <file name="circulum-vite.css" crc="3929100349" ref="circulum-vite"/>
@@ -14,14 +14,14 @@
     <file name="museutils.js" crc="353204447" ref="index:about:building-art:other-art:circulum-vite:contact"/>
     <file name="jquery.watch.js" crc="3923049248" ref="index:about:building-art:other-art:circulum-vite:contact"/>
     <file name="jquery.musemenu.js" crc="4076024383" ref="index:about:building-art:other-art:circulum-vite:contact"/>
-    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:about:other-art:circulum-vite:contact"/>
+    <file name="jquery.tobrowserwidth.js" crc="152985095" ref="index:other-art:circulum-vite:contact"/>
     <file name="pie.js" crc="3827607177" ref="building-art:other-art"/>
     <file name="webpro.js" crc="317917375" ref="building-art:other-art"/>
     <file name="musewpslideshow.js" crc="177288662" ref="building-art:other-art"/>
     <file name="jquery.museoverlay.js" crc="524248676" ref="building-art:other-art"/>
     <file name="touchswipe.js" crc="367691663" ref="building-art:other-art"/>
     <file name="musewpdisclosure.js" crc="4003881138" ref="building-art:other-art"/>
-    <file name="html5shiv.js" crc="4241844378" ref="building-art"/>
+    <file name="html5shiv.js" crc="4241844378" ref="building-art:about"/>
   </folder>
   <folder name="images">
     <file name="name.png" crc="311407197" ref="index:about:building-art:other-art:circulum-vite:contact"/>
@@ -120,7 +120,7 @@
     <file name="odorandum wrap-crop-u1066.jpg" crc="414144651" ref="building-art"/>
   </folder>
   <file name="index.html" crc="101051437" mt="1405733595722" redirect="true"/>
-  <file name="about.html" crc="4164871255" mt="1405733688446" redirect="true"/>
+  <file name="about.html" crc="4032000846" mt="1405976191553" redirect="true"/>
   <file name="building-art.html" crc="4013373844" mt="1405976019717" redirect="true"/>
   <file name="other-art.html" crc="460006592" mt="1405733595734" redirect="true"/>
   <file name="circulum-vite.html" crc="453277066" mt="1405733595738" redirect="true"/>
