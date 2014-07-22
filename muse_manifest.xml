@@ -1,4 +1,4 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405989810989">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405989978573">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="95512391" ref="index"/>
@@ -7,7 +7,7 @@
     <file name="circulum-vite.css" crc="3987985985" ref="circulum-vite"/>
     <file name="other-art.css" crc="233456870" ref="other-art"/>
     <file name="master_b-master.css" crc="278561077" ref="about:index:recent-works"/>
-    <file name="recent-works.css" crc="91908881" ref="recent-works"/>
+    <file name="recent-works.css" crc="60755637" ref="recent-works"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:about:other-art:circulum-vite:recent-works"/>
@@ -121,5 +121,5 @@
   <file name="about.html" crc="4051025594" mt="1405989151007" redirect="true"/>
   <file name="other-art.html" crc="399355767" mt="1405988907886" redirect="true"/>
   <file name="circulum-vite.html" crc="435868279" mt="1405988907887" redirect="true"/>
-  <file name="recent-works.html" crc="4276074438" mt="1405989797440" redirect="true"/>
+  <file name="recent-works.html" crc="3837785637" mt="1405989962402" redirect="true"/>
 </manifest>
