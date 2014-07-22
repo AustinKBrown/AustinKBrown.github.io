@@ -1,13 +1,13 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405990953336">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405991062782">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
-    <file name="index.css" crc="95512391" ref="index"/>
+    <file name="index.css" crc="466815277" ref="index"/>
     <file name="master_a-master.css" crc="4147504972" ref="circulum-vite:other-art"/>
-    <file name="about.css" crc="3902611763" ref="about"/>
+    <file name="about.css" crc="716911" ref="about"/>
     <file name="circulum-vite.css" crc="3987985985" ref="circulum-vite"/>
     <file name="other-art.css" crc="233456870" ref="other-art"/>
     <file name="master_b-master.css" crc="278561077" ref="about:index:recent-works"/>
-    <file name="recent-works.css" crc="300697377" ref="recent-works"/>
+    <file name="recent-works.css" crc="197923229" ref="recent-works"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:about:other-art:circulum-vite:recent-works"/>
@@ -28,7 +28,7 @@
     <file name="summermovies2014.jpg" crc="4142367436" ref="other-art"/>
     <file name="mad libs.jpg" crc="176639216" ref="other-art"/>
     <file name="learning to fly.jpg" crc="3826621138" ref="other-art"/>
-    <file name="balcony.jpg" crc="493527461" ref="index:recent-works"/>
+    <file name="balcony.jpg" crc="493527461" ref="index"/>
     <file name="artist-s hands sq.jpg" crc="91339106" ref="about"/>
     <file name="austin brown.jpg" crc="3803705557" ref="recent-works"/>
     <file name="blank.gif" crc="4208392903" ref="other-art:recent-works"/>
@@ -116,10 +116,11 @@
     <file name="sketches-crop-u2179.jpg" crc="4162085209" ref="other-art"/>
     <file name="sketches 2-crop-u2188.jpg" crc="221695285" ref="other-art"/>
     <file name="sketches 3-crop-u2197.jpg" crc="70478315" ref="other-art"/>
+    <file name="balcony2.jpg" crc="493527461" ref="recent-works"/>
   </folder>
-  <file name="index.html" crc="141795378" mt="1405989105984" redirect="true"/>
-  <file name="about.html" crc="4051025594" mt="1405989151007" redirect="true"/>
+  <file name="index.html" crc="4159067878" mt="1405991051667" redirect="true"/>
+  <file name="about.html" crc="4130156511" mt="1405991051668" redirect="true"/>
   <file name="other-art.html" crc="399355767" mt="1405988907886" redirect="true"/>
   <file name="circulum-vite.html" crc="435868279" mt="1405988907887" redirect="true"/>
-  <file name="recent-works.html" crc="213467094" mt="1405990933447" redirect="true"/>
+  <file name="recent-works.html" crc="89453408" mt="1405991051669" redirect="true"/>
 </manifest>

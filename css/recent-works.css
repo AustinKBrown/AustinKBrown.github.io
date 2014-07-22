@@ -1,7 +1,7 @@
 .version.recent_works /* version checker */
 {
-	color: #000011;
-	background-color: #EC4721;
+	color: #00000B;
+	background-color: #CC119D;
 }
 
 .html
@@ -19,15 +19,6 @@
 	margin-right: auto;
 }
 
-#pu2656
-{
-	width: 0.01px;
-	padding-bottom: 73px;
-	margin-right: -10000px;
-	margin-top: -37px;
-	margin-left: -100px;
-}
-
 #u2656
 {
 	z-index: 231;
@@ -38,15 +29,6 @@
 #u2656-bw
 {
 	z-index: 231;
-}
-
-#u2686
-{
-	z-index: 251;
-	width: 380px;
-	top: 26px;
-	left: 50%;
-	margin-left: -481px;
 }
 
 #tab-panelu580
@@ -1239,13 +1221,31 @@
 	cursor: pointer;
 }
 
+#pu2686
+{
+	width: 0.01px;
+	padding-bottom: 24px;
+	margin-right: -10000px;
+	margin-top: -10px;
+	margin-left: 19px;
+}
+
+#u2686
+{
+	z-index: 251;
+	width: 380px;
+	top: 26px;
+	left: 50%;
+	margin-left: -461px;
+}
+
 #menuu2657
 {
 	z-index: 232;
 	width: 622px;
 	top: 30px;
 	left: 50%;
-	margin-left: -95px;
+	margin-left: -82px;
 }
 
 #u2672
