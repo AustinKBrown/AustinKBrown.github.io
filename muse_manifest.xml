@@ -1,4 +1,4 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405990583391">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405990953336">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="95512391" ref="index"/>
@@ -7,7 +7,7 @@
     <file name="circulum-vite.css" crc="3987985985" ref="circulum-vite"/>
     <file name="other-art.css" crc="233456870" ref="other-art"/>
     <file name="master_b-master.css" crc="278561077" ref="about:index:recent-works"/>
-    <file name="recent-works.css" crc="4148163570" ref="recent-works"/>
+    <file name="recent-works.css" crc="300697377" ref="recent-works"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:about:other-art:circulum-vite:recent-works"/>
@@ -84,11 +84,11 @@
     <file name="balcony-crop-u1393.jpg" crc="3859837496" ref="recent-works"/>
     <file name="isaac-crop-u1407.jpg" crc="4106319773" ref="recent-works"/>
     <file name="commons overhead-crop-u1421.jpg" crc="4027759628" ref="recent-works"/>
-    <file name="life of an installation_1-crop-u1312.jpg" crc="4090822180" ref="recent-works"/>
-    <file name="life of an installation_7-crop-u1321.jpg" crc="4004086912" ref="recent-works"/>
-    <file name="life of an installation_9-crop-u1330.jpg" crc="3895522121" ref="recent-works"/>
-    <file name="life of an installation_50-crop-u1339.jpg" crc="4185287547" ref="recent-works"/>
-    <file name="senior gallery panarama-crop-u1357.jpg" crc="245513563" ref="recent-works"/>
+    <file name="life of an installation_1-crop-u1312.jpg" crc="530840059" ref="recent-works"/>
+    <file name="life of an installation_7-crop-u1321.jpg" crc="3980363641" ref="recent-works"/>
+    <file name="life of an installation_9-crop-u1330.jpg" crc="3763586202" ref="recent-works"/>
+    <file name="life of an installation_50-crop-u1339.jpg" crc="485713718" ref="recent-works"/>
+    <file name="senior gallery panarama-crop-u1357.jpg" crc="3791491826" ref="recent-works"/>
     <file name="et dices ad odorandum_1-crop-u930.jpg" crc="58322432" ref="recent-works"/>
     <file name="et dices ad odorandum_10-crop-u1030.jpg" crc="471543981" ref="recent-works"/>
     <file name="et dices ad odorandum_11-crop-u1039.jpg" crc="466072571" ref="recent-works"/>
@@ -121,5 +121,5 @@
   <file name="about.html" crc="4051025594" mt="1405989151007" redirect="true"/>
   <file name="other-art.html" crc="399355767" mt="1405988907886" redirect="true"/>
   <file name="circulum-vite.html" crc="435868279" mt="1405988907887" redirect="true"/>
-  <file name="recent-works.html" crc="4173276596" mt="1405990513266" redirect="true"/>
+  <file name="recent-works.html" crc="213467094" mt="1405990933447" redirect="true"/>
 </manifest>
