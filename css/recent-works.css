@@ -1,7 +1,7 @@
 .version.recent_works /* version checker */
 {
-	color: #000003;
-	background-color: #9F0EB5;
+	color: #0000F7;
+	background-color: #3FF3F2;
 }
 
 .html
@@ -55,7 +55,7 @@
 	width: 1012px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 82px;
+	margin-top: 72px;
 	left: 10px;
 }
 
@@ -195,7 +195,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-bottom: 473px;
+	padding-bottom: 270px;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -493,26 +493,12 @@
 #u586
 {
 	z-index: 81;
-	width: 887px;
+	width: 1012px;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-left: 43px;
-	padding-right: 82px;
-	padding-bottom: 7px;
+	padding-bottom: 50px;
 	margin-right: -10000px;
-	position: relative;
-}
-
-#u1519
-{
-	z-index: 153;
-	width: 853px;
-	min-height: 484px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-left: 17px;
 	position: relative;
 }
 
@@ -521,8 +507,10 @@
 	z-index: 97;
 	width: 0.01px;
 	height: 203px;
-	margin-top: 28px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 34px;
+	left: 43px;
 }
 
 #u1073
@@ -534,7 +522,7 @@
 	border-color: transparent;
 	background-color: #191919;
 	background-color: rgba(0, 0, 0, 0.9);
-	top: -177px;
+	top: -147px;
 	left: -65px;
 	-pie-background: rgba(0, 0, 0, 0.9);
 }
@@ -690,7 +678,7 @@
 {
 	position: absolute;
 	width: 340px;
-	top: 462px;
+	top: 492px;
 	left: 156px;
 }
 
@@ -768,7 +756,7 @@
 	color: #FFFFFF;
 	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 462px;
+	top: 492px;
 	left: 506px;
 }
 
@@ -786,7 +774,7 @@
 	color: #FFFFFF;
 	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 462px;
+	top: 492px;
 	left: 606px;
 }
 
@@ -804,7 +792,7 @@
 	color: #FFFFFF;
 	line-height: 20px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 462px;
+	top: 492px;
 	left: 536px;
 }
 
@@ -816,11 +804,27 @@
 #u946-15
 {
 	z-index: 82;
-	width: 844px;
+	width: 308px;
 	min-height: 284px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-top: 8px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 237px;
+	left: 48px;
+}
+
+#u2772
+{
+	z-index: 153;
+	width: 560px;
+	min-height: 319px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 237px;
+	left: 370px;
 }
 
 #u889
@@ -830,7 +834,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	padding-bottom: 633px;
+	padding-bottom: 430px;
 	margin-right: -10000px;
 	position: relative;
 }
