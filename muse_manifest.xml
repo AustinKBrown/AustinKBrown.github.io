@@ -1,4 +1,4 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405989164934">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1405989810989">
   <folder name="css">
     <file name="site_global.css" crc="475048684"/>
     <file name="index.css" crc="95512391" ref="index"/>
@@ -7,7 +7,7 @@
     <file name="circulum-vite.css" crc="3987985985" ref="circulum-vite"/>
     <file name="other-art.css" crc="233456870" ref="other-art"/>
     <file name="master_b-master.css" crc="278561077" ref="about:index:recent-works"/>
-    <file name="recent-works.css" crc="3830277316" ref="recent-works"/>
+    <file name="recent-works.css" crc="91908881" ref="recent-works"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:about:other-art:circulum-vite:recent-works"/>
@@ -28,7 +28,7 @@
     <file name="summermovies2014.jpg" crc="4142367436" ref="other-art"/>
     <file name="mad libs.jpg" crc="176639216" ref="other-art"/>
     <file name="learning to fly.jpg" crc="3826621138" ref="other-art"/>
-    <file name="balcony.jpg" crc="493527461" ref="index"/>
+    <file name="balcony.jpg" crc="493527461" ref="index:recent-works"/>
     <file name="artist-s hands sq.jpg" crc="91339106" ref="about"/>
     <file name="austin brown.jpg" crc="3803705557" ref="recent-works"/>
     <file name="blank.gif" crc="4208392903" ref="other-art:recent-works"/>
@@ -80,22 +80,21 @@
     <file name="jasiel music logo110x116.jpg" crc="292050636" ref="other-art"/>
     <file name="what-110x110.jpg" crc="3846328536" ref="other-art"/>
     <file name="hood wordmark sq.jpg" crc="283327464" ref="other-art"/>
-    <file name="austin brown-crop-u1381.jpg" crc="4089256222" ref="recent-works"/>
-    <file name="balcony-crop-u1393.jpg" crc="4076152423" ref="recent-works"/>
-    <file name="isaac-crop-u1407.jpg" crc="399525661" ref="recent-works"/>
-    <file name="commons overhead-crop-u1421.jpg" crc="4226429729" ref="recent-works"/>
-    <file name="life of an installation_1-crop-u1312.jpg" crc="276788268" ref="recent-works"/>
-    <file name="life of an installation_7-crop-u1321.jpg" crc="4212098639" ref="recent-works"/>
-    <file name="life of an installation_9-crop-u1330.jpg" crc="4239088397" ref="recent-works"/>
-    <file name="life of an installation_50-crop-u1339.jpg" crc="3851177767" ref="recent-works"/>
-    <file name="senior gallery panarama-crop-u1357.jpg" crc="4011148912" ref="recent-works"/>
-    <file name="et dices ad odorandum_1-crop-u930.jpg" crc="99969471" ref="recent-works"/>
-    <file name="et dices ad odorandum_10-crop-u1030.jpg" crc="363893759" ref="recent-works"/>
-    <file name="et dices ad odorandum_11-crop-u1039.jpg" crc="52533821" ref="recent-works"/>
-    <file name="et dices ad odorandum_23-crop-u1048.jpg" crc="334406583" ref="recent-works"/>
-    <file name="odorandum wrap_6-crop-u1057.jpg" crc="151864548" ref="recent-works"/>
-    <file name="odorandum wrap-crop-u1066.jpg" crc="414144651" ref="recent-works"/>
-    <file name="balcony2.jpg" crc="493527461" ref="recent-works"/>
+    <file name="austin brown-crop-u1381.jpg" crc="190905235" ref="recent-works"/>
+    <file name="balcony-crop-u1393.jpg" crc="3859837496" ref="recent-works"/>
+    <file name="isaac-crop-u1407.jpg" crc="4106319773" ref="recent-works"/>
+    <file name="commons overhead-crop-u1421.jpg" crc="4027759628" ref="recent-works"/>
+    <file name="life of an installation_1-crop-u1312.jpg" crc="4090822180" ref="recent-works"/>
+    <file name="life of an installation_7-crop-u1321.jpg" crc="4004086912" ref="recent-works"/>
+    <file name="life of an installation_9-crop-u1330.jpg" crc="3895522121" ref="recent-works"/>
+    <file name="life of an installation_50-crop-u1339.jpg" crc="4185287547" ref="recent-works"/>
+    <file name="senior gallery panarama-crop-u1357.jpg" crc="245513563" ref="recent-works"/>
+    <file name="et dices ad odorandum_1-crop-u930.jpg" crc="58322432" ref="recent-works"/>
+    <file name="et dices ad odorandum_10-crop-u1030.jpg" crc="471543981" ref="recent-works"/>
+    <file name="et dices ad odorandum_11-crop-u1039.jpg" crc="466072571" ref="recent-works"/>
+    <file name="et dices ad odorandum_23-crop-u1048.jpg" crc="510147102" ref="recent-works"/>
+    <file name="odorandum wrap_6-crop-u1057.jpg" crc="17895856" ref="recent-works"/>
+    <file name="odorandum wrap-crop-u1066.jpg" crc="453369750" ref="recent-works"/>
     <file name="barrel of sea horses-crop-u2063.jpg" crc="3773068030" ref="other-art"/>
     <file name="boys at play-crop-u2072.jpg" crc="4157860580" ref="other-art"/>
     <file name="realities loop-crop-u2090.jpg" crc="3889015656" ref="other-art"/>
@@ -122,5 +121,5 @@
   <file name="about.html" crc="4051025594" mt="1405989151007" redirect="true"/>
   <file name="other-art.html" crc="399355767" mt="1405988907886" redirect="true"/>
   <file name="circulum-vite.html" crc="435868279" mt="1405988907887" redirect="true"/>
-  <file name="recent-works.html" crc="4218198525" mt="1405989123689" redirect="true"/>
+  <file name="recent-works.html" crc="4276074438" mt="1405989797440" redirect="true"/>
 </manifest>
