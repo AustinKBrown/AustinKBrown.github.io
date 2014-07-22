@@ -1,15 +1,9 @@
 #u2524
 {
-	-pie-box-shadow: none;
-	-moz-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
-	-webkit-box-shadow: 0px 8px 8px -1px rgba(0, 0, 0, 0.5);
-	box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
 	border-style: none;
 	border-color: transparent;
 	background-color: #FFFFFF;
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
+	position: fixed;
 }
 
 #u345
@@ -86,6 +80,11 @@
 	visibility: inherit;
 }
 
+#u344,#u378,#u392
+{
+	position: relative;
+}
+
 #u395
 {
 	background-color: transparent;
@@ -93,6 +92,12 @@
 }
 
 #u381.MuseMenuActive,#u395:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u395.MuseMenuActive
 {
 	border-style: none;
 	border-color: transparent;
@@ -117,61 +122,18 @@
 	background-color: transparent;
 }
 
+#u395.MuseMenuActive #u397-4
+{
+	background-color: transparent;
+}
+
 #u381.MuseMenuActive #u383-4 p,#u395:hover #u397-4 p
 {
 	color: #8C6239;
 	visibility: inherit;
 }
 
-#u400
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u395.MuseMenuActive,#u400:hover
-{
-	border-style: none;
-	border-color: transparent;
-}
-
-#u400.MuseMenuActive
-{
-	border-style: none;
-	border-color: transparent;
-}
-
-#u403-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 19px;
-	color: #43270C;
-	font-size: 16px;
-	text-align: center;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: bold;
-	position: relative;
-}
-
-#u395.MuseMenuActive #u397-4,#u400:hover #u403-4
-{
-	background-color: transparent;
-}
-
-#u400.MuseMenuActive #u403-4
-{
-	background-color: transparent;
-}
-
-#u395.MuseMenuActive #u397-4 p,#u400:hover #u403-4 p
-{
-	color: #8C6239;
-	visibility: inherit;
-}
-
-#u400.MuseMenuActive #u403-4 p
+#u395.MuseMenuActive #u397-4 p
 {
 	color: #8C6239;
 	visibility: inherit;
@@ -182,8 +144,8 @@
 	cursor: pointer;
 }
 
-#menuu336,#u344,#u378,#u392,#u399,#u2538
+#menuu336,#u2538
 {
-	position: relative;
+	position: fixed;
 }
 

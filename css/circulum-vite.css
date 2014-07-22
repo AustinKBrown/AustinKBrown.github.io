@@ -1,3 +1,9 @@
+.version.circulum_vite /* version checker */
+{
+	color: #0000ED;
+	background-color: #B3D641;
+}
+
 .html
 {
 	background-color: #FFFFFF;
@@ -7,8 +13,8 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 111px;
-	padding-bottom: 189px;
+	min-height: 0px;
+	padding-bottom: 300px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -16,32 +22,34 @@
 #u2524
 {
 	z-index: 2;
-	width: 1160px;
 	height: 147px;
-	margin-right: -10000px;
-	margin-top: -36px;
-	left: -100px;
+	top: 0px;
+}
+
+#u2524-bw
+{
+	z-index: 2;
 }
 
 #menuu336
 {
 	z-index: 3;
 	width: 920px;
-	margin-right: -10000px;
-	margin-top: 62px;
-	left: 20px;
+	top: 98px;
+	left: 50%;
+	margin-left: -460px;
 }
 
 #u344
 {
-	width: 228px;
+	width: 305px;
 	min-height: 20px;
 	margin-right: -10000px;
 }
 
 #u345
 {
-	width: 228px;
+	width: 305px;
 	padding-bottom: 1px;
 }
 
@@ -52,7 +60,7 @@
 
 #u348-4
 {
-	width: 228px;
+	width: 305px;
 	min-height: 19px;
 	margin-right: -10000px;
 }
@@ -67,15 +75,15 @@
 
 #u378
 {
-	width: 228px;
+	width: 305px;
 	min-height: 20px;
 	margin-right: -10000px;
-	left: 230px;
+	left: 307px;
 }
 
 #u381
 {
-	width: 228px;
+	width: 305px;
 	padding-bottom: 1px;
 }
 
@@ -86,7 +94,7 @@
 
 #u383-4
 {
-	width: 228px;
+	width: 305px;
 	min-height: 19px;
 	margin-right: -10000px;
 }
@@ -101,15 +109,15 @@
 
 #u392
 {
-	width: 229px;
+	width: 306px;
 	min-height: 20px;
 	margin-right: -10000px;
-	left: 460px;
+	left: 614px;
 }
 
 #u395
 {
-	width: 229px;
+	width: 306px;
 	padding-bottom: 1px;
 }
 
@@ -118,9 +126,14 @@
 	margin: 0px;
 }
 
+#u395.MuseMenuActive
+{
+	margin: 0px;
+}
+
 #u397-4
 {
-	width: 229px;
+	width: 306px;
 	min-height: 19px;
 	margin-right: -10000px;
 }
@@ -133,46 +146,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u399
-{
-	width: 229px;
-	min-height: 20px;
-	margin-right: -10000px;
-	left: 691px;
-}
-
-#u400
-{
-	width: 229px;
-	padding-bottom: 1px;
-}
-
-#u395.MuseMenuActive,#u400:hover
-{
-	margin: 0px;
-}
-
-#u400.MuseMenuActive
-{
-	margin: 0px;
-}
-
-#u403-4
-{
-	width: 229px;
-	min-height: 19px;
-	margin-right: -10000px;
-}
-
-#u395.MuseMenuActive #u397-4,#u400:hover #u403-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u400.MuseMenuActive #u403-4
+#u395.MuseMenuActive #u397-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -182,14 +156,17 @@
 
 #u2538
 {
-	z-index: 28;
+	z-index: 22;
 	width: 475px;
-	margin-right: -10000px;
-	left: 243px;
+	top: 36px;
+	left: 50%;
+	margin-left: -238px;
 }
 
 body
 {
+	position: relative;
+	min-width: 960px;
 	padding-top: 36px;
 	padding-bottom: 36px;
 }
