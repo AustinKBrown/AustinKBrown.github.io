@@ -1,13 +1,13 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406448082345">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406448224457">
   <folder name="css">
     <file name="site_global.css" crc="18571611"/>
-    <file name="index.css" crc="34860383" ref="index"/>
-    <file name="master_a-master.css" crc="420486871" ref="circulum-vite:other-art:about:miscellaneous-gallery:public-sculpture:index"/>
-    <file name="about.css" crc="504884152" ref="about"/>
-    <file name="circulum-vite.css" crc="4195781088" ref="circulum-vite"/>
-    <file name="other-art.css" crc="3828093807" ref="other-art"/>
-    <file name="miscellaneous-gallery.css" crc="4004253699" ref="miscellaneous-gallery"/>
-    <file name="public-sculpture.css" crc="3761442288" ref="public-sculpture"/>
+    <file name="index.css" crc="256914174" ref="index"/>
+    <file name="master_a-master.css" crc="404836001" ref="circulum-vite:other-art:about:miscellaneous-gallery:public-sculpture:index"/>
+    <file name="about.css" crc="4106041183" ref="about"/>
+    <file name="circulum-vite.css" crc="427298391" ref="circulum-vite"/>
+    <file name="other-art.css" crc="35189520" ref="other-art"/>
+    <file name="miscellaneous-gallery.css" crc="4165586131" ref="miscellaneous-gallery"/>
+    <file name="public-sculpture.css" crc="459571910" ref="public-sculpture"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery"/>
@@ -133,10 +133,10 @@
     <file name="what-2.jpg" crc="3847350092" ref="miscellaneous-gallery"/>
     <file name="wife and husband (husband close)2.jpg" crc="99742353" ref="miscellaneous-gallery"/>
   </folder>
-  <file name="index.html" crc="4137774300" mt="1406439289224" redirect="true"/>
-  <file name="about.html" crc="165692915" mt="1406439289225" redirect="true"/>
-  <file name="other-art.html" crc="4057985234" mt="1406439289227" redirect="true"/>
-  <file name="circulum-vite.html" crc="4244403199" mt="1406439289227" redirect="true"/>
-  <file name="public-sculpture.html" crc="116060917" mt="1406447316748" redirect="true"/>
-  <file name="miscellaneous-gallery.html" crc="96577885" mt="1406448062161" redirect="true"/>
+  <file name="index.html" crc="4137774300" mt="1406448197549" redirect="true"/>
+  <file name="about.html" crc="165692915" mt="1406448197550" redirect="true"/>
+  <file name="other-art.html" crc="4057985234" mt="1406448197552" redirect="true"/>
+  <file name="circulum-vite.html" crc="4244403199" mt="1406448197552" redirect="true"/>
+  <file name="public-sculpture.html" crc="116060917" mt="1406448205618" redirect="true"/>
+  <file name="miscellaneous-gallery.html" crc="96577885" mt="1406448197553" redirect="true"/>
 </manifest>

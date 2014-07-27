@@ -1,7 +1,7 @@
 .version.public_sculpture /* version checker */
 {
-	color: #0000E0;
-	background-color: #330DF0;
+	color: #00001B;
+	background-color: #6482C6;
 }
 
 .html
@@ -31,7 +31,7 @@
 #u2524
 {
 	z-index: 232;
-	height: 108px;
+	height: 109px;
 	top: 0px;
 }
 
@@ -218,21 +218,20 @@
 #u2910
 {
 	z-index: 2;
-	height: 162px;
+	height: 163px;
 	-pie-box-shadow: 0px 8px 8px #7F7F7F;
 	-moz-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
 	-webkit-box-shadow: 0px 8px 8px -1px rgba(0, 0, 0, 0.5);
 	box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
+	border-style: none;
+	border-color: transparent;
 	background-color: #754C24;
 }
 
 #u2910-bw
 {
 	z-index: 2;
-	height: 164px;
+	height: 163px;
 }
 
 #tab-panelu580
