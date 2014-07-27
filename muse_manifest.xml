@@ -1,4 +1,4 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406448224457">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406448360493">
   <folder name="css">
     <file name="site_global.css" crc="18571611"/>
     <file name="index.css" crc="256914174" ref="index"/>
@@ -6,7 +6,7 @@
     <file name="about.css" crc="4106041183" ref="about"/>
     <file name="circulum-vite.css" crc="427298391" ref="circulum-vite"/>
     <file name="other-art.css" crc="35189520" ref="other-art"/>
-    <file name="miscellaneous-gallery.css" crc="4165586131" ref="miscellaneous-gallery"/>
+    <file name="miscellaneous-gallery.css" crc="4236577079" ref="miscellaneous-gallery"/>
     <file name="public-sculpture.css" crc="459571910" ref="public-sculpture"/>
   </folder>
   <folder name="scripts">
@@ -14,7 +14,7 @@
     <file name="museutils.js" crc="353204447" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery"/>
     <file name="jquery.watch.js" crc="3923049248" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery"/>
     <file name="jquery.musemenu.js" crc="4076024383" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery"/>
-    <file name="pie.js" crc="3827607177" ref="other-art:index:public-sculpture"/>
+    <file name="pie.js" crc="3827607177" ref="other-art:index:public-sculpture:miscellaneous-gallery"/>
     <file name="webpro.js" crc="317917375" ref="other-art:public-sculpture:miscellaneous-gallery"/>
     <file name="musewpslideshow.js" crc="177288662" ref="other-art:public-sculpture:miscellaneous-gallery"/>
     <file name="jquery.museoverlay.js" crc="524248676" ref="other-art:public-sculpture:miscellaneous-gallery"/>
@@ -24,10 +24,10 @@
   </folder>
   <folder name="images">
     <file name="name.png" crc="311407197" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery"/>
-    <file name="what-.jpg" crc="3880324289" ref="other-art"/>
+    <file name="what-.jpg" crc="3847350092" ref="other-art:miscellaneous-gallery"/>
     <file name="summermovies2014.jpg" crc="4142367436" ref="other-art"/>
-    <file name="mad libs.jpg" crc="176639216" ref="other-art"/>
-    <file name="learning to fly.jpg" crc="3826621138" ref="other-art"/>
+    <file name="mad libs.jpg" crc="176639216" ref="other-art:miscellaneous-gallery"/>
+    <file name="learning to fly.jpg" crc="3826621138" ref="other-art:miscellaneous-gallery"/>
     <file name="balcony.jpg" crc="493527461" ref="index"/>
     <file name="artist-s hands sq.jpg" crc="91339106" ref="about"/>
     <file name="austin brown.jpg" crc="3803705557" ref="public-sculpture"/>
@@ -46,21 +46,21 @@
     <file name="et dices ad odorandum_23.jpg" crc="4120678139" ref="public-sculpture"/>
     <file name="odorandum wrap_6.jpg" crc="3773722429" ref="public-sculpture"/>
     <file name="odorandum wrap.jpg" crc="143291262" ref="public-sculpture"/>
-    <file name="barrel of sea horses.jpg" crc="4228715213" ref="other-art"/>
-    <file name="boys at play.jpg" crc="3973359709" ref="other-art"/>
-    <file name="girls at play.jpg" crc="452555602" ref="other-art"/>
-    <file name="realities loop.jpg" crc="4051353224" ref="other-art"/>
-    <file name="the old council.jpg" crc="4149284539" ref="other-art"/>
-    <file name="tree of knowledge.jpg" crc="382969590" ref="other-art"/>
+    <file name="barrel of sea horses.jpg" crc="4228715213" ref="other-art:miscellaneous-gallery"/>
+    <file name="boys at play.jpg" crc="3973359709" ref="other-art:miscellaneous-gallery"/>
+    <file name="girls at play.jpg" crc="452555602" ref="other-art:miscellaneous-gallery"/>
+    <file name="realities loop.jpg" crc="4051353224" ref="other-art:miscellaneous-gallery"/>
+    <file name="the old council.jpg" crc="4149284539" ref="other-art:miscellaneous-gallery"/>
+    <file name="tree of knowledge.jpg" crc="382969590" ref="other-art:miscellaneous-gallery"/>
     <file name="tree of knowledge (bunny).jpg" crc="300321207" ref="other-art"/>
     <file name="girls at play116x110.jpg" crc="315110140" ref="other-art"/>
-    <file name="prussian still life.jpg" crc="366656509" ref="other-art"/>
-    <file name="reis.jpg" crc="432006879" ref="other-art"/>
-    <file name="masks.jpg" crc="496672775" ref="other-art"/>
+    <file name="prussian still life.jpg" crc="366656509" ref="other-art:miscellaneous-gallery"/>
+    <file name="reis.jpg" crc="432006879" ref="other-art:miscellaneous-gallery"/>
+    <file name="masks.jpg" crc="496672775" ref="other-art:miscellaneous-gallery"/>
     <file name="amanda.jpg" crc="4243534754" ref="other-art"/>
     <file name="spain germany and russia.jpg" crc="4009513031" ref="other-art"/>
-    <file name="cebimde.jpg" crc="531010211" ref="other-art"/>
-    <file name="wife and husband (husband close).jpg" crc="99742353" ref="other-art"/>
+    <file name="cebimde.jpg" crc="531010211" ref="other-art:miscellaneous-gallery"/>
+    <file name="wife and husband (husband close).jpg" crc="99742353" ref="other-art:miscellaneous-gallery"/>
     <file name="barnacle printing bath.jpg" crc="309747535" ref="other-art"/>
     <file name="barnacles.jpg" crc="4026987784" ref="other-art"/>
     <file name="spain germany and russia110x110.jpg" crc="487788883" ref="other-art"/>
@@ -68,7 +68,7 @@
     <file name="recovered image series no 5.jpg" crc="4106694950" ref="other-art"/>
     <file name="w2ater logo.jpg" crc="4117301612" ref="other-art"/>
     <file name="sardinia by motorcycle logo.jpg" crc="3987301421" ref="other-art"/>
-    <file name="jasiel music logo.jpg" crc="3856312161" ref="other-art"/>
+    <file name="jasiel music logo.jpg" crc="3856312161" ref="other-art:miscellaneous-gallery"/>
     <file name="pq character designs.jpg" crc="4005027240" ref="other-art"/>
     <file name="sketches.jpg" crc="222966902" ref="other-art"/>
     <file name="sketches 2.jpg" crc="462975429" ref="other-art"/>
@@ -117,26 +117,11 @@
     <file name="sketches 2-crop-u2188.jpg" crc="221695285" ref="other-art"/>
     <file name="sketches 3-crop-u2197.jpg" crc="70478315" ref="other-art"/>
     <file name="balcony2.jpg" crc="493527461" ref="public-sculpture"/>
-    <file name="barrel of sea horses2.jpg" crc="4228715213" ref="miscellaneous-gallery"/>
-    <file name="boys at play2.jpg" crc="3973359709" ref="miscellaneous-gallery"/>
-    <file name="cebimde2.jpg" crc="531010211" ref="miscellaneous-gallery"/>
-    <file name="girls at play2.jpg" crc="452555602" ref="miscellaneous-gallery"/>
-    <file name="jasiel music logo2.jpg" crc="3856312161" ref="miscellaneous-gallery"/>
-    <file name="learning to fly2.jpg" crc="3826621138" ref="miscellaneous-gallery"/>
-    <file name="mad libs2.jpg" crc="176639216" ref="miscellaneous-gallery"/>
-    <file name="masks2.jpg" crc="496672775" ref="miscellaneous-gallery"/>
-    <file name="prussian still life2.jpg" crc="366656509" ref="miscellaneous-gallery"/>
-    <file name="realities loop2.jpg" crc="4051353224" ref="miscellaneous-gallery"/>
-    <file name="reis2.jpg" crc="432006879" ref="miscellaneous-gallery"/>
-    <file name="the old council2.jpg" crc="4149284539" ref="miscellaneous-gallery"/>
-    <file name="tree of knowledge2.jpg" crc="382969590" ref="miscellaneous-gallery"/>
-    <file name="what-2.jpg" crc="3847350092" ref="miscellaneous-gallery"/>
-    <file name="wife and husband (husband close)2.jpg" crc="99742353" ref="miscellaneous-gallery"/>
   </folder>
   <file name="index.html" crc="4137774300" mt="1406448197549" redirect="true"/>
   <file name="about.html" crc="165692915" mt="1406448197550" redirect="true"/>
   <file name="other-art.html" crc="4057985234" mt="1406448197552" redirect="true"/>
   <file name="circulum-vite.html" crc="4244403199" mt="1406448197552" redirect="true"/>
   <file name="public-sculpture.html" crc="116060917" mt="1406448205618" redirect="true"/>
-  <file name="miscellaneous-gallery.html" crc="96577885" mt="1406448197553" redirect="true"/>
+  <file name="miscellaneous-gallery.html" crc="284338125" mt="1406448352302" redirect="true"/>
 </manifest>

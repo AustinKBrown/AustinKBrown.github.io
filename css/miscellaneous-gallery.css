@@ -1,7 +1,7 @@
 .version.miscellaneous_gallery /* version checker */
 {
-	color: #0000F8;
-	background-color: #49CCD3;
+	color: #0000FC;
+	background-color: #850937;
 }
 
 .html
@@ -38,7 +38,7 @@
 	height: 553px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 90px;
+	margin-top: 120px;
 	left: -100px;
 }
 
@@ -247,7 +247,7 @@
 	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 247px;
+	top: 257px;
 	left: 95px;
 }
 
@@ -274,7 +274,7 @@
 	line-height: 20px;
 	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	top: 247px;
+	top: 257px;
 	left: 1040px;
 }
 
