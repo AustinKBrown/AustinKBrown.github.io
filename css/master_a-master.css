@@ -1,8 +1,18 @@
 #u2524
 {
-	border-style: none;
-	border-color: transparent;
-	background-color: #FFFFFF;
+	-pie-box-shadow: 0px 8px 8px #7F7F7F;
+	-moz-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+	-webkit-box-shadow: 0px 8px 8px -1px rgba(0, 0, 0, 0.5);
+	box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #EFDBB7;
+	position: fixed;
+}
+
+#u2538,#menuu336
+{
 	position: fixed;
 }
 
@@ -24,11 +34,6 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 19px;
-	color: #43270C;
-	font-size: 16px;
-	text-align: center;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: bold;
 	position: relative;
 }
 
@@ -61,11 +66,6 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 19px;
-	color: #43270C;
-	font-size: 16px;
-	text-align: center;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: bold;
 	position: relative;
 }
 
@@ -80,7 +80,39 @@
 	visibility: inherit;
 }
 
-#u344,#u378,#u392
+#u2819
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u381.MuseMenuActive,#u2819:hover
+{
+	border-style: none;
+	border-color: transparent;
+}
+
+#u2821-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 19px;
+	position: relative;
+}
+
+#u381.MuseMenuActive #u383-4,#u2819:hover #u2821-4
+{
+	background-color: transparent;
+}
+
+#u381.MuseMenuActive #u383-4 p,#u2819:hover #u2821-4 p
+{
+	color: #8C6239;
+	visibility: inherit;
+}
+
+#u344,#u378,#u2816,#u392
 {
 	position: relative;
 }
@@ -91,7 +123,7 @@
 	position: relative;
 }
 
-#u381.MuseMenuActive,#u395:hover
+#u2819.MuseMenuActive,#u395:hover
 {
 	border-style: none;
 	border-color: transparent;
@@ -109,15 +141,10 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 19px;
-	color: #43270C;
-	font-size: 16px;
-	text-align: center;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: bold;
 	position: relative;
 }
 
-#u381.MuseMenuActive #u383-4,#u395:hover #u397-4
+#u2819.MuseMenuActive #u2821-4,#u395:hover #u397-4
 {
 	background-color: transparent;
 }
@@ -127,7 +154,7 @@
 	background-color: transparent;
 }
 
-#u381.MuseMenuActive #u383-4 p,#u395:hover #u397-4 p
+#u2819.MuseMenuActive #u2821-4 p,#u395:hover #u397-4 p
 {
 	color: #8C6239;
 	visibility: inherit;
@@ -142,10 +169,5 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
-}
-
-#menuu336,#u2538
-{
-	position: fixed;
 }
 

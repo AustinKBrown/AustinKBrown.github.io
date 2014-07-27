@@ -129,6 +129,45 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.menu
+{
+	color: #43270C;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px;
+}
+
+.Category-1
+{
+	color: #43270C;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	padding: 0px;
+}
+
+.Body-head
+{
+	color: #A67C52;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	padding: 0px;
+}
+
+.Body
+{
+	color: #C69C6D;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	font-size: 13px;
+	line-height: 18px;
+	padding: 0px;
+}
+
 .TabbedPanelsTab
 {
 	white-space: nowrap;
