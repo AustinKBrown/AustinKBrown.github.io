@@ -1,13 +1,13 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406448560998">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406450189946">
   <folder name="css">
     <file name="site_global.css" crc="18571611"/>
-    <file name="index.css" crc="256914174" ref="index"/>
+    <file name="index.css" crc="3892157047" ref="index"/>
     <file name="master_a-master.css" crc="404836001" ref="circulum-vite:other-art:about:miscellaneous-gallery:public-sculpture:index"/>
     <file name="about.css" crc="4106041183" ref="about"/>
     <file name="circulum-vite.css" crc="427298391" ref="circulum-vite"/>
     <file name="other-art.css" crc="35189520" ref="other-art"/>
     <file name="miscellaneous-gallery.css" crc="4236577079" ref="miscellaneous-gallery"/>
-    <file name="public-sculpture.css" crc="459571910" ref="public-sculpture"/>
+    <file name="public-sculpture.css" crc="3945548252" ref="public-sculpture"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery"/>
@@ -28,12 +28,10 @@
     <file name="summermovies2014.jpg" crc="4142367436" ref="other-art"/>
     <file name="mad libs.jpg" crc="176639216" ref="other-art:miscellaneous-gallery"/>
     <file name="learning to fly.jpg" crc="3826621138" ref="other-art:miscellaneous-gallery"/>
-    <file name="balcony.jpg" crc="493527461" ref="index"/>
     <file name="artist-s hands sq.jpg" crc="91339106" ref="about"/>
     <file name="austin brown.jpg" crc="3803705557" ref="public-sculpture"/>
     <file name="blank.gif" crc="4208392903" ref="other-art:public-sculpture:miscellaneous-gallery"/>
     <file name="isaac.jpg" crc="487733899" ref="public-sculpture"/>
-    <file name="commons overhead.jpg" crc="4103267527" ref="public-sculpture"/>
     <file name="loading.gif" crc="3815509949" ref="other-art:public-sculpture:miscellaneous-gallery"/>
     <file name="life of an installation_1.jpg" crc="192358985" ref="public-sculpture"/>
     <file name="life of an installation_7.jpg" crc="4143143014" ref="public-sculpture"/>
@@ -81,9 +79,7 @@
     <file name="what-110x110.jpg" crc="3846328536" ref="other-art"/>
     <file name="hood wordmark sq.jpg" crc="283327464" ref="other-art"/>
     <file name="austin brown-crop-u1381.jpg" crc="190905235" ref="public-sculpture"/>
-    <file name="balcony-crop-u1393.jpg" crc="3859837496" ref="public-sculpture"/>
     <file name="isaac-crop-u1407.jpg" crc="4146074065" ref="public-sculpture"/>
-    <file name="commons overhead-crop-u1421.jpg" crc="4027759628" ref="public-sculpture"/>
     <file name="life of an installation_1-crop-u1312.jpg" crc="530840059" ref="public-sculpture"/>
     <file name="life of an installation_7-crop-u1321.jpg" crc="3980363641" ref="public-sculpture"/>
     <file name="life of an installation_9-crop-u1330.jpg" crc="3763586202" ref="public-sculpture"/>
@@ -116,12 +112,15 @@
     <file name="sketches-crop-u2179.jpg" crc="4162085209" ref="other-art"/>
     <file name="sketches 2-crop-u2188.jpg" crc="221695285" ref="other-art"/>
     <file name="sketches 3-crop-u2197.jpg" crc="70478315" ref="other-art"/>
-    <file name="balcony2.jpg" crc="493527461" ref="public-sculpture"/>
+    <file name="color adjusted for website.jpg" crc="103453247" ref="index:public-sculpture"/>
+    <file name="letter size overhead.jpg" crc="3925789395" ref="public-sculpture"/>
+    <file name="color adjusted for website-crop-u3293.jpg" crc="4084183590" ref="public-sculpture"/>
+    <file name="letter size overhead214x215.jpg" crc="323201240" ref="public-sculpture"/>
   </folder>
-  <file name="index.html" crc="4137774300" mt="1406448197549" redirect="true"/>
+  <file name="index.html" crc="4104571598" mt="1406450074921" redirect="true"/>
   <file name="about.html" crc="165692915" mt="1406448197550" redirect="true"/>
   <file name="other-art.html" crc="4057985234" mt="1406448197552" redirect="true"/>
   <file name="circulum-vite.html" crc="4244403199" mt="1406448197552" redirect="true"/>
-  <file name="public-sculpture.html" crc="116060917" mt="1406448205618" redirect="true"/>
+  <file name="public-sculpture.html" crc="3852918488" mt="1406450175795" redirect="true"/>
   <file name="miscellaneous-gallery.html" crc="3988212093" mt="1406448527449" redirect="true"/>
 </manifest>

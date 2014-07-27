@@ -1,7 +1,7 @@
 .version.public_sculpture /* version checker */
 {
-	color: #00001B;
-	background-color: #6482C6;
+	color: #0000EB;
+	background-color: #2C49DC;
 }
 
 .html
@@ -372,7 +372,7 @@
 {
 	z-index: 34;
 	width: 0.01px;
-	height: 260px;
+	height: 422px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 41px;
@@ -388,8 +388,8 @@
 	border-color: transparent;
 	background-color: #191919;
 	background-color: rgba(0, 0, 0, 0.9);
-	top: 168px;
-	left: -80px;
+	top: 101px;
+	left: -79px;
 	-pie-background: rgba(0, 0, 0, 0.9);
 }
 
@@ -416,7 +416,7 @@
 	padding-right: 27px;
 }
 
-#u1390
+#u3290
 {
 	z-index: 38;
 	width: 877px;
@@ -426,12 +426,6 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-}
-
-#u1390_img
-{
-	padding-top: 16px;
-	padding-bottom: 17px;
 }
 
 #u1404
@@ -446,7 +440,7 @@
 	left: 22px;
 }
 
-#u1418
+#u3304
 {
 	z-index: 42;
 	width: 877px;
@@ -458,10 +452,10 @@
 	left: 22px;
 }
 
-#u1418_img
+#u3304_img
 {
-	padding-top: 57px;
-	padding-bottom: 57px;
+	padding-left: 131px;
+	padding-right: 130px;
 }
 
 #u1246
@@ -487,7 +481,7 @@
 	margin-right: -10000px;
 }
 
-#u1393
+#u3293
 {
 	z-index: 47;
 	width: 214px;
@@ -513,7 +507,7 @@
 	left: 448px;
 }
 
-#u1421
+#u3307
 {
 	z-index: 51;
 	width: 214px;
@@ -524,6 +518,19 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 672px;
+}
+
+#u3307_clip
+{
+	overflow: hidden;
+	width: 214px;
+	height: 206px;
+}
+
+#u3307_img
+{
+	margin-top: -4px;
+	margin-bottom: -4px;
 }
 
 #u1259
@@ -551,7 +558,7 @@
 	position: relative;
 }
 
-#u1396-4
+#u3296-4
 {
 	z-index: 58;
 	width: 340px;
@@ -575,7 +582,7 @@
 	position: relative;
 }
 
-#u1424-4
+#u3310-4
 {
 	z-index: 66;
 	width: 340px;
@@ -1078,7 +1085,7 @@
 	left: 22px;
 }
 
-#u1309_img,#u1327_img,#u1336_img,#u901_img,#u1027_img
+#u3290_img,#u1309_img,#u1327_img,#u1336_img,#u901_img,#u1027_img
 {
 	padding-top: 16px;
 	padding-bottom: 16px;
@@ -1233,7 +1240,7 @@
 	left: 745px;
 }
 
-#u1381:hover,#u1393:hover,#u1407:hover,#u1421:hover,#u1312:hover,#u1321:hover,#u930:hover,#u1030:hover,#u1039:hover,#u1048:hover,#u1057:hover,#u1066:hover
+#u1381:hover,#u3293:hover,#u1407:hover,#u3307:hover,#u1312:hover,#u1321:hover,#u930:hover,#u1030:hover,#u1039:hover,#u1048:hover,#u1057:hover,#u1066:hover
 {
 	margin: 0px -10000px 0px 0px;
 }

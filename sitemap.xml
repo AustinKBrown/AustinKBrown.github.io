@@ -31,12 +31,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://AustinKBrown.com/images/balcony.jpg</loc>
-    <lastmod>2014-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://AustinKBrown.com/images/artist-s%20hands%20sq.jpg</loc>
     <lastmod>2014-07-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,12 +50,6 @@
   </url>
   <url>
     <loc>http://AustinKBrown.com/images/isaac.jpg</loc>
-    <lastmod>2014-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://AustinKBrown.com/images/commons%20overhead.jpg</loc>
     <lastmod>2014-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -349,19 +337,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://AustinKBrown.com/images/balcony-crop-u1393.jpg</loc>
-    <lastmod>2014-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://AustinKBrown.com/images/isaac-crop-u1407.jpg</loc>
-    <lastmod>2014-07-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://AustinKBrown.com/images/commons%20overhead-crop-u1421.jpg</loc>
     <lastmod>2014-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -559,7 +535,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://AustinKBrown.com/images/balcony2.jpg</loc>
+    <loc>http://AustinKBrown.com/images/color%20adjusted%20for%20website.jpg</loc>
+    <lastmod>2014-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/letter%20size%20overhead.jpg</loc>
+    <lastmod>2014-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/color%20adjusted%20for%20website-crop-u3293.jpg</loc>
+    <lastmod>2014-07-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/letter%20size%20overhead214x215.jpg</loc>
     <lastmod>2014-07-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
