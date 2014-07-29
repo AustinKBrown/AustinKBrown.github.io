@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #000005;
-	background-color: #BFA1BE;
+	color: #000015;
+	background-color: #8EFDD1;
 }
 
 .html
@@ -14,27 +14,27 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 212px;
-	padding-bottom: 88px;
+	min-height: 238px;
+	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #u2524
 {
-	z-index: 32;
+	z-index: 31;
 	height: 109px;
 	top: 0px;
 }
 
 #u2524-bw
 {
-	z-index: 32;
+	z-index: 31;
 }
 
 #u2538
 {
-	z-index: 58;
+	z-index: 57;
 	width: 475px;
 	top: 36px;
 	left: 50%;
@@ -43,7 +43,7 @@
 
 #menuu336
 {
-	z-index: 33;
+	z-index: 32;
 	width: 920px;
 	top: 78px;
 	left: 50%;
@@ -198,38 +198,27 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu2553
+#ppu2514-14
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 110px;
-	margin-left: 20px;
-}
-
-#u2553
-{
-	z-index: 2;
-	width: 920px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #FFFFFF;
-	position: relative;
-	margin-right: -10000px;
+	margin-top: 131px;
+	margin-left: 31px;
 }
 
 #pu2514-14
 {
 	width: 0.01px;
-	margin: 21px -10000px -26px 11px;
 }
 
 #u2514-14
 {
-	z-index: 5;
+	z-index: 4;
 	width: 340px;
 	min-height: 228px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u2514-2
@@ -256,9 +245,23 @@
 	color: #7F7F7F;
 }
 
+#u2515-4
+{
+	z-index: 18;
+	width: 187px;
+	min-height: 27px;
+	color: #C69C6D;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 201px;
+	left: 138px;
+}
+
 #u2689-5
 {
-	z-index: 23;
+	z-index: 22;
 	width: 279px;
 	min-height: 41px;
 	color: #C69C6D;
@@ -278,7 +281,7 @@
 
 #u3323-4
 {
-	z-index: 28;
+	z-index: 27;
 	width: 294px;
 	min-height: 57px;
 	color: #8C6239;
@@ -291,30 +294,17 @@
 
 #u2421
 {
-	z-index: 3;
+	z-index: 2;
 	width: 559px;
 	position: relative;
 	margin-right: -10000px;
-	left: 361px;
+	margin-top: 110px;
+	left: 381px;
 }
 
 #u2421_img
 {
 	padding-right: 1px;
-}
-
-#u2515-4
-{
-	z-index: 19;
-	width: 187px;
-	min-height: 27px;
-	color: #C69C6D;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-style: italic;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 222px;
-	left: 149px;
 }
 
 body
