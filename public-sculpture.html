@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musemenu.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "musewpdisclosure.js", "public-sculpture.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.musemenu.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "musewpdisclosure.js", "public-sculpture.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -12,7 +12,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?18571611"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?404836001"/>
-  <link rel="stylesheet" type="text/css" href="css/public-sculpture.css?3945548252" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/public-sculpture.css?3782246504" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -22,12 +22,12 @@
   <script src="scripts/html5shiv.js?4241844378" type="text/javascript"></script>
   <![endif]-->
    </head>
- <body>
+ <body class="museBGSize">
 
   <div class="clearfix" id="page"><!-- group -->
    <div class="clearfix grpelem" id="pu2524"><!-- group -->
     <div class="browser_width" id="u2524-bw">
-     <div class="shadow" id="u2524"><!-- simple frame --></div>
+     <div id="u2524"><!-- simple frame --></div>
     </div>
     <div class="clip_frame" id="u2538"><!-- image -->
      <img class="block" id="u2538_img" src="images/name.png" alt="" width="475" height="25"/>
@@ -70,7 +70,7 @@
       </div>
      </div>
      <div class="TabbedPanelsContentGroup clearfix colelem" id="u581"><!-- stack box -->
-      <div class="TabbedPanelsContent clearfix grpelem" id="u582"><!-- group -->
+      <div class="TabbedPanelsContent invi clearfix grpelem" id="u582"><!-- group -->
        <div class="SlideShowWidget clearfix widget_invisible grpelem" id="slideshowu1210"><!-- none box -->
         <div class="popup_anchor" id="u1211popup">
          <div class="SlideShowContentPanel rgba-background clearfix" id="u1211"><!-- stack box -->
@@ -238,7 +238,7 @@
         <p class="Body">That process of reaching the end is life… It is beautiful, complex, and difficult. When we lack the courage to show our own chaos, which makes us truly unique, we disregard our own ability to be creative in favor of a desire for safety.</p>
        </div>
       </div>
-      <div class="TabbedPanelsContent invi clearfix grpelem" id="u889"><!-- group -->
+      <div class="TabbedPanelsContent clearfix grpelem" id="u889"><!-- group -->
        <div class="SlideShowWidget clearfix widget_invisible grpelem" id="slideshowu895"><!-- none box -->
         <div class="popup_anchor" id="u900popup">
          <div class="SlideShowContentPanel rgba-background clearfix" id="u900"><!-- stack box -->
@@ -344,6 +344,7 @@
    window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
 </script>
   <script src="scripts/museutils.js?353204447" type="text/javascript"></script>
+  <script src="scripts/jquery.musepolyfill.bgsize.js?323834883" type="text/javascript"></script>
   <script src="scripts/jquery.musemenu.js?4076024383" type="text/javascript"></script>
   <script src="scripts/jquery.watch.js?3923049248" type="text/javascript"></script>
   <script src="scripts/webpro.js?317917375" type="text/javascript"></script>
@@ -364,7 +365,7 @@ Muse.Utils.resizeHeight()/* resize height */
 Muse.Utils.initWidget('#slideshowu1210', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:false,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:true,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false})); });/* #slideshowu1210 */
 Muse.Utils.initWidget('#slideshowu1072', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:false,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:true,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false})); });/* #slideshowu1072 */
 Muse.Utils.initWidget('#slideshowu895', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {autoPlay:false,displayInterval:3000,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:true,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'off',resumeAutoplay:false,resumeAutoplayInterval:3000,playOnce:false})); });/* #slideshowu895 */
-Muse.Utils.initWidget('#tab-panelu580', function(elem) { return new WebPro.Widget.TabbedPanels(elem, {event:'click',defaultIndex:0}); });/* #tab-panelu580 */
+Muse.Utils.initWidget('#tab-panelu580', function(elem) { return new WebPro.Widget.TabbedPanels(elem, {event:'click',defaultIndex:2}); });/* #tab-panelu580 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */

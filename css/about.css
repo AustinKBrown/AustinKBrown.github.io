@@ -1,39 +1,40 @@
 .version.about /* version checker */
 {
-	color: #0000F4;
-	background-color: #BD375F;
+	color: #000005;
+	background-color: #BFA1BE;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background: #FFFFFF url("../images/arches%20sheet.jpg") no-repeat center top fixed;
+	background-size: cover;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 238px;
-	padding-bottom: 62px;
+	min-height: 212px;
+	padding-bottom: 88px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #u2524
 {
-	z-index: 26;
+	z-index: 32;
 	height: 109px;
 	top: 0px;
 }
 
 #u2524-bw
 {
-	z-index: 26;
+	z-index: 32;
 }
 
 #u2538
 {
-	z-index: 52;
+	z-index: 58;
 	width: 475px;
 	top: 36px;
 	left: 50%;
@@ -42,7 +43,7 @@
 
 #menuu336
 {
-	z-index: 27;
+	z-index: 33;
 	width: 920px;
 	top: 78px;
 	left: 50%;
@@ -216,21 +217,17 @@
 	margin-right: -10000px;
 }
 
-#pu2514-13
+#pu2514-14
 {
 	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 21px;
-	margin-left: 11px;
+	margin: 21px -10000px -26px 11px;
 }
 
-#u2514-13
+#u2514-14
 {
 	z-index: 5;
 	width: 340px;
 	min-height: 228px;
-	color: #7F7F7F;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -239,25 +236,56 @@
 {
 	font-size: 18px;
 	line-height: 22px;
+	color: #603813;
 	font-weight: bold;
 }
 
-#u2514-11
+#u2514-3,#u2514-6,#u2514-7
+{
+	color: #7F7F7F;
+}
+
+#u2514-4,#u2514-9,#u2514-11
+{
+	color: #C69C6D;
+}
+
+#u2514-12
 {
 	text-align: right;
+	color: #7F7F7F;
 }
 
-#u2689-4
+#u2689-5
 {
-	z-index: 22;
-	width: 222px;
+	z-index: 23;
+	width: 279px;
 	min-height: 41px;
-	color: #7F7F7F;
+	color: #C69C6D;
 	line-height: 22px;
 	font-size: 18px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
-	margin-top: 81px;
+	margin-top: 171px;
+	position: relative;
+}
+
+#u2689
+{
+	color: #8C6239;
+	font-weight: normal;
+}
+
+#u3323-4
+{
+	z-index: 28;
+	width: 294px;
+	min-height: 57px;
+	color: #8C6239;
+	line-height: 22px;
+	font-size: 18px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	margin-top: 17px;
 	position: relative;
 }
 
@@ -277,10 +305,10 @@
 
 #u2515-4
 {
-	z-index: 18;
+	z-index: 19;
 	width: 187px;
 	min-height: 27px;
-	color: #7F7F7F;
+	color: #C69C6D;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	position: relative;

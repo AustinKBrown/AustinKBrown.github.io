@@ -1,12 +1,13 @@
 .version.index /* version checker */
 {
-	color: #0000E7;
-	background-color: #FD9A77;
+	color: #0000F5;
+	background-color: #EA6DCB;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background: #FFFFFF url("../images/arches%20sheet.jpg") no-repeat center top fixed;
+	background-size: cover;
 }
 
 #page

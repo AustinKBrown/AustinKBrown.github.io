@@ -1,12 +1,13 @@
 .version.public_sculpture /* version checker */
 {
-	color: #0000EB;
-	background-color: #2C49DC;
+	color: #0000E1;
+	background-color: #708068;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background: #FFFFFF url("../images/arches%20sheet.jpg") no-repeat center top fixed;
+	background-size: cover;
 }
 
 #page
@@ -372,7 +373,7 @@
 {
 	z-index: 34;
 	width: 0.01px;
-	height: 422px;
+	height: 223px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 41px;
@@ -1398,6 +1399,7 @@
 #u583-2,#u946-2,#u894-2
 {
 	line-height: 17px;
+	color: #8C6239;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.TabbedPanelsTab /* slideshowFreeStyle */

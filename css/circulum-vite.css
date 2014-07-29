@@ -1,39 +1,40 @@
 .version.circulum_vite /* version checker */
 {
-	color: #000019;
-	background-color: #780E57;
+	color: #0000FC;
+	background-color: #EE4D05;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background: #FFFFFF url("../images/arches%20sheet.jpg") no-repeat center top fixed;
+	background-size: cover;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 0px;
-	padding-bottom: 300px;
+	min-height: 238px;
+	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #u2524
 {
-	z-index: 2;
+	z-index: 117;
 	height: 109px;
 	top: 0px;
 }
 
 #u2524-bw
 {
-	z-index: 2;
+	z-index: 117;
 }
 
 #u2538
 {
-	z-index: 28;
+	z-index: 143;
 	width: 475px;
 	top: 36px;
 	left: 50%;
@@ -42,7 +43,7 @@
 
 #menuu336
 {
-	z-index: 3;
+	z-index: 118;
 	width: 920px;
 	top: 78px;
 	left: 50%;
@@ -195,6 +196,47 @@
 	padding-bottom: 0px;
 	min-height: 19px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u3322-115
+{
+	z-index: 2;
+	width: 558px;
+	min-height: 206px;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 131px;
+	left: 205px;
+}
+
+#u3322
+{
+	font-size: 16px;
+	line-height: 19px;
+	color: #603813;
+}
+
+#u3322-3
+{
+	font-size: 18px;
+	line-height: 22px;
+	color: #603813;
+}
+
+#u3322-6,#u3322-17,#u3322-46,#u3322-104
+{
+	color: #603813;
+}
+
+#u3322-49,#u3322-70,#u3322-79,#u3322-85,#u3322-94,#u3322-107,#u3322-111
+{
+	color: #8C6239;
+}
+
+#u3322-4,#u3322-7,#u3322-9,#u3322-11,#u3322-13,#u3322-14,#u3322-15,#u3322-18,#u3322-20,#u3322-22,#u3322-23,#u3322-25,#u3322-27,#u3322-28,#u3322-30,#u3322-32,#u3322-33,#u3322-35,#u3322-37,#u3322-38,#u3322-40,#u3322-42,#u3322-43,#u3322-44,#u3322-47,#u3322-50,#u3322-52,#u3322-53,#u3322-55,#u3322-56,#u3322-58,#u3322-59,#u3322-61,#u3322-62,#u3322-64,#u3322-65,#u3322-67,#u3322-68,#u3322-71,#u3322-73,#u3322-74,#u3322-76,#u3322-77,#u3322-80,#u3322-82,#u3322-83,#u3322-86,#u3322-88,#u3322-89,#u3322-91,#u3322-92,#u3322-95,#u3322-97,#u3322-98,#u3322-100,#u3322-101,#u3322-102,#u3322-105,#u3322-109,#u3322-113
+{
+	color: #C69C6D;
 }
 
 body
