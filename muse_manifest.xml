@@ -1,4 +1,4 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406608154121">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1406608237458">
   <folder name="css">
     <file name="site_global.css" crc="18571611"/>
     <file name="index.css" crc="4125781451" ref="index"/>
@@ -138,6 +138,6 @@
   <file name="about.html" crc="3781982932" mt="1406608141161" redirect="true"/>
   <file name="other-art.html" crc="4225024190" mt="1406607956973" redirect="true"/>
   <file name="circulum-vite.html" crc="526359666" mt="1406607956974" redirect="true"/>
-  <file name="public-sculpture.html" crc="347638590" mt="1406607956973" redirect="true"/>
+  <file name="public-sculpture.html" crc="3905516205" mt="1406608223682" redirect="true"/>
   <file name="miscellaneous-gallery.html" crc="4109261496" mt="1406607956975" redirect="true"/>
 </manifest>
