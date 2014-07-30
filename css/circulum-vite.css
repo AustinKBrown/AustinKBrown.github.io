@@ -1,7 +1,7 @@
 .version.circulum_vite /* version checker */
 {
-	color: #0000FC;
-	background-color: #EE4D05;
+	color: #000013;
+	background-color: #24E494;
 }
 
 .html
@@ -34,7 +34,7 @@
 
 #u2538
 {
-	z-index: 143;
+	z-index: 149;
 	width: 475px;
 	top: 36px;
 	left: 50%;
@@ -52,14 +52,14 @@
 
 #u344
 {
-	width: 228px;
+	width: 182px;
 	min-height: 20px;
 	margin-right: -10000px;
 }
 
 #u345
 {
-	width: 228px;
+	width: 182px;
 	padding-bottom: 1px;
 }
 
@@ -70,7 +70,7 @@
 
 #u348-4
 {
-	width: 228px;
+	width: 182px;
 	min-height: 19px;
 	margin-right: -10000px;
 }
@@ -85,15 +85,15 @@
 
 #u378
 {
-	width: 228px;
+	width: 182px;
 	min-height: 20px;
 	margin-right: -10000px;
-	left: 230px;
+	left: 184px;
 }
 
 #u381
 {
-	width: 228px;
+	width: 182px;
 	padding-bottom: 1px;
 }
 
@@ -104,7 +104,7 @@
 
 #u383-4
 {
-	width: 228px;
+	width: 182px;
 	min-height: 19px;
 	margin-right: -10000px;
 }
@@ -117,33 +117,67 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u2816
+#u3382
 {
-	width: 229px;
+	width: 182px;
 	min-height: 20px;
 	margin-right: -10000px;
-	left: 460px;
+	left: 368px;
+}
+
+#u3385
+{
+	width: 182px;
+	padding-bottom: 1px;
+}
+
+#u381.MuseMenuActive,#u3385:hover
+{
+	margin: 0px;
+}
+
+#u3388-4
+{
+	width: 182px;
+	min-height: 19px;
+	margin-right: -10000px;
+}
+
+#u381.MuseMenuActive #u383-4,#u3385:hover #u3388-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2816
+{
+	width: 183px;
+	min-height: 20px;
+	margin-right: -10000px;
+	left: 552px;
 }
 
 #u2819
 {
-	width: 229px;
+	width: 183px;
 	padding-bottom: 1px;
 }
 
-#u381.MuseMenuActive,#u2819:hover
+#u3385.MuseMenuActive,#u2819:hover
 {
 	margin: 0px;
 }
 
 #u2821-4
 {
-	width: 229px;
+	width: 183px;
 	min-height: 19px;
 	margin-right: -10000px;
 }
 
-#u381.MuseMenuActive #u383-4,#u2819:hover #u2821-4
+#u3385.MuseMenuActive #u3388-4,#u2819:hover #u2821-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -153,15 +187,15 @@
 
 #u392
 {
-	width: 229px;
+	width: 183px;
 	min-height: 20px;
 	margin-right: -10000px;
-	left: 691px;
+	left: 737px;
 }
 
 #u395
 {
-	width: 229px;
+	width: 183px;
 	padding-bottom: 1px;
 }
 
@@ -177,7 +211,7 @@
 
 #u397-4
 {
-	width: 229px;
+	width: 183px;
 	min-height: 19px;
 	margin-right: -10000px;
 }

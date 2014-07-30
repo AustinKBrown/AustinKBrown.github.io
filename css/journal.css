@@ -1,0 +1,480 @@
+.version.journal /* version checker */
+{
+	color: #0000E7;
+	background-color: #F49068;
+}
+
+.html
+{
+	background: #FFFFFF url("../images/arches%20sheet.jpg") no-repeat center top fixed;
+	background-size: cover;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 238px;
+	padding-bottom: 62px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u2524
+{
+	z-index: 49;
+	height: 109px;
+	top: 0px;
+}
+
+#u2524-bw
+{
+	z-index: 49;
+}
+
+#u2538
+{
+	z-index: 81;
+	width: 475px;
+	top: 36px;
+	left: 50%;
+	margin-left: -460px;
+}
+
+#menuu336
+{
+	z-index: 50;
+	width: 920px;
+	top: 78px;
+	left: 50%;
+	margin-left: -460px;
+}
+
+#u344
+{
+	width: 182px;
+	min-height: 20px;
+	margin-right: -10000px;
+}
+
+#u345
+{
+	width: 182px;
+	padding-bottom: 1px;
+}
+
+#u345:hover
+{
+	margin: 0px;
+}
+
+#u348-4
+{
+	width: 182px;
+	min-height: 19px;
+	margin-right: -10000px;
+}
+
+#u345:hover #u348-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u378
+{
+	width: 182px;
+	min-height: 20px;
+	margin-right: -10000px;
+	left: 184px;
+}
+
+#u381
+{
+	width: 182px;
+	padding-bottom: 1px;
+}
+
+#u345.MuseMenuActive,#u381:hover
+{
+	margin: 0px;
+}
+
+#u383-4
+{
+	width: 182px;
+	min-height: 19px;
+	margin-right: -10000px;
+}
+
+#u345.MuseMenuActive #u348-4,#u381:hover #u383-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3382
+{
+	width: 182px;
+	min-height: 20px;
+	margin-right: -10000px;
+	left: 368px;
+}
+
+#u3385
+{
+	width: 182px;
+	padding-bottom: 1px;
+}
+
+#u381.MuseMenuActive,#u3385:hover
+{
+	margin: 0px;
+}
+
+#u3388-4
+{
+	width: 182px;
+	min-height: 19px;
+	margin-right: -10000px;
+}
+
+#u381.MuseMenuActive #u383-4,#u3385:hover #u3388-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u2816
+{
+	width: 183px;
+	min-height: 20px;
+	margin-right: -10000px;
+	left: 552px;
+}
+
+#u2819
+{
+	width: 183px;
+	padding-bottom: 1px;
+}
+
+#u3385.MuseMenuActive,#u2819:hover
+{
+	margin: 0px;
+}
+
+#u2821-4
+{
+	width: 183px;
+	min-height: 19px;
+	margin-right: -10000px;
+}
+
+#u3385.MuseMenuActive #u3388-4,#u2819:hover #u2821-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u392
+{
+	width: 183px;
+	min-height: 20px;
+	margin-right: -10000px;
+	left: 737px;
+}
+
+#u395
+{
+	width: 183px;
+	padding-bottom: 1px;
+}
+
+#u2819.MuseMenuActive,#u395:hover
+{
+	margin: 0px;
+}
+
+#u395.MuseMenuActive
+{
+	margin: 0px;
+}
+
+#u397-4
+{
+	width: 183px;
+	min-height: 19px;
+	margin-right: -10000px;
+}
+
+#u2819.MuseMenuActive #u2821-4,#u395:hover #u397-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u395.MuseMenuActive #u397-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#pamphletu3402
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 58px;
+	padding-bottom: 956px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 139px;
+	left: 20px;
+}
+
+#u3405
+{
+	position: absolute;
+	width: 958px;
+	left: 210px;
+}
+
+#u3405popup
+{
+	z-index: 3;
+}
+
+#u3406
+{
+	z-index: 4;
+	width: 958px;
+	height: 1014px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u3407-30
+{
+	z-index: 5;
+	width: 624px;
+	min-height: 193px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 20px;
+}
+
+#u3408
+{
+	float: left;
+	margin-right: 17px;
+}
+
+#u3409
+{
+	z-index: 10;
+	width: 310px;
+}
+
+#u3409_img
+{
+	padding-bottom: 3px;
+}
+
+#u3407-3,#u3407-4
+{
+	line-height: 17px;
+}
+
+#u3407-21
+{
+	font-size: 1px;
+	line-height: 0px;
+}
+
+#u3467
+{
+	z-index: 34;
+	width: 316px;
+}
+
+#u3467_img
+{
+	padding-bottom: 1px;
+	vertical-align: bottom;
+}
+
+#u3425
+{
+	z-index: 41;
+	width: 180px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 20px;
+	left: 10px;
+}
+
+#u3430
+{
+	position: absolute;
+	width: 200px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	padding-bottom: 4px;
+	top: -6px;
+	left: -10px;
+}
+
+#u3430:hover
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin: 0px;
+}
+
+#u3430:active
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin: 0px;
+}
+
+#u3430.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin: 0px;
+}
+
+#u3431-6
+{
+	z-index: 43;
+	width: 180px;
+	min-height: 20px;
+	border-color: #DEDEDE;
+	background-color: transparent;
+	color: #8C6239;
+	line-height: 19px;
+	text-align: left;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 10px;
+}
+
+#u3430:hover #u3431-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 20px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#u3430:active #u3431-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 20px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#u3430.PamphletThumbSelected #u3431-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 20px;
+	margin: 6px -10000px 0px 0px;
+}
+
+#u3430:hover #u3431-6 p
+{
+	color: #998675;
+	visibility: inherit;
+}
+
+#u3430:active #u3431-6 p
+{
+	color: #998675;
+	visibility: inherit;
+}
+
+#u3430.PamphletThumbSelected #u3431-6 p
+{
+	color: #C69C6D;
+	visibility: inherit;
+	text-align: left;
+	font-size: 16px;
+	line-height: 1.2;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	font-weight: bold;
+	padding: 0px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#pu3398-3
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 130px;
+	margin-left: 158px;
+}
+
+#u3398-3
+{
+	z-index: 83;
+	width: 644px;
+	min-height: 196px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u3447
+{
+	z-index: 86;
+	vertical-align: top;
+	width: 2px;
+	height: 330px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 19px;
+	left: 49px;
+	background: url("../images/u3447.png") no-repeat 0px 0px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
