@@ -1,7 +1,7 @@
 .version.miscellaneous_gallery /* version checker */
 {
-	color: #000019;
-	background-color: #5F3B7C;
+	color: #0000E2;
+	background-color: #280AB1;
 }
 
 .html
@@ -271,9 +271,9 @@
 	border-color: transparent;
 	background-color: #FFFFFF;
 	padding: 10px;
+	text-align: center;
 	color: #999999;
 	line-height: 20px;
-	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 257px;
 	left: 1040px;
