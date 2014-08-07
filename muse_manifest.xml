@@ -1,4 +1,4 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1407377338774">
+<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1407380389020">
   <folder name="css">
     <file name="site_global.css" crc="18571611"/>
     <file name="index.css" crc="272369848" ref="index"/>
@@ -7,32 +7,33 @@
     <file name="circulum-vite.css" crc="321184916" ref="circulum-vite"/>
     <file name="other-art.css" crc="4228552711" ref="other-art"/>
     <file name="miscellaneous-gallery.css" crc="3794274993" ref="miscellaneous-gallery"/>
-    <file name="public-sculpture.css" crc="3995049926" ref="public-sculpture"/>
+    <file name="public-sculpture.css" crc="4073526946" ref="public-sculpture"/>
     <file name="journal.css" crc="3783675880" ref="journal"/>
+    <file name="gc-slide-show.css" crc="4039706700" ref="gc-slide-show"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal"/>
-    <file name="museutils.js" crc="353204447" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal"/>
-    <file name="jquery.watch.js" crc="3923049248" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal"/>
+    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
+    <file name="museutils.js" crc="353204447" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
+    <file name="jquery.watch.js" crc="3923049248" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
     <file name="jquery.musemenu.js" crc="4076024383" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal"/>
     <file name="pie.js" crc="3827607177" ref="other-art:index:public-sculpture"/>
-    <file name="webpro.js" crc="317917375" ref="other-art:public-sculpture:miscellaneous-gallery:journal"/>
-    <file name="musewpslideshow.js" crc="177288662" ref="other-art:public-sculpture:miscellaneous-gallery:journal"/>
-    <file name="jquery.museoverlay.js" crc="524248676" ref="other-art:public-sculpture:miscellaneous-gallery:journal"/>
-    <file name="touchswipe.js" crc="367691663" ref="other-art:public-sculpture:miscellaneous-gallery:journal"/>
+    <file name="webpro.js" crc="317917375" ref="other-art:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
+    <file name="musewpslideshow.js" crc="177288662" ref="other-art:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
+    <file name="jquery.museoverlay.js" crc="524248676" ref="other-art:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
+    <file name="touchswipe.js" crc="367691663" ref="other-art:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
     <file name="musewpdisclosure.js" crc="4003881138" ref="other-art:public-sculpture"/>
-    <file name="html5shiv.js" crc="4241844378" ref="about:index:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal"/>
+    <file name="html5shiv.js" crc="4241844378" ref="about:index:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="323834883" ref="index:about:public-sculpture:other-art:circulum-vite:miscellaneous-gallery:journal"/>
   </folder>
   <folder name="images">
-    <file name="name.png" crc="311407197" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal"/>
+    <file name="name.png" crc="311407197" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
     <file name="what-.jpg" crc="3880324289" ref="other-art:miscellaneous-gallery"/>
     <file name="summermovies2014.jpg" crc="4142367436" ref="other-art"/>
     <file name="mad libs.jpg" crc="176639216" ref="other-art:miscellaneous-gallery"/>
     <file name="learning to fly.jpg" crc="3826621138" ref="other-art:miscellaneous-gallery"/>
     <file name="artist-s hands sq.jpg" crc="91339106" ref="about"/>
-    <file name="blank.gif" crc="4208392903" ref="other-art:public-sculpture:miscellaneous-gallery"/>
-    <file name="loading.gif" crc="3815509949" ref="other-art:public-sculpture:miscellaneous-gallery"/>
+    <file name="blank.gif" crc="4208392903" ref="other-art:public-sculpture:miscellaneous-gallery:gc-slide-show"/>
+    <file name="loading.gif" crc="3815509949" ref="other-art:public-sculpture:miscellaneous-gallery:gc-slide-show"/>
     <file name="life of an installation_1.jpg" crc="192358985" ref="public-sculpture"/>
     <file name="life of an installation_7.jpg" crc="4143143014" ref="public-sculpture"/>
     <file name="life of an installation_9.jpg" crc="45440927" ref="public-sculpture"/>
@@ -119,63 +120,38 @@
     <file name="progress_14-crop-u3747.jpg" crc="439858953" ref="journal"/>
     <file name="progress_11-crop-u3750.jpg" crc="3807680527" ref="journal"/>
     <file name="progress_10-crop-u3744.jpg" crc="519346866" ref="journal"/>
-    <file name="south west balcony second story.jpg" crc="3891252091" ref="public-sculpture"/>
-    <file name="west balcony second story.jpg" crc="80700807" ref="public-sculpture"/>
-    <file name="above no2.jpg" crc="3964228691" ref="public-sculpture"/>
-    <file name="above.jpg" crc="4176530447" ref="public-sculpture"/>
-    <file name="amidst depth.jpg" crc="401157851" ref="public-sculpture"/>
-    <file name="amidst no2.jpg" crc="3814714438" ref="public-sculpture"/>
-    <file name="amidst.jpg" crc="3814905089" ref="public-sculpture"/>
-    <file name="below.jpg" crc="4118430201" ref="public-sculpture"/>
-    <file name="directly below.jpg" crc="354068772" ref="public-sculpture"/>
-    <file name="finished_1.jpg" crc="28345514" ref="public-sculpture"/>
-    <file name="floor_reflections.jpg" crc="4246190325" ref="public-sculpture"/>
-    <file name="lens flair.jpg" crc="3798625132" ref="public-sculpture"/>
-    <file name="lounge window.jpg" crc="371849642" ref="public-sculpture"/>
-    <file name="main entry balcany floor 2 no2.jpg" crc="3874605151" ref="public-sculpture"/>
-    <file name="main entry balcany floor 2 no3.jpg" crc="4209229648" ref="public-sculpture"/>
-    <file name="main entry balcony floor2.jpg" crc="322850026" ref="public-sculpture"/>
-    <file name="north balcony no2.jpg" crc="471269168" ref="public-sculpture"/>
-    <file name="north balcony.jpg" crc="396054446" ref="public-sculpture"/>
-    <file name="north west second story.jpg" crc="492330956" ref="public-sculpture"/>
-    <file name="office window 2.jpg" crc="4267851947" ref="public-sculpture"/>
-    <file name="south balcony second story.jpg" crc="177398564" ref="public-sculpture"/>
-    <file name="south vantage.jpg" crc="51613531" ref="public-sculpture"/>
-    <file name="stairs.jpg" crc="4016459462" ref="public-sculpture"/>
-    <file name="tess below.jpg" crc="4212827466" ref="public-sculpture"/>
-    <file name="top of stairs.jpg" crc="4165349063" ref="public-sculpture"/>
-    <file name="south west balcony second story-crop-u4083.jpg" crc="3884287415" ref="public-sculpture"/>
-    <file name="above no2-crop-u3903.jpg" crc="351904847" ref="public-sculpture"/>
-    <file name="above-crop-u3912.jpg" crc="4019057795" ref="public-sculpture"/>
-    <file name="amidst depth-crop-u3921.jpg" crc="4163659434" ref="public-sculpture"/>
-    <file name="amidst no2-crop-u3930.jpg" crc="3815761807" ref="public-sculpture"/>
-    <file name="amidst-crop-u3939.jpg" crc="445329993" ref="public-sculpture"/>
-    <file name="below-crop-u3948.jpg" crc="430290106" ref="public-sculpture"/>
-    <file name="directly below-crop-u3957.jpg" crc="514412322" ref="public-sculpture"/>
-    <file name="finished_1-crop-u3966.jpg" crc="390794223" ref="public-sculpture"/>
-    <file name="floor_reflections-crop-u3975.jpg" crc="503814777" ref="public-sculpture"/>
-    <file name="lens flair-crop-u3984.jpg" crc="4214776232" ref="public-sculpture"/>
-    <file name="lounge window-crop-u3993.jpg" crc="4145979139" ref="public-sculpture"/>
-    <file name="main entry balcany floor 2 no2-crop-u4002.jpg" crc="116218172" ref="public-sculpture"/>
-    <file name="main entry balcany floor 2 no3-crop-u4011.jpg" crc="3941187881" ref="public-sculpture"/>
-    <file name="main entry balcony floor2-crop-u4020.jpg" crc="4287580712" ref="public-sculpture"/>
-    <file name="north balcony no2-crop-u4029.jpg" crc="4106646325" ref="public-sculpture"/>
-    <file name="north balcony-crop-u4038.jpg" crc="84288153" ref="public-sculpture"/>
-    <file name="north west second story-crop-u4047.jpg" crc="204839260" ref="public-sculpture"/>
-    <file name="office window 2-crop-u4056.jpg" crc="279894181" ref="public-sculpture"/>
-    <file name="south balcony second story-crop-u4065.jpg" crc="4156210606" ref="public-sculpture"/>
-    <file name="south vantage-crop-u4074.jpg" crc="4236707838" ref="public-sculpture"/>
-    <file name="stairs-crop-u4092.jpg" crc="4068424783" ref="public-sculpture"/>
-    <file name="tess below-crop-u4101.jpg" crc="3804188580" ref="public-sculpture"/>
-    <file name="top of stairs-crop-u4110.jpg" crc="3973086059" ref="public-sculpture"/>
-    <file name="west balcony second story-crop-u4119.jpg" crc="171232503" ref="public-sculpture"/>
-    <file name="finished_14-crop-u3281.jpg" crc="119870464" ref="index"/>
+    <file name="south west balcony second story.jpg" crc="499408599" ref="public-sculpture"/>
+    <file name="west balcony second story.jpg" crc="62690714" ref="public-sculpture"/>
+    <file name="finished_1.jpg" crc="144032283" ref="gc-slide-show"/>
+    <file name="finished_14-crop-u3281.jpg" crc="3992842329" ref="index"/>
+    <file name="finished_14.jpg" crc="460449424" ref="gc-slide-show"/>
+    <file name="finished_4.jpg" crc="4109140570" ref="gc-slide-show"/>
+    <file name="finished_5.jpg" crc="383772532" ref="gc-slide-show"/>
+    <file name="finished_6.jpg" crc="297017224" ref="gc-slide-show"/>
+    <file name="finished_8.jpg" crc="4050583911" ref="gc-slide-show"/>
+    <file name="finished_10.jpg" crc="230704319" ref="gc-slide-show"/>
+    <file name="finished_11.jpg" crc="3781849364" ref="gc-slide-show"/>
+    <file name="finished_13.jpg" crc="284930216" ref="gc-slide-show"/>
+    <file name="finished_15.jpg" crc="183578174" ref="gc-slide-show"/>
+    <file name="finished_16.jpg" crc="3966750133" ref="gc-slide-show"/>
+    <file name="finished_18.jpg" crc="230659654" ref="gc-slide-show"/>
+    <file name="finished_20.jpg" crc="456402806" ref="gc-slide-show"/>
+    <file name="finished_21.jpg" crc="3925756688" ref="gc-slide-show"/>
+    <file name="finished_22.jpg" crc="4199651112" ref="gc-slide-show"/>
+    <file name="finished_24.jpg" crc="3981501457" ref="gc-slide-show"/>
+    <file name="finished_27.jpg" crc="3825395921" ref="gc-slide-show"/>
+    <file name="finished_28.jpg" crc="3921516869" ref="gc-slide-show"/>
+    <file name="finished_29.jpg" crc="4017485885" ref="gc-slide-show"/>
+    <file name="finished_31.jpg" crc="401900962" ref="gc-slide-show"/>
+    <file name="finished_32.jpg" crc="226789542" ref="gc-slide-show"/>
+    <file name="finished_33.jpg" crc="4065203908" ref="gc-slide-show"/>
   </folder>
-  <file name="index.html" crc="4130105065" mt="1407377338385" redirect="true"/>
+  <file name="index.html" crc="4130105065" mt="1407380386100" redirect="true"/>
   <file name="about.html" crc="4145696414" mt="1406742521595" redirect="true"/>
   <file name="other-art.html" crc="234721705" mt="1406742521596" redirect="true"/>
   <file name="circulum-vite.html" crc="4015568985" mt="1406742521597" redirect="true"/>
-  <file name="public-sculpture.html" crc="319377920" mt="1407376954574" redirect="true"/>
+  <file name="public-sculpture.html" crc="44532865" mt="1407380384741" redirect="true"/>
   <file name="miscellaneous-gallery.html" crc="3836425565" mt="1407351938591" redirect="true"/>
   <file name="journal.html" crc="4227036144" mt="1407376784421" redirect="true"/>
+  <file name="gc-slide-show.html" crc="187513647" mt="1407380386103" redirect="true"/>
 </manifest>
