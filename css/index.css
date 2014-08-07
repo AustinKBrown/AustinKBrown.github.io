@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000004;
-	background-color: #0766A2;
+	color: #000010;
+	background-color: #3C08B8;
 }
 
 .html
@@ -235,11 +235,11 @@
 #u3281
 {
 	z-index: 2;
-	width: 816px;
+	width: 892px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 112px;
-	left: 71px;
+	left: 34px;
 }
 
 body

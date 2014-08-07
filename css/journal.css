@@ -1,7 +1,7 @@
 .version.journal /* version checker */
 {
-	color: #000014;
-	background-color: #D13CA7;
+	color: #0000E1;
+	background-color: #864FE8;
 }
 
 .html
@@ -333,6 +333,12 @@
 	width: 316px;
 }
 
+#u3520_img
+{
+	padding-bottom: 1px;
+	vertical-align: bottom;
+}
+
 #u3730
 {
 	z-index: 72;
@@ -395,7 +401,7 @@
 	width: 277px;
 }
 
-#u3520_img,#u3750_img,#u3744_img
+#u3750_img,#u3744_img
 {
 	vertical-align: bottom;
 }
