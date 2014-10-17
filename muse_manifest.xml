@@ -1,157 +1,78 @@
-<manifest alg="2" build="30" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1407380389020">
+<manifest alg="2" build="569" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1413582766741" iceMarkupVersion="2">
   <folder name="css">
-    <file name="site_global.css" crc="18571611"/>
-    <file name="index.css" crc="272369848" ref="index"/>
-    <file name="master_a-master.css" crc="355725086" ref="circulum-vite:other-art:about:miscellaneous-gallery:public-sculpture:index:journal"/>
-    <file name="about.css" crc="4289164354" ref="about"/>
-    <file name="circulum-vite.css" crc="321184916" ref="circulum-vite"/>
-    <file name="other-art.css" crc="4228552711" ref="other-art"/>
-    <file name="miscellaneous-gallery.css" crc="3794274993" ref="miscellaneous-gallery"/>
-    <file name="public-sculpture.css" crc="4073526946" ref="public-sculpture"/>
-    <file name="journal.css" crc="3783675880" ref="journal"/>
-    <file name="gc-slide-show.css" crc="4039706700" ref="gc-slide-show"/>
+    <file name="site_global.css" crc="242294986"/>
+    <file name="index.css" crc="4252457642" ref="index"/>
+    <file name="master_a-master.css" crc="487257142" ref="circulum-vite:about:index:ocean:edao:loai:gc"/>
+    <file name="about.css" crc="516121405" ref="about"/>
+    <file name="circulum-vite.css" crc="4130988754" ref="circulum-vite"/>
+    <file name="ocean.css" crc="292826256" ref="ocean"/>
+    <file name="edao.css" crc="110053479" ref="edao"/>
+    <file name="loai.css" crc="4193655040" ref="loai"/>
+    <file name="gc.css" crc="3918411695" ref="gc"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4245411419" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
-    <file name="museutils.js" crc="353204447" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
-    <file name="jquery.watch.js" crc="3923049248" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
-    <file name="jquery.musemenu.js" crc="4076024383" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal"/>
-    <file name="pie.js" crc="3827607177" ref="other-art:index:public-sculpture"/>
-    <file name="webpro.js" crc="317917375" ref="other-art:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
-    <file name="musewpslideshow.js" crc="177288662" ref="other-art:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
-    <file name="jquery.museoverlay.js" crc="524248676" ref="other-art:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
-    <file name="touchswipe.js" crc="367691663" ref="other-art:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
-    <file name="musewpdisclosure.js" crc="4003881138" ref="other-art:public-sculpture"/>
-    <file name="html5shiv.js" crc="4241844378" ref="about:index:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="323834883" ref="index:about:public-sculpture:other-art:circulum-vite:miscellaneous-gallery:journal"/>
+    <file name="jquery-1.8.3.min.js" crc="3769949617" ref="index:about:circulum-vite:gc:loai:edao:ocean"/>
+    <file name="museutils.js" crc="4050293121" ref="index:about:circulum-vite:gc:loai:edao:ocean"/>
+    <file name="jquery.watch.js" crc="3946357177" ref="index:about:circulum-vite:gc:loai:edao:ocean"/>
+    <file name="webpro.js" crc="140723489" ref="index:gc:loai:edao:ocean"/>
+    <file name="musewpslideshow.js" crc="4170221289" ref="index:gc:loai:edao:ocean"/>
+    <file name="jquery.museoverlay.js" crc="439400757" ref="index:gc:loai:edao:ocean"/>
+    <file name="touchswipe.js" crc="321465556" ref="index:gc:loai:edao:ocean"/>
   </folder>
   <folder name="images">
-    <file name="name.png" crc="311407197" ref="index:about:other-art:circulum-vite:public-sculpture:miscellaneous-gallery:journal:gc-slide-show"/>
-    <file name="what-.jpg" crc="3880324289" ref="other-art:miscellaneous-gallery"/>
-    <file name="summermovies2014.jpg" crc="4142367436" ref="other-art"/>
-    <file name="mad libs.jpg" crc="176639216" ref="other-art:miscellaneous-gallery"/>
-    <file name="learning to fly.jpg" crc="3826621138" ref="other-art:miscellaneous-gallery"/>
+    <file name="name.png" crc="311407197" ref="index:about:circulum-vite:gc:loai:edao:ocean"/>
     <file name="artist-s hands sq.jpg" crc="91339106" ref="about"/>
-    <file name="blank.gif" crc="4208392903" ref="other-art:public-sculpture:miscellaneous-gallery:gc-slide-show"/>
-    <file name="loading.gif" crc="3815509949" ref="other-art:public-sculpture:miscellaneous-gallery:gc-slide-show"/>
-    <file name="life of an installation_1.jpg" crc="192358985" ref="public-sculpture"/>
-    <file name="life of an installation_7.jpg" crc="4143143014" ref="public-sculpture"/>
-    <file name="life of an installation_9.jpg" crc="45440927" ref="public-sculpture"/>
-    <file name="life of an installation_50.jpg" crc="323839566" ref="public-sculpture"/>
-    <file name="senior gallery panarama.jpg" crc="4054141406" ref="public-sculpture"/>
-    <file name="et dices ad odorandum_1.jpg" crc="208544974" ref="public-sculpture"/>
-    <file name="et dices ad odorandum_10.jpg" crc="4241908704" ref="public-sculpture"/>
-    <file name="et dices ad odorandum_11.jpg" crc="4182504706" ref="public-sculpture"/>
-    <file name="et dices ad odorandum_23.jpg" crc="4120678139" ref="public-sculpture"/>
-    <file name="odorandum wrap_6.jpg" crc="3773722429" ref="public-sculpture"/>
-    <file name="odorandum wrap.jpg" crc="143291262" ref="public-sculpture"/>
-    <file name="barrel of sea horses.jpg" crc="4228715213" ref="other-art:miscellaneous-gallery"/>
-    <file name="boys at play.jpg" crc="3973359709" ref="other-art:miscellaneous-gallery"/>
-    <file name="girls at play.jpg" crc="452555602" ref="other-art:miscellaneous-gallery"/>
-    <file name="realities loop.jpg" crc="4051353224" ref="other-art:miscellaneous-gallery"/>
-    <file name="the old council.jpg" crc="4149284539" ref="other-art:miscellaneous-gallery"/>
-    <file name="tree of knowledge.jpg" crc="382969590" ref="other-art:miscellaneous-gallery"/>
-    <file name="tree of knowledge (bunny).jpg" crc="300321207" ref="other-art"/>
-    <file name="girls at play116x110.jpg" crc="315110140" ref="other-art"/>
-    <file name="prussian still life.jpg" crc="366656509" ref="other-art:miscellaneous-gallery"/>
-    <file name="reis.jpg" crc="432006879" ref="other-art:miscellaneous-gallery"/>
-    <file name="masks.jpg" crc="496672775" ref="other-art:miscellaneous-gallery"/>
-    <file name="amanda.jpg" crc="4243534754" ref="other-art"/>
-    <file name="spain germany and russia.jpg" crc="4009513031" ref="other-art"/>
-    <file name="cebimde.jpg" crc="531010211" ref="other-art:miscellaneous-gallery"/>
-    <file name="wife and husband (husband close).jpg" crc="99742353" ref="other-art:miscellaneous-gallery"/>
-    <file name="barnacle printing bath.jpg" crc="309747535" ref="other-art"/>
-    <file name="barnacles.jpg" crc="4026987784" ref="other-art"/>
-    <file name="spain germany and russia110x110.jpg" crc="487788883" ref="other-art"/>
-    <file name="recovered image series no 1.jpg" crc="112145140" ref="other-art"/>
-    <file name="recovered image series no 5.jpg" crc="4106694950" ref="other-art"/>
-    <file name="w2ater logo.jpg" crc="4117301612" ref="other-art"/>
-    <file name="sardinia by motorcycle logo.jpg" crc="3987301421" ref="other-art"/>
-    <file name="jasiel music logo.jpg" crc="3856312161" ref="other-art:miscellaneous-gallery"/>
-    <file name="pq character designs.jpg" crc="4005027240" ref="other-art"/>
-    <file name="sketches.jpg" crc="222966902" ref="other-art"/>
-    <file name="sketches 2.jpg" crc="462975429" ref="other-art"/>
-    <file name="sketches 3.jpg" crc="3973912787" ref="other-art"/>
-    <file name="recovered image series no 1133x110.jpg" crc="4249926338" ref="other-art"/>
-    <file name="recovered image series no 5110x124.jpg" crc="4110977654" ref="other-art"/>
-    <file name="w2ater logo116x110.jpg" crc="3835071020" ref="other-art"/>
-    <file name="sardinia by motorcycle logo132x110.jpg" crc="528082113" ref="other-art"/>
-    <file name="jasiel music logo110x116.jpg" crc="292050636" ref="other-art"/>
-    <file name="what-110x110.jpg" crc="3846328536" ref="other-art"/>
-    <file name="hood wordmark sq.jpg" crc="283327464" ref="other-art"/>
-    <file name="life of an installation_1-crop-u1312.jpg" crc="530840059" ref="public-sculpture"/>
-    <file name="life of an installation_7-crop-u1321.jpg" crc="3980363641" ref="public-sculpture"/>
-    <file name="life of an installation_9-crop-u1330.jpg" crc="3763586202" ref="public-sculpture"/>
-    <file name="life of an installation_50-crop-u1339.jpg" crc="485713718" ref="public-sculpture"/>
-    <file name="senior gallery panarama-crop-u1357.jpg" crc="3791491826" ref="public-sculpture"/>
-    <file name="et dices ad odorandum_1-crop-u930.jpg" crc="58322432" ref="public-sculpture"/>
-    <file name="et dices ad odorandum_10-crop-u1030.jpg" crc="471543981" ref="public-sculpture"/>
-    <file name="et dices ad odorandum_11-crop-u1039.jpg" crc="466072571" ref="public-sculpture"/>
-    <file name="et dices ad odorandum_23-crop-u1048.jpg" crc="510147102" ref="public-sculpture"/>
-    <file name="odorandum wrap_6-crop-u1057.jpg" crc="17895856" ref="public-sculpture"/>
-    <file name="odorandum wrap-crop-u1066.jpg" crc="453369750" ref="public-sculpture"/>
-    <file name="barrel of sea horses-crop-u2063.jpg" crc="3773068030" ref="other-art"/>
-    <file name="boys at play-crop-u2072.jpg" crc="4157860580" ref="other-art"/>
-    <file name="realities loop-crop-u2090.jpg" crc="3889015656" ref="other-art"/>
-    <file name="the old council-crop-u2099.jpg" crc="442605676" ref="other-art"/>
-    <file name="tree of knowledge-crop-u2108.jpg" crc="4255189941" ref="other-art"/>
-    <file name="tree of knowledge (bunny)-crop-u2117.jpg" crc="80742125" ref="other-art"/>
-    <file name="prussian still life-crop-u1972.jpg" crc="4160871875" ref="other-art"/>
-    <file name="reis-crop-u1981.jpg" crc="3836201715" ref="other-art"/>
-    <file name="masks-crop-u1963.jpg" crc="3984250686" ref="other-art"/>
-    <file name="amanda-crop-u1927.jpg" crc="516370523" ref="other-art"/>
-    <file name="cebimde-crop-u1954.jpg" crc="39870492" ref="other-art"/>
-    <file name="wife and husband (husband close)-crop-u1999.jpg" crc="507622546" ref="other-art"/>
-    <file name="barnacle printing bath-crop-u1936.jpg" crc="3808659788" ref="other-art"/>
-    <file name="barnacles-crop-u1945.jpg" crc="4269294243" ref="other-art"/>
-    <file name="pq character designs-crop-u2263.jpg" crc="517268072" ref="other-art"/>
-    <file name="summermovies2014-crop-u1790.jpg" crc="466796381" ref="other-art"/>
-    <file name="mad libs-crop-u2211.jpg" crc="3907683976" ref="other-art"/>
-    <file name="learning to fly-crop-u2254.jpg" crc="3937483931" ref="other-art"/>
-    <file name="sketches-crop-u2179.jpg" crc="4162085209" ref="other-art"/>
-    <file name="sketches 2-crop-u2188.jpg" crc="221695285" ref="other-art"/>
-    <file name="sketches 3-crop-u2197.jpg" crc="70478315" ref="other-art"/>
-    <file name="arches sheet.jpg" crc="29433372" ref="index:about:public-sculpture:other-art:circulum-vite:miscellaneous-gallery:journal"/>
-    <file name="u3447.png" crc="4234542890" ref="journal"/>
-    <file name="early in_3-crop-u3409.jpg" crc="4096653411" ref="journal"/>
-    <file name="early in_14.jpg" crc="474213958" ref="journal"/>
-    <file name="baron in the lift_7-crop-u3523.jpg" crc="486401288" ref="journal"/>
-    <file name="color adjusted for website-crop-u3520.jpg" crc="4247198101" ref="journal"/>
-    <file name="progress_14-crop-u3747.jpg" crc="439858953" ref="journal"/>
-    <file name="progress_11-crop-u3750.jpg" crc="3807680527" ref="journal"/>
-    <file name="progress_10-crop-u3744.jpg" crc="519346866" ref="journal"/>
-    <file name="south west balcony second story.jpg" crc="499408599" ref="public-sculpture"/>
-    <file name="west balcony second story.jpg" crc="62690714" ref="public-sculpture"/>
-    <file name="finished_1.jpg" crc="144032283" ref="gc-slide-show"/>
-    <file name="finished_14-crop-u3281.jpg" crc="3992842329" ref="index"/>
-    <file name="finished_14.jpg" crc="460449424" ref="gc-slide-show"/>
-    <file name="finished_4.jpg" crc="4109140570" ref="gc-slide-show"/>
-    <file name="finished_5.jpg" crc="383772532" ref="gc-slide-show"/>
-    <file name="finished_6.jpg" crc="297017224" ref="gc-slide-show"/>
-    <file name="finished_8.jpg" crc="4050583911" ref="gc-slide-show"/>
-    <file name="finished_10.jpg" crc="230704319" ref="gc-slide-show"/>
-    <file name="finished_11.jpg" crc="3781849364" ref="gc-slide-show"/>
-    <file name="finished_13.jpg" crc="284930216" ref="gc-slide-show"/>
-    <file name="finished_15.jpg" crc="183578174" ref="gc-slide-show"/>
-    <file name="finished_16.jpg" crc="3966750133" ref="gc-slide-show"/>
-    <file name="finished_18.jpg" crc="230659654" ref="gc-slide-show"/>
-    <file name="finished_20.jpg" crc="456402806" ref="gc-slide-show"/>
-    <file name="finished_21.jpg" crc="3925756688" ref="gc-slide-show"/>
-    <file name="finished_22.jpg" crc="4199651112" ref="gc-slide-show"/>
-    <file name="finished_24.jpg" crc="3981501457" ref="gc-slide-show"/>
-    <file name="finished_27.jpg" crc="3825395921" ref="gc-slide-show"/>
-    <file name="finished_28.jpg" crc="3921516869" ref="gc-slide-show"/>
-    <file name="finished_29.jpg" crc="4017485885" ref="gc-slide-show"/>
-    <file name="finished_31.jpg" crc="401900962" ref="gc-slide-show"/>
-    <file name="finished_32.jpg" crc="226789542" ref="gc-slide-show"/>
-    <file name="finished_33.jpg" crc="4065203908" ref="gc-slide-show"/>
+    <file name="blank.gif" crc="4208392903" ref="index:gc:loai:edao:ocean"/>
+    <file name="loading.gif" crc="3815509949" ref="index:gc:loai:edao:ocean"/>
+    <file name="life of an installation_1.jpg" crc="211313244" ref="index:loai"/>
+    <file name="life of an installation_9.jpg" crc="4193324349" ref="loai"/>
+    <file name="senior gallery panarama.jpg" crc="3871640257" ref="index:loai"/>
+    <file name="et dices ad odorandum_10.jpg" crc="477596138" ref="index:edao"/>
+    <file name="et dices ad odorandum_11.jpg" crc="274360581" ref="index:edao"/>
+    <file name="et dices ad odorandum_23.jpg" crc="64712134" ref="edao"/>
+    <file name="odorandum wrap_6.jpg" crc="493457172" ref="edao"/>
+    <file name="odorandum wrap.jpg" crc="327627381" ref="edao"/>
+    <file name="south west balcony second story.jpg" crc="499408599" ref="gc"/>
+    <file name="west balcony second story.jpg" crc="62690714" ref="gc"/>
+    <file name="finished_5.jpg" crc="383772532" ref="gc"/>
+    <file name="finished_6.jpg" crc="297017224" ref="gc"/>
+    <file name="finished_20.jpg" crc="456402806" ref="index:gc"/>
+    <file name="finished_22.jpg" crc="4199651112" ref="gc"/>
+    <file name="tape hangings_18.jpg" crc="3869716714" ref="index"/>
+    <file name="artist-s hands sq289x264.jpg" crc="65427072" ref="index"/>
+    <file name="finished_10-crop-u5814.jpg" crc="4126747829" ref="index"/>
+    <file name="et dices ad odorandum_10-crop-u5822.jpg" crc="4068312487" ref="index"/>
+    <file name="life of an installation_9-crop-u5818.jpg" crc="4252374850" ref="index"/>
+    <file name="20131112_the ocean_7-crop-u5820.jpg" crc="97095438" ref="index"/>
+    <file name="finished_10-crop-u7372.jpg" crc="40370410" ref="index:about:circulum-vite:gc:loai:edao:ocean"/>
+    <file name="et dices ad odorandum_10-crop-u7378.jpg" crc="4203855315" ref="index:about:circulum-vite:gc:loai:edao:ocean"/>
+    <file name="life of an installation_9-crop-u7374.jpg" crc="3786298234" ref="index:about:circulum-vite:gc:loai:edao:ocean"/>
+    <file name="20131112_the ocean_7-crop-u7376.jpg" crc="182653592" ref="index:about:circulum-vite:gc:loai:edao:ocean"/>
+    <file name="artist-s hands sq33x30.jpg" crc="257676634" ref="index"/>
+    <file name="finished_17.jpg" crc="18943587" ref="gc"/>
+    <file name="finished_20437x292.jpg" crc="4000203719" ref="gc"/>
+    <file name="senior gallery panarama-crop-u6557.jpg" crc="4193992165" ref="loai"/>
+    <file name="life of an installation_1483x322.jpg" crc="147758305" ref="loai"/>
+    <file name="life of an installation_9484x322.jpg" crc="285799473" ref="loai"/>
+    <file name="et dices ad odorandum_10482x321.jpg" crc="36314664" ref="edao"/>
+    <file name="et dices ad odorandum_11-crop-u6428.jpg" crc="406169511" ref="edao"/>
+    <file name="et dices ad odorandum_23-crop-u6501.jpg" crc="3784484862" ref="edao"/>
+    <file name="odorandum wrap_6-crop-u6516.jpg" crc="173814755" ref="edao"/>
+    <file name="odorandum wrap-crop-u6531.jpg" crc="4199813280" ref="edao"/>
+    <file name="20131112_ocean_10.jpg" crc="65302721" ref="ocean"/>
+    <file name="20131112_reflections_theocean_15.jpg" crc="117841108" ref="ocean"/>
+    <file name="20131112_the ocean_6.jpg" crc="4184249271" ref="ocean"/>
+    <file name="20131112_the ocean_15.jpg" crc="4281014703" ref="ocean"/>
+    <file name="20131112_ocean_10482x321.jpg" crc="418727602" ref="ocean"/>
+    <file name="20131112_reflections_theocean_15482x321.jpg" crc="455384963" ref="ocean"/>
+    <file name="20131112_the ocean_6482x321.jpg" crc="271896179" ref="ocean"/>
+    <file name="20131112_the ocean_15482x321.jpg" crc="3782429590" ref="ocean"/>
   </folder>
-  <file name="index.html" crc="4130105065" mt="1407380386100" redirect="true"/>
-  <file name="about.html" crc="4145696414" mt="1406742521595" redirect="true"/>
-  <file name="other-art.html" crc="234721705" mt="1406742521596" redirect="true"/>
-  <file name="circulum-vite.html" crc="4015568985" mt="1406742521597" redirect="true"/>
-  <file name="public-sculpture.html" crc="44532865" mt="1407380384741" redirect="true"/>
-  <file name="miscellaneous-gallery.html" crc="3836425565" mt="1407351938591" redirect="true"/>
-  <file name="journal.html" crc="4227036144" mt="1407376784421" redirect="true"/>
-  <file name="gc-slide-show.html" crc="187513647" mt="1407380386103" redirect="true"/>
+  <file name="index.html" crc="450980485" mt="1413529811208" redirect="true"/>
+  <file name="about.html" crc="26912307" mt="1413529811213" redirect="true"/>
+  <file name="circulum-vite.html" crc="471351246" mt="1413529811214" redirect="true"/>
+  <file name="gc.html" crc="4126516570" mt="1413529811215" redirect="true"/>
+  <file name="loai.html" crc="4271793835" mt="1413529811215" redirect="true"/>
+  <file name="edao.html" crc="3963788060" mt="1413529811216" redirect="true"/>
+  <file name="ocean.html" crc="287411146" mt="1413529811216" redirect="true"/>
 </manifest>

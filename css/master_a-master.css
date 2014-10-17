@@ -1,204 +1,72 @@
-#u2524
+#u5329
 {
-	-pie-box-shadow: 0px 8px 8px #7F7F7F;
-	-moz-box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
-	-webkit-box-shadow: 0px 8px 8px -1px rgba(0, 0, 0, 0.5);
-	box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.5);
 	border-style: none;
 	border-color: transparent;
-	background-color: #EFDBB7;
+	background-color: #CACAC8;
+	opacity: 0.85;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
 	position: fixed;
 }
 
-#u2538,#menuu336
+#u2538
 {
+	background-color: transparent;
 	position: fixed;
 }
 
-#u345
+#u7352,#u7372
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7378
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7374
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7376
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7372:hover,#u7378:hover,#u7374:hover,#u7376:hover
+{
+	background-color: #7F7F7F;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+
+#u8078
 {
 	background-color: transparent;
 	position: relative;
 }
 
-#u345:hover
+#u7366-4
 {
-	border-style: none;
-	border-color: transparent;
-}
-
-#u348-4
-{
-	border-style: none;
-	border-color: transparent;
 	background-color: transparent;
-	line-height: 19px;
+	font-size: 12px;
+	line-height: 14px;
+	text-align: right;
 	position: relative;
-}
-
-#u345:hover #u348-4
-{
-	background-color: transparent;
-}
-
-#u345:hover #u348-4 p
-{
-	color: #8C6239;
-	visibility: inherit;
-}
-
-#u381
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u345.MuseMenuActive,#u381:hover
-{
-	border-style: none;
-	border-color: transparent;
-}
-
-#u383-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 19px;
-	position: relative;
-}
-
-#u345.MuseMenuActive #u348-4,#u381:hover #u383-4
-{
-	background-color: transparent;
-}
-
-#u345.MuseMenuActive #u348-4 p,#u381:hover #u383-4 p
-{
-	color: #8C6239;
-	visibility: inherit;
-}
-
-#u3385
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u381.MuseMenuActive,#u3385:hover
-{
-	border-style: none;
-	border-color: transparent;
-}
-
-#u3388-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 19px;
-	position: relative;
-}
-
-#u381.MuseMenuActive #u383-4,#u3385:hover #u3388-4
-{
-	background-color: transparent;
-}
-
-#u381.MuseMenuActive #u383-4 p,#u3385:hover #u3388-4 p
-{
-	color: #8C6239;
-	visibility: inherit;
-}
-
-#u2819
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u3385.MuseMenuActive,#u2819:hover
-{
-	border-style: none;
-	border-color: transparent;
-}
-
-#u2821-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 19px;
-	position: relative;
-}
-
-#u3385.MuseMenuActive #u3388-4,#u2819:hover #u2821-4
-{
-	background-color: transparent;
-}
-
-#u3385.MuseMenuActive #u3388-4 p,#u2819:hover #u2821-4 p
-{
-	color: #8C6239;
-	visibility: inherit;
-}
-
-#u344,#u378,#u3382,#u2816,#u392
-{
-	position: relative;
-}
-
-#u395
-{
-	background-color: transparent;
-	position: relative;
-}
-
-#u2819.MuseMenuActive,#u395:hover
-{
-	border-style: none;
-	border-color: transparent;
-}
-
-#u395.MuseMenuActive
-{
-	border-style: none;
-	border-color: transparent;
-}
-
-#u397-4
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 19px;
-	position: relative;
-}
-
-#u2819.MuseMenuActive #u2821-4,#u395:hover #u397-4
-{
-	background-color: transparent;
-}
-
-#u395.MuseMenuActive #u397-4
-{
-	background-color: transparent;
-}
-
-#u2819.MuseMenuActive #u2821-4 p,#u395:hover #u397-4 p
-{
-	color: #8C6239;
-	visibility: inherit;
-}
-
-#u395.MuseMenuActive #u397-4 p
-{
-	color: #8C6239;
-	visibility: inherit;
-}
-
-.MenuItem /* unifiedNavBar */
-{
-	cursor: pointer;
 }
 
