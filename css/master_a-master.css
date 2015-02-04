@@ -1,62 +1,256 @@
-#u5329
+#u8288
+{
+	border-color: #000000;
+	background-color: #C69C6D;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	position: fixed;
+}
+
+#u8133-4
+{
+	position: fixed;
+}
+
+#u8133-4_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#menuu8253
 {
 	border-style: none;
 	border-color: transparent;
-	background-color: #CACAC8;
+	background-color: transparent;
 	opacity: 0.85;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
 	filter: alpha(opacity=85);
 	position: fixed;
 }
 
-#u2538
+#u8257
 {
 	background-color: transparent;
-	position: fixed;
+	opacity: 0.85;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
+	position: relative;
 }
 
-#u7352,#u7372
+#u8257:hover
+{
+	background-color: #998675;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u8257:active
+{
+	background-color: #6B6B6B;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u8260-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
 
-#u7378
+#u8257:hover #u8260-4 p
+{
+	color: #43270C;
+	visibility: inherit;
+}
+
+#u8257:active #u8260-4 p
+{
+	color: #43270C;
+	visibility: inherit;
+}
+
+#u8262
+{
+	background-color: transparent;
+	opacity: 0.85;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
+	position: relative;
+}
+
+#u8262:hover
+{
+	background-color: #998675;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u8262:active
+{
+	background-color: #6B6B6B;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u8265-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
 
-#u7374
+#u8257.MuseMenuActive #u8260-4 p,#u8262:hover #u8265-4 p
+{
+	color: #43270C;
+	visibility: inherit;
+}
+
+#u8262:active #u8265-4 p
+{
+	color: #43270C;
+	visibility: inherit;
+}
+
+#u8276
+{
+	background-color: transparent;
+	opacity: 0.85;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
+	position: relative;
+}
+
+#u8276:hover
+{
+	background-color: #998675;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u8276:active
+{
+	background-color: #6B6B6B;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u8277-4
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
 
-#u7376
+#u8262.MuseMenuActive #u8265-4 p,#u8276:hover #u8277-4 p
 {
-	border-style: none;
-	border-color: transparent;
+	color: #43270C;
+	visibility: inherit;
+}
+
+#u8276:active #u8277-4 p
+{
+	color: #43270C;
+	visibility: inherit;
+}
+
+#u8254,#u8261,#u8275,#u8268
+{
 	background-color: transparent;
 	position: relative;
 }
 
-#u7372:hover,#u7378:hover,#u7374:hover,#u7376:hover
+#u8271
 {
-	background-color: #7F7F7F;
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
+	background-color: transparent;
+	opacity: 0.85;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
+	position: relative;
 }
 
-#u8078
+#u8271:hover
 {
+	background-color: #998675;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u8271:active
+{
+	background-color: #6B6B6B;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u8257.MuseMenuActive,#u8262.MuseMenuActive,#u8276.MuseMenuActive,#u8271.MuseMenuActive
+{
+	background-color: #C7B299;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u8272-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	color: #000000;
+	text-align: center;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u8276.MuseMenuActive #u8277-4 p,#u8271:hover #u8272-4 p
+{
+	color: #43270C;
+	visibility: inherit;
+}
+
+#u8271:active #u8272-4 p
+{
+	color: #43270C;
+	visibility: inherit;
+}
+
+#u8271.MuseMenuActive #u8272-4 p
+{
+	color: #43270C;
+	visibility: inherit;
+}
+
+.MenuItem /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#u7352
+{
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 }

@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.spaces /* version checker */
 {
-	color: #0000E1;
-	background-color: #90C089;
+	color: #0000FA;
+	background-color: #2C01AA;
 }
 
 .html
@@ -22,60 +22,35 @@
 	margin-right: auto;
 }
 
-#pu8288
-{
-	width: 0.01px;
-	padding-bottom: 40px;
-	margin-right: -10000px;
-	margin-top: -22px;
-	margin-left: -100px;
-}
-
-#u8288
-{
-	z-index: 21;
-	width: 730px;
-	height: 34px;
-	top: 15px;
-	left: 0px;
-}
-
-#u8133-4
-{
-	z-index: 22;
-	top: 20px;
-	left: 35px;
-}
-
-#slideshowu5286
+#slideshowu8663
 {
 	z-index: 7;
 	width: 0.01px;
-	height: 574px;
+	height: 360px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 27px;
-	left: -100px;
+	margin-top: -36px;
+	left: -1119px;
 }
 
-#u5292
+#u8674
 {
 	position: absolute;
-	width: 1160px;
-	height: 574px;
+	width: 480px;
+	height: 360px;
 	background-color: transparent;
 }
 
-#u5292popup
+#u8674popup
 {
 	z-index: 8;
 }
 
-#u5522
+#u8677
 {
 	z-index: 9;
-	width: 1160px;
-	height: 574px;
+	width: 480px;
+	height: 360px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -83,11 +58,16 @@
 	position: relative;
 }
 
-#u5369
+#u8677_img
+{
+	padding: 35px 22px 34px;
+}
+
+#u8717
 {
 	z-index: 11;
-	width: 1160px;
-	height: 574px;
+	width: 480px;
+	height: 360px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -95,11 +75,16 @@
 	position: relative;
 }
 
-#u5412
+#u8717_img
+{
+	padding: 20px 37px 19px 38px;
+}
+
+#u8732
 {
 	z-index: 13;
-	width: 1160px;
-	height: 574px;
+	width: 480px;
+	height: 360px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -107,11 +92,17 @@
 	position: relative;
 }
 
-#u5424
+#u8732_img
+{
+	margin-left: -30px;
+	margin-right: -30px;
+}
+
+#u8747
 {
 	z-index: 15;
-	width: 1160px;
-	height: 574px;
+	width: 480px;
+	height: 360px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -119,28 +110,97 @@
 	position: relative;
 }
 
-#u5436
+#u8732_clip,#u8747_clip
+{
+	overflow: hidden;
+	width: 480px;
+	height: 360px;
+}
+
+#u8747_img
+{
+	margin: 19px -2px 19px -1px;
+}
+
+#u8682
+{
+	position: absolute;
+	width: 1110px;
+	top: 98px;
+	left: 1044px;
+}
+
+#u8682popup
 {
 	z-index: 17;
-	width: 1160px;
-	height: 574px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
 }
 
-#u5450
+#u8685
 {
-	z-index: 19;
-	width: 1160px;
-	height: 574px;
-	border-style: none;
-	border-color: transparent;
+	z-index: 18;
+	width: 270px;
+	height: 244px;
+	border-color: #6B6B6B;
 	background-color: transparent;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u8720
+{
+	z-index: 20;
+	width: 270px;
+	height: 244px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 280px;
+}
+
+#u8720_clip
+{
+	overflow: hidden;
+	width: 270px;
+	height: 244px;
+}
+
+#u8720_img
+{
+	margin-left: -19px;
+	margin-right: -19px;
+}
+
+#u8735
+{
+	z-index: 22;
+	width: 270px;
+	height: 244px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 560px;
+}
+
+#u8750
+{
+	z-index: 24;
+	width: 270px;
+	height: 244px;
+	border-color: #6B6B6B;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 840px;
+}
+
+#u8685:hover,#u8720:hover,#u8735:hover,#u8750:hover
+{
+	opacity: 0.7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+	filter: alpha(opacity=70);
+	margin: 0px -10000px 0px 0px;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -153,9 +213,34 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#menuu8253
+#pu8288
+{
+	width: 0.01px;
+	padding-bottom: 40px;
+	margin-right: -10000px;
+	margin-top: -22px;
+	margin-left: -100px;
+}
+
+#u8288
 {
 	z-index: 26;
+	width: 730px;
+	height: 34px;
+	top: 15px;
+	left: 0px;
+}
+
+#u8133-4
+{
+	z-index: 27;
+	top: 20px;
+	left: 35px;
+}
+
+#menuu8253
+{
+	z-index: 31;
 	width: 416px;
 	top: 15px;
 	left: 314px;
@@ -372,7 +457,7 @@
 	min-height: 39px;
 	margin-bottom: -38px;
 	margin-right: -10000px;
-	margin-top: 662px;
+	margin-top: 385px;
 }
 
 #u7366-4
@@ -382,7 +467,7 @@
 	min-height: 27px;
 	margin-bottom: -30px;
 	margin-right: -10000px;
-	margin-top: 666px;
+	margin-top: 389px;
 	left: 812px;
 }
 
@@ -397,6 +482,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -662px;
+	margin-bottom: -385px;
 }
 

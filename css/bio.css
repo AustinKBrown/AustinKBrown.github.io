@@ -1,7 +1,7 @@
-.version.index /* version checker */
+.version.bio /* version checker */
 {
-	color: #0000E1;
-	background-color: #90C089;
+	color: #0000F1;
+	background-color: #E413E3;
 }
 
 .html
@@ -33,7 +33,7 @@
 
 #u8288
 {
-	z-index: 21;
+	z-index: 25;
 	width: 730px;
 	height: 34px;
 	top: 15px;
@@ -42,120 +42,107 @@
 
 #u8133-4
 {
-	z-index: 22;
+	z-index: 26;
 	top: 20px;
 	left: 35px;
 }
 
-#slideshowu5286
+#pu2514-8
 {
-	z-index: 7;
 	width: 0.01px;
-	height: 574px;
-	position: relative;
 	margin-right: -10000px;
-	margin-top: 27px;
-	left: -100px;
+	margin-top: 110px;
+	margin-left: 20px;
 }
 
-#u5292
-{
-	position: absolute;
-	width: 1160px;
-	height: 574px;
-	background-color: transparent;
-}
-
-#u5292popup
-{
-	z-index: 8;
-}
-
-#u5522
+#u2514-8
 {
 	z-index: 9;
-	width: 1160px;
-	height: 574px;
-	border-style: none;
-	border-color: transparent;
+	width: 340px;
+	min-height: 228px;
 	background-color: transparent;
-	margin-right: -10000px;
 	position: relative;
 }
 
-#u5369
+#u2514-2
 {
-	z-index: 11;
-	width: 1160px;
-	height: 574px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
+	font-size: 24px;
+	line-height: 29px;
+	color: #C69C6D;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	font-weight: bold;
 }
 
-#u5412
+#u2514-3
 {
-	z-index: 13;
-	width: 1160px;
-	height: 574px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
+	color: #7F7F7F;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
-#u5424
+#u2514-5
 {
-	z-index: 15;
-	width: 1160px;
-	height: 574px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
-	position: relative;
+	font-size: 18px;
+	line-height: 22px;
+	color: #43270C;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 }
 
-#u5436
+#u2514-6
+{
+	text-align: right;
+	color: #7F7F7F;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u2515-4
 {
 	z-index: 17;
-	width: 1160px;
-	height: 574px;
-	border-style: none;
-	border-color: transparent;
+	width: 187px;
+	min-height: 27px;
 	background-color: transparent;
-	margin-right: -10000px;
+	text-align: right;
+	color: #C69C6D;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+	margin-left: 153px;
+	margin-top: 16px;
 	position: relative;
 }
 
-#u5450
+#u2689-4
 {
-	z-index: 19;
-	width: 1160px;
-	height: 574px;
-	border-style: none;
-	border-color: transparent;
+	z-index: 21;
+	width: 279px;
+	min-height: 41px;
 	background-color: transparent;
-	margin-right: -10000px;
+	line-height: 29px;
+	font-size: 24px;
+	color: #C69C6D;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	font-weight: bold;
+	margin-top: 16px;
 	position: relative;
 }
 
-.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+#u2689-4:hover
 {
-	cursor: pointer;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 41px;
+	margin: 16px 0px 0px;
 }
 
-.SSSlideLoading /* slideshowFreeStyle */
+#u2689
 {
-	background: url("../images/loading.gif") no-repeat center center;
+	font-weight: normal;
 }
 
 #menuu8253
 {
-	z-index: 26;
+	z-index: 30;
 	width: 416px;
 	top: 15px;
 	left: 314px;
@@ -365,6 +352,22 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u2421
+{
+	z-index: 7;
+	width: 559px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 110px;
+	left: 381px;
+}
+
+#u2421_img
+{
+	padding-right: 1px;
+}
+
 #u7352
 {
 	z-index: 2;
@@ -372,7 +375,7 @@
 	min-height: 39px;
 	margin-bottom: -38px;
 	margin-right: -10000px;
-	margin-top: 662px;
+	margin-top: 680px;
 }
 
 #u7366-4
@@ -382,7 +385,7 @@
 	min-height: 27px;
 	margin-bottom: -30px;
 	margin-right: -10000px;
-	margin-top: 666px;
+	margin-top: 684px;
 	left: 812px;
 }
 
@@ -397,6 +400,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -662px;
+	margin-bottom: -680px;
 }
 
