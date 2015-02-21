@@ -235,12 +235,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://AustinKBrown.com/images/-1%20man%20and%20dog2.jpg</loc>
-    <lastmod>2015-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://AustinKBrown.com/images/-3%20happy%20veggitables-crop-u9179.jpg</loc>
     <lastmod>2015-02-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -337,12 +331,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://AustinKBrown.com/images/finished_22-crop-u9453.jpg</loc>
-    <lastmod>2015-02-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://AustinKBrown.com/images/life%20of%20an%20installation_92.jpg</loc>
     <lastmod>2015-02-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -374,6 +362,18 @@
   </url>
   <url>
     <loc>http://AustinKBrown.com/images/u9462-4.png</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/finished_22-crop-u9531.jpg</loc>
+    <lastmod>2015-02-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u9480-4.png</loc>
     <lastmod>2015-02-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
