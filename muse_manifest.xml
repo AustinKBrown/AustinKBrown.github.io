@@ -1,83 +1,71 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1423038486331" iceMarkupVersion="2">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424480101846" iceMarkupVersion="2">
   <folder name="css">
-    <file name="site_global.css" crc="242294986"/>
-    <file name="index.css" crc="3784360073" ref="index"/>
-    <file name="master_a-master.css" crc="77890885" ref="circulum-vite:index:ocean:edao:loai:gc:bio:blog:vibrant-expressions:galleries:spaces"/>
-    <file name="circulum-vite.css" crc="390747897" ref="circulum-vite"/>
-    <file name="ocean.css" crc="4055430795" ref="ocean"/>
-    <file name="edao.css" crc="3827478951" ref="edao"/>
-    <file name="loai.css" crc="366665688" ref="loai"/>
-    <file name="gc.css" crc="300399794" ref="gc"/>
-    <file name="bio.css" crc="4058256355" ref="bio"/>
-    <file name="blog.css" crc="3942047677" ref="blog"/>
-    <file name="vibrant-expressions.css" crc="369016212" ref="vibrant-expressions"/>
-    <file name="galleries.css" crc="4271027436" ref="galleries"/>
-    <file name="spaces.css" crc="4197188010" ref="spaces"/>
+    <file name="site_global.css" crc="3767251341"/>
+    <file name="index.css" crc="4260967706" ref="index"/>
+    <file name="master_a-master.css" crc="4200512785" ref="circulum-vite:index:ocean:edao:loai:gc:bio:blog:vibrant-expressions:oils"/>
+    <file name="circulum-vite.css" crc="58811821" ref="circulum-vite"/>
+    <file name="ocean.css" crc="89546941" ref="ocean"/>
+    <file name="edao.css" crc="52940965" ref="edao"/>
+    <file name="loai.css" crc="4208255601" ref="loai"/>
+    <file name="gc.css" crc="4227550512" ref="gc"/>
+    <file name="bio.css" crc="451645839" ref="bio"/>
+    <file name="blog.css" crc="216528163" ref="blog"/>
+    <file name="vibrant-expressions.css" crc="4055826025" ref="vibrant-expressions"/>
+    <file name="oils.css" crc="4065798947" ref="oils"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:circulum-vite:gc:loai:edao:ocean:bio:galleries:blog:spaces:vibrant-expressions"/>
-    <file name="museutils.js" crc="3777594392" ref="index:circulum-vite:gc:loai:edao:ocean:bio:galleries:blog:spaces:vibrant-expressions"/>
-    <file name="jquery.watch.js" crc="4144919381" ref="index:circulum-vite:gc:loai:edao:ocean:bio:galleries:blog:spaces:vibrant-expressions"/>
-    <file name="webpro.js" crc="474087315" ref="index:gc:loai:edao:ocean:spaces:vibrant-expressions"/>
-    <file name="musewpslideshow.js" crc="274584885" ref="index:gc:loai:edao:ocean:spaces:vibrant-expressions"/>
-    <file name="jquery.museoverlay.js" crc="170414611" ref="index:gc:loai:edao:ocean:spaces:vibrant-expressions"/>
-    <file name="touchswipe.js" crc="100683906" ref="index:gc:loai:edao:ocean:spaces:vibrant-expressions"/>
-    <file name="jquery.musemenu.js" crc="415733523" ref="index:bio:circulum-vite:gc:loai:edao:ocean:galleries:blog:spaces:vibrant-expressions"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:bio:circulum-vite:gc:loai:edao:ocean:galleries:blog:spaces:vibrant-expressions"/>
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:vibrant-expressions:oils"/>
+    <file name="museutils.js" crc="3793461109" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:vibrant-expressions:oils"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:vibrant-expressions:oils"/>
+    <file name="webpro.js" crc="4263367560" ref="index:gc:loai:edao:ocean:vibrant-expressions"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index:gc:loai:edao:ocean:vibrant-expressions"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index:gc:loai:edao:ocean:vibrant-expressions"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index:gc:loai:edao:ocean:vibrant-expressions"/>
+    <file name="jquery.musemenu.js" crc="492415246" ref="index:bio:circulum-vite:gc:loai:edao:ocean:blog:vibrant-expressions:oils"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:bio:circulum-vite:gc:loai:edao:ocean:blog:vibrant-expressions:oils"/>
     <file name="pie.js" crc="3827607177" ref="vibrant-expressions"/>
   </folder>
   <folder name="images">
     <file name="artist-s hands sq.jpg" crc="91339106" ref="bio"/>
-    <file name="blank.gif" crc="4208392903" ref="index:gc:loai:edao:ocean:spaces:vibrant-expressions"/>
-    <file name="loading.gif" crc="3815509949" ref="index:gc:loai:edao:ocean:spaces:vibrant-expressions"/>
-    <file name="life of an installation_1.jpg" crc="211313244" ref="index:loai"/>
-    <file name="life of an installation_9.jpg" crc="4193324349" ref="loai"/>
+    <file name="blank.gif" crc="4208392903" ref="index:gc:loai:edao:ocean:vibrant-expressions"/>
+    <file name="loading.gif" crc="3815509949" ref="index:gc:loai:edao:ocean:vibrant-expressions"/>
+    <file name="life of an installation_1.jpg" crc="336288976" ref="index:loai"/>
+    <file name="life of an installation_9.jpg" crc="363923377" ref="index"/>
     <file name="senior gallery panarama.jpg" crc="3871640257" ref="index:loai"/>
-    <file name="et dices ad odorandum_10.jpg" crc="477596138" ref="index:edao"/>
-    <file name="et dices ad odorandum_11.jpg" crc="274360581" ref="index:edao"/>
-    <file name="et dices ad odorandum_23.jpg" crc="64712134" ref="edao"/>
-    <file name="odorandum wrap_6.jpg" crc="493457172" ref="edao"/>
-    <file name="odorandum wrap.jpg" crc="327627381" ref="edao"/>
+    <file name="et dices ad odorandum_10.jpg" crc="4079560682" ref="index:edao"/>
+    <file name="et dices ad odorandum_11.jpg" crc="3768017835" ref="index:edao"/>
+    <file name="et dices ad odorandum_23.jpg" crc="126365701" ref="edao"/>
+    <file name="odorandum wrap_6.jpg" crc="3856759696" ref="edao"/>
+    <file name="odorandum wrap.jpg" crc="526614507" ref="edao"/>
     <file name="south west balcony second story.jpg" crc="499408599" ref="gc"/>
     <file name="west balcony second story.jpg" crc="62690714" ref="gc"/>
     <file name="finished_5.jpg" crc="383772532" ref="gc"/>
     <file name="finished_6.jpg" crc="297017224" ref="gc"/>
     <file name="finished_20.jpg" crc="456402806" ref="index:gc"/>
     <file name="finished_22.jpg" crc="4199651112" ref="gc"/>
-    <file name="tape hangings_18.jpg" crc="3869716714" ref="index"/>
+    <file name="tape hangings_18.jpg" crc="4218333813" ref="index"/>
     <file name="finished_17.jpg" crc="18943587" ref="gc"/>
     <file name="finished_20437x292.jpg" crc="4000203719" ref="gc"/>
     <file name="senior gallery panarama-crop-u6557.jpg" crc="4193992165" ref="loai"/>
-    <file name="life of an installation_1483x322.jpg" crc="147758305" ref="loai"/>
-    <file name="life of an installation_9484x322.jpg" crc="285799473" ref="loai"/>
-    <file name="et dices ad odorandum_10482x321.jpg" crc="36314664" ref="edao"/>
-    <file name="et dices ad odorandum_11-crop-u6428.jpg" crc="406169511" ref="edao"/>
-    <file name="et dices ad odorandum_23-crop-u6501.jpg" crc="3784484862" ref="edao"/>
-    <file name="odorandum wrap_6-crop-u6516.jpg" crc="173814755" ref="edao"/>
-    <file name="odorandum wrap-crop-u6531.jpg" crc="4199813280" ref="edao"/>
+    <file name="life of an installation_1483x322.jpg" crc="163636177" ref="loai"/>
+    <file name="life of an installation_9484x322.jpg" crc="3815038079" ref="loai"/>
+    <file name="et dices ad odorandum_10482x321.jpg" crc="3905599164" ref="edao"/>
+    <file name="et dices ad odorandum_11-crop-u6428.jpg" crc="3924775206" ref="edao"/>
+    <file name="et dices ad odorandum_23-crop-u6501.jpg" crc="493572238" ref="edao"/>
+    <file name="odorandum wrap_6-crop-u6516.jpg" crc="352642173" ref="edao"/>
+    <file name="odorandum wrap-crop-u6531.jpg" crc="4274037157" ref="edao"/>
     <file name="20131112_ocean_10.jpg" crc="65302721" ref="ocean"/>
     <file name="20131112_reflections_theocean_15.jpg" crc="117841108" ref="ocean"/>
     <file name="20131112_the ocean_6.jpg" crc="4184249271" ref="ocean"/>
     <file name="20131112_the ocean_15.jpg" crc="4281014703" ref="ocean"/>
-    <file name="20131112_ocean_10482x321.jpg" crc="418727602" ref="ocean"/>
+    <file name="20131112_ocean_10482x321.jpg" crc="4031889670" ref="index"/>
     <file name="20131112_reflections_theocean_15482x321.jpg" crc="455384963" ref="ocean"/>
     <file name="20131112_the ocean_6482x321.jpg" crc="271896179" ref="ocean"/>
     <file name="20131112_the ocean_15482x321.jpg" crc="3782429590" ref="ocean"/>
-    <file name="u8133-4.png" crc="126097693" ref="index:bio:circulum-vite:gc:loai:edao:ocean:galleries:blog:spaces:vibrant-expressions"/>
-    <file name="main entry balcony floor2.jpg" crc="88027253" ref="galleries"/>
-    <file name="the old council.jpg" crc="371589089" ref="galleries"/>
-    <file name="prussian still life-crop-u9311.jpg" crc="3774285033" ref="galleries"/>
-    <file name="cebimde.jpg" crc="4243750353" ref="galleries"/>
-    <file name="-1 man and dog.jpg" crc="4219062126" ref="galleries"/>
-    <file name="what-.png" crc="459030365" ref="galleries"/>
-    <file name="u9351-4.png" crc="3934875965" ref="blog"/>
-    <file name="west balcony second story2.jpg" crc="62690714" ref="spaces"/>
-    <file name="et dices ad odorandum_11-crop-u64282.jpg" crc="406169511" ref="spaces"/>
-    <file name="20131112_the ocean_152.jpg" crc="4168369210" ref="spaces"/>
-    <file name="life of an installation_1483x3222.jpg" crc="147758305" ref="spaces"/>
-    <file name="west balcony second story-crop-u8685.jpg" crc="354008077" ref="spaces"/>
-    <file name="20131112_the ocean_15-crop-u8735.jpg" crc="154646295" ref="spaces"/>
-    <file name="life of an installation_1483x322-crop-u8750.jpg" crc="3962859659" ref="spaces"/>
+    <file name="u8133-4.png" crc="43829688" ref="index:bio:circulum-vite:gc:loai:edao:ocean:blog:vibrant-expressions:oils"/>
+    <file name="main entry balcony floor2.jpg" crc="88027253" ref="index"/>
+    <file name="-1 man and dog.jpg" crc="499755411" ref="index"/>
+    <file name="what-.png" crc="363003175" ref="index:blog"/>
     <file name="-1 man and dog2.jpg" crc="257958426" ref="vibrant-expressions"/>
     <file name="-3 happy veggitables-crop-u9179.jpg" crc="4099947845" ref="vibrant-expressions"/>
     <file name="dr013015-03 andrew laplant(hd).jpg" crc="4139188465" ref="vibrant-expressions"/>
@@ -94,16 +82,19 @@
     <file name="012915-05 stacy mohondro(hd)197x188.jpg" crc="412675785" ref="vibrant-expressions"/>
     <file name="dr013015-01 summer howard(hd)185x232.jpg" crc="531543676" ref="vibrant-expressions"/>
     <file name="dr013015-02 terri workman(hd)-crop-u9266.jpg" crc="456795504" ref="vibrant-expressions"/>
+    <file name="et dices ad odorandum_102.jpg" crc="4030379225" ref="index"/>
+    <file name="finished_22-crop-u9453.jpg" crc="535276052" ref="bio"/>
+    <file name="life of an installation_92.jpg" crc="455096273" ref="loai"/>
+    <file name="20131112_ocean_10482x3212.jpg" crc="418727602" ref="ocean"/>
   </folder>
-  <file name="index.html" crc="340221204" mt="1423038456497" redirect="true"/>
-  <file name="circulum-vite.html" crc="56151330" mt="1423038411891" redirect="true"/>
-  <file name="gc.html" crc="62237893" mt="1423038411891" redirect="true"/>
-  <file name="loai.html" crc="197930180" mt="1423038411892" redirect="true"/>
-  <file name="edao.html" crc="50515143" mt="1423038411893" redirect="true"/>
-  <file name="ocean.html" crc="13344229" mt="1423038411893" redirect="true"/>
-  <file name="bio.html" crc="354796276" mt="1423038411890" redirect="true"/>
-  <file name="galleries.html" crc="3844095099" mt="1423038411894" redirect="true"/>
-  <file name="blog.html" crc="232588736" mt="1423038411894" redirect="true"/>
-  <file name="spaces.html" crc="4038234041" mt="1423038411895" redirect="true"/>
-  <file name="vibrant-expressions.html" crc="4198697775" mt="1423038411896" redirect="true"/>
+  <file name="index.html" crc="176045185" mt="1424479805116" redirect="true"/>
+  <file name="circulum-vite.html" crc="4275740639" mt="1424479805116" redirect="true"/>
+  <file name="gc.html" crc="3946405223" mt="1424479805116" redirect="true"/>
+  <file name="loai.html" crc="3917069531" mt="1424479805116" redirect="true"/>
+  <file name="edao.html" crc="488104544" mt="1424479805116" redirect="true"/>
+  <file name="ocean.html" crc="3898516883" mt="1424479805116" redirect="true"/>
+  <file name="bio.html" crc="4241285242" mt="1424479829731" redirect="true"/>
+  <file name="blog.html" crc="40928295" mt="1424479805116" redirect="true"/>
+  <file name="vibrant-expressions.html" crc="180101592" mt="1424479805116" redirect="true"/>
+  <file name="oils.html" crc="4255093466" mt="1424479805116" redirect="true"/>
 </manifest>
