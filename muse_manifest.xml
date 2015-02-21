@@ -1,7 +1,7 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424480508285" iceMarkupVersion="2">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424483165992" iceMarkupVersion="2">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
-    <file name="index.css" crc="4260967706" ref="index"/>
+    <file name="index.css" crc="3769080916" ref="index"/>
     <file name="master_a-master.css" crc="4200512785" ref="circulum-vite:index:ocean:edao:loai:gc:bio:blog:vibrant-expressions:oils"/>
     <file name="circulum-vite.css" crc="58811821" ref="circulum-vite"/>
     <file name="ocean.css" crc="89546941" ref="ocean"/>
@@ -58,14 +58,13 @@
     <file name="20131112_reflections_theocean_15.jpg" crc="117841108" ref="ocean"/>
     <file name="20131112_the ocean_6.jpg" crc="4184249271" ref="ocean"/>
     <file name="20131112_the ocean_15.jpg" crc="4281014703" ref="ocean"/>
-    <file name="20131112_ocean_10482x321.jpg" crc="4031889670" ref="index"/>
     <file name="20131112_reflections_theocean_15482x321.jpg" crc="455384963" ref="ocean"/>
     <file name="20131112_the ocean_6482x321.jpg" crc="271896179" ref="ocean"/>
     <file name="20131112_the ocean_15482x321.jpg" crc="3782429590" ref="ocean"/>
     <file name="u8133-4.png" crc="43829688" ref="index:bio:circulum-vite:gc:loai:edao:ocean:blog:vibrant-expressions:oils"/>
     <file name="main entry balcony floor2.jpg" crc="88027253" ref="index"/>
-    <file name="-1 man and dog.jpg" crc="499755411" ref="index"/>
-    <file name="what-.png" crc="363003175" ref="index:blog"/>
+    <file name="-1 man and dog.jpg" crc="197407421" ref="index"/>
+    <file name="what-.png" crc="363003175" ref="blog"/>
     <file name="-1 man and dog2.jpg" crc="257958426" ref="vibrant-expressions"/>
     <file name="-3 happy veggitables-crop-u9179.jpg" crc="4099947845" ref="vibrant-expressions"/>
     <file name="dr013015-03 andrew laplant(hd).jpg" crc="4139188465" ref="vibrant-expressions"/>
@@ -82,12 +81,16 @@
     <file name="012915-05 stacy mohondro(hd)197x188.jpg" crc="412675785" ref="vibrant-expressions"/>
     <file name="dr013015-01 summer howard(hd)185x232.jpg" crc="531543676" ref="vibrant-expressions"/>
     <file name="dr013015-02 terri workman(hd)-crop-u9266.jpg" crc="456795504" ref="vibrant-expressions"/>
-    <file name="et dices ad odorandum_102.jpg" crc="4030379225" ref="index"/>
+    <file name="et dices ad odorandum_102.jpg" crc="428112713" ref="index"/>
     <file name="finished_22-crop-u9453.jpg" crc="535276052" ref="bio"/>
     <file name="life of an installation_92.jpg" crc="455096273" ref="loai"/>
     <file name="20131112_ocean_10482x3212.jpg" crc="418727602" ref="ocean"/>
+    <file name="u9460-4.png" crc="4224340687" ref="index"/>
+    <file name="20131112_ocean_10482x321-crop-u9428.jpg" crc="54866189" ref="index"/>
+    <file name="what-215x174.png" crc="13418553" ref="index"/>
+    <file name="u9462-4.png" crc="4226367780" ref="index"/>
   </folder>
-  <file name="index.html" crc="176045185" mt="1424479805116" redirect="true"/>
+  <file name="index.html" crc="3960442462" mt="1424483072727" redirect="true"/>
   <file name="circulum-vite.html" crc="4275740639" mt="1424479805116" redirect="true"/>
   <file name="gc.html" crc="3946405223" mt="1424479805116" redirect="true"/>
   <file name="loai.html" crc="3917069531" mt="1424479805116" redirect="true"/>
