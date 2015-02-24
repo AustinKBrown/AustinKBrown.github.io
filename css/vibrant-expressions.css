@@ -1,7 +1,7 @@
 .version.vibrant_expressions /* version checker */
 {
-	color: #0000FA;
-	background-color: #C61BFD;
+	color: #0000EB;
+	background-color: #5FDD9E;
 }
 
 .html
@@ -62,7 +62,7 @@
 
 #slideshowu8910
 {
-	z-index: 39;
+	z-index: 45;
 	width: 0.01px;
 	height: 413px;
 	position: relative;
@@ -87,12 +87,12 @@
 
 #u8923popup
 {
-	z-index: 40;
+	z-index: 46;
 }
 
 #u9052
 {
-	z-index: 41;
+	z-index: 47;
 	width: 1431px;
 	height: 829px;
 	background-color: transparent;
@@ -109,7 +109,7 @@
 
 #u9179
 {
-	z-index: 43;
+	z-index: 49;
 	width: 1431px;
 	height: 829px;
 	background-color: transparent;
@@ -127,7 +127,7 @@
 
 #u9193
 {
-	z-index: 45;
+	z-index: 51;
 	width: 1431px;
 	height: 829px;
 	background-color: transparent;
@@ -151,7 +151,7 @@
 
 #u9207
 {
-	z-index: 47;
+	z-index: 53;
 	width: 1431px;
 	height: 829px;
 	background-color: transparent;
@@ -169,7 +169,7 @@
 
 #u9221
 {
-	z-index: 49;
+	z-index: 55;
 	width: 1431px;
 	height: 829px;
 	background-color: transparent;
@@ -187,7 +187,7 @@
 
 #u9235
 {
-	z-index: 51;
+	z-index: 57;
 	width: 1431px;
 	height: 829px;
 	background-color: transparent;
@@ -205,7 +205,7 @@
 
 #u9249
 {
-	z-index: 53;
+	z-index: 59;
 	width: 1431px;
 	height: 829px;
 	background-color: transparent;
@@ -223,7 +223,7 @@
 
 #u9263
 {
-	z-index: 55;
+	z-index: 61;
 	width: 1431px;
 	height: 829px;
 	background-color: transparent;
@@ -251,12 +251,12 @@
 
 #u8913popup
 {
-	z-index: 57;
+	z-index: 63;
 }
 
 #u9055
 {
-	z-index: 58;
+	z-index: 64;
 	width: 185px;
 	height: 188px;
 	border-style: none;
@@ -269,7 +269,7 @@
 
 #u9182
 {
-	z-index: 60;
+	z-index: 66;
 	width: 185px;
 	height: 188px;
 	border-style: none;
@@ -282,7 +282,7 @@
 
 #u9196
 {
-	z-index: 62;
+	z-index: 68;
 	width: 185px;
 	height: 188px;
 	border-style: none;
@@ -295,7 +295,7 @@
 
 #u9210
 {
-	z-index: 64;
+	z-index: 70;
 	width: 185px;
 	height: 188px;
 	border-style: none;
@@ -316,7 +316,7 @@
 
 #u9224
 {
-	z-index: 66;
+	z-index: 72;
 	width: 185px;
 	height: 188px;
 	border-style: none;
@@ -330,7 +330,7 @@
 
 #u9238
 {
-	z-index: 68;
+	z-index: 74;
 	width: 185px;
 	height: 188px;
 	border-style: none;
@@ -350,7 +350,7 @@
 
 #u9252
 {
-	z-index: 70;
+	z-index: 76;
 	width: 185px;
 	height: 188px;
 	border-style: none;
@@ -377,7 +377,7 @@
 
 #u9266
 {
-	z-index: 72;
+	z-index: 78;
 	width: 185px;
 	height: 188px;
 	border-style: none;
@@ -404,8 +404,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 412px;
 	left: -951px;
@@ -413,7 +413,7 @@
 
 #u8911-4popup
 {
-	z-index: 74;
+	z-index: 80;
 }
 
 #u8920-4
@@ -423,8 +423,8 @@
 	min-height: 30px;
 	background-color: transparent;
 	color: #FFFFFF;
-	text-align: center;
 	line-height: 20px;
+	text-align: center;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	top: 412px;
 	left: 494px;
@@ -432,7 +432,7 @@
 
 #u8920-4popup
 {
-	z-index: 78;
+	z-index: 84;
 }
 
 .SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
@@ -455,27 +455,27 @@
 
 #u9489
 {
-	width: 137px;
+	width: 102px;
 	min-height: 34px;
 	margin-right: -10000px;
 }
 
 #u9492
 {
-	width: 137px;
+	width: 102px;
 	padding-bottom: 17px;
 }
 
 #u9492:hover
 {
-	width: 137px;
+	width: 102px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u9494-4
 {
-	width: 137px;
+	width: 102px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
@@ -486,115 +486,153 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 137px;
+	width: 102px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u9643
+{
+	width: 102px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 104px;
+}
+
+#u9646
+{
+	width: 102px;
+	padding-bottom: 17px;
+}
+
+#u9492.MuseMenuActive,#u9646:hover
+{
+	width: 102px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u9646.MuseMenuActive
+{
+	width: 102px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u9647-4
+{
+	width: 102px;
+	min-height: 17px;
+	margin-right: -10000px;
+	top: 8px;
+}
+
+#u9492.MuseMenuActive #u9494-4,#u9646:hover #u9647-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 102px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u9646.MuseMenuActive #u9647-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 102px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u9496
 {
-	width: 137px;
+	width: 103px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 139px;
+	left: 208px;
 }
 
 #u9497
 {
-	width: 137px;
+	width: 103px;
 	padding-bottom: 17px;
 }
 
-#u9492.MuseMenuActive,#u9497:hover
+#u9497:hover
 {
-	width: 137px;
-	min-height: 0px;
-	margin: 0px;
-}
-
-#u9497.MuseMenuActive
-{
-	width: 137px;
+	width: 103px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u9500-4
 {
-	width: 137px;
+	width: 103px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
 }
 
-#u9492.MuseMenuActive #u9494-4,#u9497:hover #u9500-4
+#u9497:hover #u9500-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 137px;
+	width: 103px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9497.MuseMenuActive #u9500-4
+#u9580
 {
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 137px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u9482
-{
-	width: 138px;
+	width: 103px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 278px;
+	left: 313px;
 }
 
-#u9485
+#u9581
 {
-	width: 138px;
+	width: 103px;
 	padding-bottom: 17px;
 }
 
-#u9485:hover
+#u9497.MuseMenuActive,#u9581:hover
 {
-	width: 138px;
+	width: 103px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u9485.MuseMenuActive
+#u9581.MuseMenuActive
 {
-	width: 138px;
+	width: 103px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u9487-4
+#u9584-4
 {
-	width: 138px;
+	width: 103px;
 	min-height: 17px;
 	margin-right: -10000px;
 	top: 8px;
 }
 
-#u9485:hover #u9487-4
+#u9497.MuseMenuActive #u9500-4,#u9581:hover #u9584-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 138px;
+	width: 103px;
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9485.MuseMenuActive #u9487-4
+#u9581.MuseMenuActive #u9584-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
-	width: 138px;
+	width: 103px;
 	margin: 0px -10000px 0px 0px;
 }
 
