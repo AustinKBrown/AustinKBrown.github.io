@@ -1,39 +1,45 @@
 .version.circulum_vite /* version checker */
 {
-	color: #000004;
-	background-color: #1EE413;
+	color: #000008;
+	background-color: #E7971D;
 }
 
 .html
 {
-	background-color: #FFFFFF;
+	background-color: #E1E2EC;
 }
 
 #page
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 300px;
+	min-height: 263px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
+	padding-bottom: 37px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#ppu9531
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: -86px;
+	margin-left: -100px;
 }
 
 #pu9531
 {
 	width: 0.01px;
 	padding-bottom: 134px;
-	margin-right: -10000px;
-	margin-top: -86px;
-	margin-left: -100px;
 }
 
 #u9531
 {
-	z-index: 2;
+	z-index: 73;
 	width: 1588px;
 	top: -50px;
 	left: 0px;
@@ -46,7 +52,7 @@
 
 #u9479
 {
-	z-index: 85;
+	z-index: 75;
 	width: 730px;
 	height: 34px;
 	top: 18px;
@@ -55,14 +61,36 @@
 
 #u9480-4
 {
-	z-index: 86;
+	z-index: 76;
 	top: 23px;
 	left: 35px;
 }
 
+#u9825
+{
+	z-index: 72;
+	height: 38px;
+	bottom: -2px;
+}
+
+#u9825-bw
+{
+	z-index: 72;
+}
+
+#u9821
+{
+	z-index: 105;
+	width: 225px;
+	min-height: 39px;
+	bottom: -10px;
+	left: 50%;
+	margin-left: -580px;
+}
+
 #u3322-53
 {
-	z-index: 4;
+	z-index: 2;
 	width: 558px;
 	min-height: 206px;
 	background-color: transparent;
@@ -98,9 +126,28 @@
 	color: #43270C;
 }
 
+#pu9824-7
+{
+	width: 0.01px;
+	padding-bottom: 359px;
+	margin-right: -10000px;
+	margin-top: -18px;
+	margin-left: 111px;
+}
+
+#u9824-7
+{
+	z-index: 110;
+	width: 701px;
+	min-height: 34px;
+	bottom: -5px;
+	left: 50%;
+	margin-left: -369px;
+}
+
 #menuu9481
 {
-	z-index: 90;
+	z-index: 80;
 	width: 416px;
 	top: 18px;
 	left: 314px;
@@ -291,7 +338,7 @@
 
 #u7319-17
 {
-	z-index: 57;
+	z-index: 55;
 	width: 352px;
 	min-height: 332px;
 	background-color: transparent;
@@ -328,36 +375,14 @@
 	color: #C69C6D;
 }
 
-#u9475
+#u9823-4
 {
-	z-index: 74;
-	width: 291px;
-	min-height: 39px;
-	margin-bottom: -42px;
-	margin-right: -10000px;
-	margin-top: 669px;
-}
-
-#u9478-6
-{
-	z-index: 79;
-	width: 304px;
-	min-height: 20px;
-	margin-bottom: -26px;
-	margin-right: -10000px;
-	margin-top: 672px;
-	left: 316px;
-}
-
-#u9477-4
-{
-	z-index: 75;
+	z-index: 106;
 	width: 148px;
 	min-height: 27px;
-	margin-bottom: -34px;
-	margin-right: -10000px;
-	margin-top: 673px;
-	left: 812px;
+	bottom: 1px;
+	left: 50%;
+	margin-left: 332px;
 }
 
 body
@@ -371,6 +396,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -668px;
 }
 

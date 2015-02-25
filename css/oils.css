@@ -1,7 +1,7 @@
 .version.oils /* version checker */
 {
-	color: #00001C;
-	background-color: #0ADECD;
+	color: #0000F5;
+	background-color: #385DA1;
 }
 
 .html
@@ -22,18 +22,23 @@
 	margin-right: auto;
 }
 
+#page_position_content
+{
+	margin-top: -22px;
+	padding-bottom: 282px;
+	width: 0.01px;
+}
+
 #pu8288
 {
 	width: 0.01px;
 	padding-bottom: 40px;
-	margin-right: -10000px;
-	margin-top: -22px;
 	margin-left: -100px;
 }
 
 #u8288
 {
-	z-index: 14;
+	z-index: 3;
 	width: 730px;
 	height: 34px;
 	top: 15px;
@@ -42,14 +47,14 @@
 
 #u8133-4
 {
-	z-index: 15;
+	z-index: 4;
 	top: 20px;
 	left: 35px;
 }
 
 #menuu8253
 {
-	z-index: 19;
+	z-index: 8;
 	width: 416px;
 	top: 15px;
 	left: 314px;
@@ -238,38 +243,46 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#pu7352
+#u9830
 {
-	width: 0.01px;
-	margin: 302px -10000px -41px -100px;
+	z-index: 2;
+	height: 38px;
+	bottom: 0px;
+}
+
+#u9830-bw
+{
+	z-index: 2;
 }
 
 #u7352
 {
-	z-index: 2;
+	z-index: 33;
 	width: 225px;
 	min-height: 39px;
-	margin-right: -10000px;
+	bottom: -5px;
+	left: 50%;
+	margin-left: -580px;
 }
 
 #u9376-7
 {
-	z-index: 7;
+	z-index: 38;
 	width: 701px;
 	min-height: 34px;
-	margin-right: -10000px;
-	left: 211px;
+	bottom: -2px;
+	left: 50%;
+	margin-left: -369px;
 }
 
 #u7366-4
 {
-	z-index: 3;
+	z-index: 34;
 	width: 148px;
 	min-height: 27px;
-	margin-bottom: -30px;
-	margin-right: -10000px;
-	margin-top: 303px;
-	left: 812px;
+	bottom: 5px;
+	left: 50%;
+	margin-left: 332px;
 }
 
 body
@@ -283,6 +296,5 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -302px;
 }
 

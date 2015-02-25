@@ -191,21 +191,18 @@
 	cursor: pointer;
 }
 
+#u9830
+{
+	background-color: #E1E2EC;
+	position: fixed;
+}
+
 #u7352
 {
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	position: relative;
-}
-
-#u7366-4
-{
-	background-color: transparent;
-	text-align: right;
-	font-size: 12px;
-	line-height: 14px;
-	position: relative;
+	position: fixed;
 }
 
 #u9376-7
@@ -214,6 +211,15 @@
 	text-align: center;
 	font-size: 12px;
 	line-height: 14px;
-	position: relative;
+	position: fixed;
+}
+
+#u7366-4
+{
+	background-color: transparent;
+	text-align: right;
+	font-size: 12px;
+	line-height: 14px;
+	position: fixed;
 }
 

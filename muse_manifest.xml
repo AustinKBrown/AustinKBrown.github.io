@@ -1,19 +1,19 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424819637670" iceMarkupVersion="2">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424825071722" iceMarkupVersion="2">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
-    <file name="index.css" crc="34794268" ref="index"/>
-    <file name="master_a-master.css" crc="3779703296" ref="index:ocean:edao:loai:gc:oils"/>
-    <file name="circulum-vite.css" crc="69133331" ref="circulum-vite"/>
-    <file name="ocean.css" crc="443985036" ref="ocean"/>
-    <file name="edao.css" crc="3868635714" ref="edao"/>
-    <file name="loai.css" crc="4185320158" ref="loai"/>
-    <file name="gc.css" crc="391636475" ref="gc"/>
-    <file name="bio.css" crc="4041912616" ref="bio"/>
-    <file name="blog.css" crc="2004690" ref="blog"/>
-    <file name="vibrant-expressions.css" crc="3948928414" ref="vibrant-expressions"/>
-    <file name="oils.css" crc="470474445" ref="oils"/>
-    <file name="master_b-master.css" crc="3763843010" ref="blog:vibrant-expressions:bio:circulum-vite:store"/>
-    <file name="store.css" crc="104748167" ref="store"/>
+    <file name="index.css" crc="289071157" ref="index"/>
+    <file name="master_a-master.css" crc="257987744" ref="index:ocean:edao:loai:gc:oils"/>
+    <file name="circulum-vite.css" crc="149395229" ref="circulum-vite"/>
+    <file name="ocean.css" crc="344014266" ref="ocean"/>
+    <file name="edao.css" crc="3833606743" ref="edao"/>
+    <file name="loai.css" crc="469120882" ref="loai"/>
+    <file name="gc.css" crc="1638185" ref="gc"/>
+    <file name="bio.css" crc="351299470" ref="bio"/>
+    <file name="blog.css" crc="4255706990" ref="blog"/>
+    <file name="vibrant-expressions.css" crc="93721890" ref="vibrant-expressions"/>
+    <file name="oils.css" crc="4114111905" ref="oils"/>
+    <file name="master_b-master.css" crc="273261268" ref="blog:vibrant-expressions:bio:circulum-vite:store"/>
+    <file name="store.css" crc="4203280430" ref="store"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:vibrant-expressions:oils:store"/>
@@ -99,15 +99,15 @@
     <file name="leek blossom_s.jpg" crc="188628851" ref="blog"/>
     <file name="close up.jpg" crc="150056943" ref="blog"/>
   </folder>
-  <file name="index.html" crc="3881046455" mt="1424817571402" redirect="true"/>
-  <file name="circulum-vite.html" crc="3845040035" mt="1424815997754" redirect="true"/>
-  <file name="gc.html" crc="3904882471" mt="1424817571402" redirect="true"/>
-  <file name="loai.html" crc="249625825" mt="1424817571402" redirect="true"/>
-  <file name="edao.html" crc="4015360887" mt="1424817571402" redirect="true"/>
-  <file name="ocean.html" crc="235444998" mt="1424817571402" redirect="true"/>
-  <file name="bio.html" crc="474396204" mt="1424815997754" redirect="true"/>
-  <file name="blog.html" crc="403082790" mt="1424817864888" redirect="true"/>
-  <file name="vibrant-expressions.html" crc="3893906577" mt="1424815997754" redirect="true"/>
-  <file name="oils.html" crc="184181836" mt="1424817571402" redirect="true"/>
-  <file name="store.html" crc="388759761" mt="1424819604678" redirect="true"/>
+  <file name="index.html" crc="4041308113" mt="1424820431576" redirect="true"/>
+  <file name="circulum-vite.html" crc="496629762" mt="1424820412737" redirect="true"/>
+  <file name="gc.html" crc="4081320074" mt="1424820431576" redirect="true"/>
+  <file name="loai.html" crc="3859362078" mt="1424820431576" redirect="true"/>
+  <file name="edao.html" crc="465608437" mt="1424820431576" redirect="true"/>
+  <file name="ocean.html" crc="4244758327" mt="1424820431576" redirect="true"/>
+  <file name="bio.html" crc="6866858" mt="1424820412737" redirect="true"/>
+  <file name="blog.html" crc="4013408749" mt="1424820412737" redirect="true"/>
+  <file name="vibrant-expressions.html" crc="59862477" mt="1424820412737" redirect="true"/>
+  <file name="oils.html" crc="3844432143" mt="1424820431576" redirect="true"/>
+  <file name="store.html" crc="362662468" mt="1424825048724" redirect="true"/>
 </manifest>
