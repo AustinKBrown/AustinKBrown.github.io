@@ -1,7 +1,7 @@
 .version.ocean /* version checker */
 {
-	color: #0000EE;
-	background-color: #287541;
+	color: #0000EA;
+	background-color: #A7CB4F;
 }
 
 .html
@@ -13,14 +13,20 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 238px;
+	min-height: 300px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	padding-bottom: 62px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#page_position_content
+{
+	margin-top: -36px;
+	padding-bottom: 62px;
+	width: 0.01px;
 }
 
 #slideshowu6845
@@ -28,10 +34,8 @@
 	z-index: 2;
 	width: 0.01px;
 	height: 1794px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -36px;
 	left: -100px;
+	position: relative;
 }
 
 #u6849
@@ -223,18 +227,12 @@
 	background: url("../images/loading.gif") no-repeat center center;
 }
 
-#ppu8288
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: -22px;
-	margin-left: -100px;
-}
-
 #pu8288
 {
 	width: 0.01px;
 	padding-bottom: 40px;
+	margin-left: -100px;
+	margin-top: -1779px;
 }
 
 #u8288
@@ -251,38 +249,6 @@
 	z-index: 32;
 	top: 20px;
 	left: 35px;
-}
-
-#u9830
-{
-	z-index: 30;
-	height: 38px;
-	bottom: 0px;
-}
-
-#u9830-bw
-{
-	z-index: 30;
-}
-
-#u7352
-{
-	z-index: 61;
-	width: 225px;
-	min-height: 39px;
-	bottom: -5px;
-	left: 50%;
-	margin-left: -480px;
-}
-
-#u9376-7
-{
-	z-index: 66;
-	width: 701px;
-	min-height: 34px;
-	bottom: -2px;
-	left: 50%;
-	margin-left: -349px;
 }
 
 #menuu8253
@@ -476,6 +442,48 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u9830
+{
+	z-index: 30;
+	height: 38px;
+	bottom: 0px;
+}
+
+#u9830-bw
+{
+	z-index: 30;
+}
+
+#u7352
+{
+	z-index: 61;
+	width: 225px;
+	min-height: 39px;
+	bottom: -7px;
+	left: 50%;
+	margin-left: -580px;
+}
+
+#u9376-7
+{
+	z-index: 66;
+	width: 701px;
+	min-height: 34px;
+	bottom: -2px;
+	left: 50%;
+	margin-left: -349px;
+}
+
+#u7366-4
+{
+	z-index: 62;
+	width: 148px;
+	min-height: 27px;
+	bottom: 5px;
+	left: 50%;
+	margin-left: 332px;
+}
+
 #u6982-9
 {
 	z-index: 21;
@@ -484,10 +492,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-left: 480px;
+	top: -1353px;
+	margin-bottom: -767px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 404px;
-	left: 480px;
 }
 
 #u6982-2
@@ -501,16 +509,6 @@
 {
 	font-size: 19px;
 	line-height: 27px;
-}
-
-#u7366-4
-{
-	z-index: 62;
-	width: 148px;
-	min-height: 27px;
-	bottom: 5px;
-	left: 50%;
-	margin-left: 332px;
 }
 
 body
