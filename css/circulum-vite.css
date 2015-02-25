@@ -1,7 +1,7 @@
 .version.circulum_vite /* version checker */
 {
-	color: #000008;
-	background-color: #E7971D;
+	color: #0000E9;
+	background-color: #77CC03;
 }
 
 .html
@@ -78,16 +78,6 @@
 	z-index: 72;
 }
 
-#u9821
-{
-	z-index: 105;
-	width: 225px;
-	min-height: 39px;
-	bottom: -10px;
-	left: 50%;
-	margin-left: -580px;
-}
-
 #u3322-53
 {
 	z-index: 2;
@@ -126,23 +116,32 @@
 	color: #43270C;
 }
 
-#pu9824-7
+#pu10048
 {
 	width: 0.01px;
-	padding-bottom: 359px;
+	padding-bottom: 365px;
 	margin-right: -10000px;
 	margin-top: -18px;
-	margin-left: 111px;
 }
 
-#u9824-7
+#u10048
+{
+	z-index: 105;
+	width: 225px;
+	min-height: 39px;
+	bottom: -11px;
+	left: 50%;
+	margin-left: -480px;
+}
+
+#u10051-7
 {
 	z-index: 110;
 	width: 701px;
 	min-height: 34px;
-	bottom: -5px;
+	bottom: -8px;
 	left: 50%;
-	margin-left: -369px;
+	margin-left: -349px;
 }
 
 #menuu9481
@@ -375,12 +374,12 @@
 	color: #C69C6D;
 }
 
-#u9823-4
+#u10050-4
 {
 	z-index: 106;
 	width: 148px;
 	min-height: 27px;
-	bottom: 1px;
+	bottom: -1px;
 	left: 50%;
 	margin-left: 332px;
 }

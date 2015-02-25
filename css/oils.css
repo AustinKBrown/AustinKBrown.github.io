@@ -1,7 +1,7 @@
 .version.oils /* version checker */
 {
-	color: #0000F5;
-	background-color: #385DA1;
+	color: #0000EB;
+	background-color: #99002C;
 }
 
 .html
@@ -13,27 +13,28 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 300px;
+	min-height: 18px;
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	padding-bottom: 282px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#page_position_content
+#ppu8288
 {
-	margin-top: -22px;
-	padding-bottom: 282px;
 	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: -22px;
+	margin-left: -100px;
 }
 
 #pu8288
 {
 	width: 0.01px;
 	padding-bottom: 40px;
-	margin-left: -100px;
 }
 
 #u8288
@@ -50,6 +51,38 @@
 	z-index: 4;
 	top: 20px;
 	left: 35px;
+}
+
+#u9830
+{
+	z-index: 2;
+	height: 38px;
+	bottom: 0px;
+}
+
+#u9830-bw
+{
+	z-index: 2;
+}
+
+#u7352
+{
+	z-index: 33;
+	width: 225px;
+	min-height: 39px;
+	bottom: -5px;
+	left: 50%;
+	margin-left: -480px;
+}
+
+#u9376-7
+{
+	z-index: 38;
+	width: 701px;
+	min-height: 34px;
+	bottom: -2px;
+	left: 50%;
+	margin-left: -349px;
 }
 
 #menuu8253
@@ -241,38 +274,6 @@
 	min-height: 17px;
 	width: 103px;
 	margin: 0px -10000px 0px 0px;
-}
-
-#u9830
-{
-	z-index: 2;
-	height: 38px;
-	bottom: 0px;
-}
-
-#u9830-bw
-{
-	z-index: 2;
-}
-
-#u7352
-{
-	z-index: 33;
-	width: 225px;
-	min-height: 39px;
-	bottom: -5px;
-	left: 50%;
-	margin-left: -580px;
-}
-
-#u9376-7
-{
-	z-index: 38;
-	width: 701px;
-	min-height: 34px;
-	bottom: -2px;
-	left: 50%;
-	margin-left: -369px;
 }
 
 #u7366-4

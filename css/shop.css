@@ -1,7 +1,7 @@
 .version.shop /* version checker */
 {
-	color: #000017;
-	background-color: #0F2808;
+	color: #0000FD;
+	background-color: #50EBE4;
 }
 
 .html
@@ -64,6 +64,61 @@
 	z-index: 10;
 	top: 23px;
 	left: 35px;
+}
+
+#u9825
+{
+	z-index: 6;
+	height: 38px;
+	bottom: -2px;
+}
+
+#u9825-bw
+{
+	z-index: 6;
+}
+
+#u10048
+{
+	z-index: 39;
+	width: 225px;
+	min-height: 39px;
+	bottom: -11px;
+	left: 50%;
+	margin-left: -480px;
+}
+
+#u9802
+{
+	z-index: 2;
+	width: 737px;
+	min-height: 739px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 98px;
+	left: 20px;
+}
+
+#pu10051-7
+{
+	width: 0.01px;
+	padding-bottom: 362px;
+	margin-right: -10000px;
+	margin-top: -18px;
+	margin-left: 131px;
+}
+
+#u10051-7
+{
+	z-index: 44;
+	width: 701px;
+	min-height: 34px;
+	bottom: -8px;
+	left: 50%;
+	margin-left: -349px;
 }
 
 #menuu9481
@@ -257,68 +312,12 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9825
-{
-	z-index: 6;
-	height: 38px;
-	bottom: -2px;
-}
-
-#u9825-bw
-{
-	z-index: 6;
-}
-
-#u9821
-{
-	z-index: 39;
-	width: 225px;
-	min-height: 39px;
-	bottom: -10px;
-	left: 50%;
-	margin-left: -580px;
-}
-
-#u9824-7
-{
-	z-index: 44;
-	width: 701px;
-	min-height: 34px;
-	bottom: -5px;
-	left: 50%;
-	margin-left: -369px;
-}
-
-#u9823-4
-{
-	z-index: 40;
-	width: 148px;
-	min-height: 27px;
-	bottom: 1px;
-	left: 50%;
-	margin-left: 332px;
-}
-
-#u9802
-{
-	z-index: 2;
-	width: 927px;
-	min-height: 739px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 98px;
-	left: -100px;
-}
-
 #pu9807
 {
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 108px;
-	margin-left: 840px;
+	margin-left: 780px;
 }
 
 #u9807
@@ -355,6 +354,16 @@
 	background-color: transparent;
 	margin-top: 25px;
 	position: relative;
+}
+
+#u10050-4
+{
+	z-index: 40;
+	width: 148px;
+	min-height: 27px;
+	bottom: -1px;
+	left: 50%;
+	margin-left: 332px;
 }
 
 body
