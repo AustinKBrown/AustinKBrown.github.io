@@ -1,7 +1,7 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424825071722" iceMarkupVersion="2">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424828867752" iceMarkupVersion="2">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
-    <file name="index.css" crc="289071157" ref="index"/>
+    <file name="index.css" crc="4089596402" ref="index"/>
     <file name="master_a-master.css" crc="257987744" ref="index:ocean:edao:loai:gc:oils"/>
     <file name="circulum-vite.css" crc="149395229" ref="circulum-vite"/>
     <file name="ocean.css" crc="344014266" ref="ocean"/>
@@ -9,28 +9,26 @@
     <file name="loai.css" crc="469120882" ref="loai"/>
     <file name="gc.css" crc="1638185" ref="gc"/>
     <file name="bio.css" crc="351299470" ref="bio"/>
-    <file name="blog.css" crc="4255706990" ref="blog"/>
-    <file name="vibrant-expressions.css" crc="93721890" ref="vibrant-expressions"/>
+    <file name="blog.css" crc="157920805" ref="blog"/>
     <file name="oils.css" crc="4114111905" ref="oils"/>
-    <file name="master_b-master.css" crc="273261268" ref="blog:vibrant-expressions:bio:circulum-vite:store"/>
-    <file name="store.css" crc="4203280430" ref="store"/>
+    <file name="master_b-master.css" crc="251345248" ref="blog:bio:circulum-vite:store"/>
+    <file name="store.css" crc="386869256" ref="store"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:vibrant-expressions:oils:store"/>
-    <file name="museutils.js" crc="3793461109" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:vibrant-expressions:oils:store"/>
-    <file name="jquery.watch.js" crc="3766403489" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:vibrant-expressions:oils:store"/>
-    <file name="webpro.js" crc="4263367560" ref="index:gc:loai:edao:ocean:vibrant-expressions:blog"/>
-    <file name="musewpslideshow.js" crc="126372691" ref="index:gc:loai:edao:ocean:vibrant-expressions:blog"/>
-    <file name="jquery.museoverlay.js" crc="3946374898" ref="index:gc:loai:edao:ocean:vibrant-expressions:blog"/>
-    <file name="touchswipe.js" crc="3796284560" ref="index:gc:loai:edao:ocean:vibrant-expressions:blog"/>
-    <file name="jquery.musemenu.js" crc="492415246" ref="index:bio:circulum-vite:gc:loai:edao:ocean:blog:vibrant-expressions:oils:store"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:bio:circulum-vite:gc:loai:edao:ocean:blog:vibrant-expressions:oils:store"/>
-    <file name="pie.js" crc="3827607177" ref="vibrant-expressions"/>
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:oils:store"/>
+    <file name="museutils.js" crc="3793461109" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:oils:store"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:oils:store"/>
+    <file name="webpro.js" crc="4263367560" ref="index:gc:loai:edao:ocean:blog"/>
+    <file name="musewpslideshow.js" crc="126372691" ref="index:gc:loai:edao:ocean:blog"/>
+    <file name="jquery.museoverlay.js" crc="3946374898" ref="index:gc:loai:edao:ocean:blog"/>
+    <file name="touchswipe.js" crc="3796284560" ref="index:gc:loai:edao:ocean:blog"/>
+    <file name="jquery.musemenu.js" crc="492415246" ref="index:bio:circulum-vite:gc:loai:edao:ocean:blog:oils:store"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:bio:circulum-vite:gc:loai:edao:ocean:blog:oils:store"/>
   </folder>
   <folder name="images">
     <file name="artist-s hands sq.jpg" crc="91339106" ref="bio"/>
-    <file name="blank.gif" crc="4208392903" ref="index:gc:loai:edao:ocean:vibrant-expressions"/>
-    <file name="loading.gif" crc="3815509949" ref="index:gc:loai:edao:ocean:vibrant-expressions"/>
+    <file name="blank.gif" crc="4208392903" ref="index:gc:loai:edao:ocean"/>
+    <file name="loading.gif" crc="3815509949" ref="index:gc:loai:edao:ocean"/>
     <file name="life of an installation_1.jpg" crc="336288976" ref="index:loai"/>
     <file name="life of an installation_9.jpg" crc="363923377" ref="index"/>
     <file name="senior gallery panarama.jpg" crc="3871640257" ref="index:loai"/>
@@ -67,47 +65,54 @@
     <file name="main entry balcony floor2.jpg" crc="169550685" ref="index"/>
     <file name="-1 man and dog.jpg" crc="197407421" ref="index"/>
     <file name="what-.png" crc="522574381" ref="index"/>
-    <file name="-3 happy veggitables-crop-u9179.jpg" crc="4099947845" ref="vibrant-expressions"/>
-    <file name="dr013015-03 andrew laplant(hd).jpg" crc="4139188465" ref="vibrant-expressions"/>
-    <file name="012915-02football.jpg" crc="66398255" ref="vibrant-expressions"/>
-    <file name="dr013015-04 stacy mohondro(hd).jpg" crc="3923360091" ref="vibrant-expressions"/>
-    <file name="012915-05 stacy mohondro(hd).jpg" crc="410064283" ref="vibrant-expressions"/>
-    <file name="dr013015-01 summer howard(hd).jpg" crc="4115609268" ref="vibrant-expressions"/>
-    <file name="dr013015-02 terri workman(hd).jpg" crc="519313808" ref="vibrant-expressions"/>
-    <file name="-1 man and dog-crop-u9055.jpg" crc="446429939" ref="vibrant-expressions"/>
-    <file name="-3 happy veggitables-crop-u9182.jpg" crc="95062744" ref="vibrant-expressions"/>
-    <file name="dr013015-03 andrew laplant(hd)-crop-u9196.jpg" crc="4005536395" ref="vibrant-expressions"/>
-    <file name="012915-02football-crop-u9210.jpg" crc="389821722" ref="vibrant-expressions"/>
-    <file name="dr013015-04 stacy mohondro(hd)-crop-u9224.jpg" crc="3864467226" ref="vibrant-expressions"/>
-    <file name="012915-05 stacy mohondro(hd)197x188.jpg" crc="412675785" ref="vibrant-expressions"/>
-    <file name="dr013015-01 summer howard(hd)185x232.jpg" crc="531543676" ref="vibrant-expressions"/>
-    <file name="dr013015-02 terri workman(hd)-crop-u9266.jpg" crc="456795504" ref="vibrant-expressions"/>
     <file name="et dices ad odorandum_102.jpg" crc="4157306746" ref="index"/>
     <file name="life of an installation_92.jpg" crc="455096273" ref="loai"/>
     <file name="u9460-4.png" crc="4224340687" ref="index"/>
     <file name="20131112_ocean_10482x321-crop-u9428.jpg" crc="54866189" ref="index"/>
     <file name="u9462-4.png" crc="4226367780" ref="index"/>
-    <file name="finished_22-crop-u9531.jpg" crc="535276052" ref="bio:circulum-vite:blog:vibrant-expressions:store"/>
-    <file name="u9480-4.png" crc="43829688" ref="bio:circulum-vite:blog:vibrant-expressions:store"/>
+    <file name="finished_22-crop-u9531.jpg" crc="535276052" ref="bio:circulum-vite:blog:store"/>
+    <file name="u9480-4.png" crc="43829688" ref="bio:circulum-vite:blog:store"/>
     <file name="u9614-4.png" crc="4063116458" ref="index"/>
     <file name="close up_s.jpg" crc="4256572699" ref="index"/>
     <file name="20131112_ocean_10482x321.jpg" crc="418727602" ref="ocean"/>
-    <file name="-1 man and dog2.jpg" crc="257958426" ref="vibrant-expressions"/>
-    <file name="road.jpg" crc="3979814168" ref="blog"/>
-    <file name="cactus.jpg" crc="4013389216" ref="blog"/>
-    <file name="u9777-4.png" crc="371098613" ref="blog"/>
+    <file name="u9777-4.png" crc="3909014612" ref="blog"/>
     <file name="leek blossom_s.jpg" crc="188628851" ref="blog"/>
     <file name="close up.jpg" crc="150056943" ref="blog"/>
+    <file name="u9831-4.png" crc="250938663" ref="blog"/>
+    <file name="hood11 (another comic).jpg" crc="400204400" ref="blog"/>
+    <file name="dougiesmall.jpg" crc="3761987263" ref="blog"/>
+    <file name="warm smiles(s).jpg" crc="4017116014" ref="blog"/>
+    <file name="families.jpg" crc="377284662" ref="blog"/>
+    <file name="coupleinthefield.jpg" crc="4099109394" ref="blog"/>
+    <file name="dr020715-01(s).jpg" crc="4066403773" ref="blog"/>
+    <file name="dr020715-04(s).jpg" crc="4184925496" ref="blog"/>
+    <file name="dr020715-03(s).jpg" crc="4135426151" ref="blog"/>
+    <file name="dr020915-01_jhudson_s.jpg" crc="496772812" ref="blog"/>
+    <file name="bros.jpg" crc="4294221801" ref="blog"/>
+    <file name="dr020515-02(s).jpg" crc="4157858368" ref="blog"/>
+    <file name="dr020515-04(s)-crop-u9972.jpg" crc="404273674" ref="blog"/>
+    <file name="dr020515-05(hd).jpg" crc="4252362578" ref="blog"/>
+    <file name="-3 happy veggies(s).jpg" crc="150475407" ref="blog"/>
+    <file name="mananddog.jpg" crc="3931436421" ref="blog"/>
+    <file name="dr020115-05(s).jpg" crc="532911400" ref="blog"/>
+    <file name="dr013015-04 stacy mohondro(s).jpg" crc="3885620385" ref="blog"/>
+    <file name="012915-05 stacy mohondro(s).jpg" crc="467216476" ref="blog"/>
+    <file name="dr013015-01 summer howard(s).jpg" crc="4078012394" ref="blog"/>
+    <file name="dr013015-02 terri workman(s).jpg" crc="3914449665" ref="blog"/>
+    <file name="dr020315-01(s).jpg" crc="4207315368" ref="blog"/>
+    <file name="dr020415-02(s)-crop-u10032.jpg" crc="99573280" ref="blog"/>
+    <file name="u10040-4.png" crc="392323776" ref="blog"/>
+    <file name="u10038-4.png" crc="3948808516" ref="blog"/>
+    <file name="u10039-4.png" crc="3948808516" ref="blog"/>
   </folder>
-  <file name="index.html" crc="4041308113" mt="1424820431576" redirect="true"/>
+  <file name="index.html" crc="369821020" mt="1424828620691" redirect="true"/>
   <file name="circulum-vite.html" crc="496629762" mt="1424820412737" redirect="true"/>
   <file name="gc.html" crc="4081320074" mt="1424820431576" redirect="true"/>
   <file name="loai.html" crc="3859362078" mt="1424820431576" redirect="true"/>
   <file name="edao.html" crc="465608437" mt="1424820431576" redirect="true"/>
   <file name="ocean.html" crc="4244758327" mt="1424820431576" redirect="true"/>
   <file name="bio.html" crc="6866858" mt="1424820412737" redirect="true"/>
-  <file name="blog.html" crc="4013408749" mt="1424820412737" redirect="true"/>
-  <file name="vibrant-expressions.html" crc="59862477" mt="1424820412737" redirect="true"/>
+  <file name="blog.html" crc="4063836142" mt="1424828854621" redirect="true"/>
   <file name="oils.html" crc="3844432143" mt="1424820431576" redirect="true"/>
-  <file name="store.html" crc="362662468" mt="1424825048724" redirect="true"/>
+  <file name="store.html" crc="4272048243" mt="1424825270260" redirect="true"/>
 </manifest>

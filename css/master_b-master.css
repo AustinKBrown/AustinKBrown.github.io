@@ -25,29 +25,6 @@
 	vertical-align: top;
 }
 
-#u9825
-{
-	background-color: #E1E2EC;
-	position: fixed;
-}
-
-#u9821
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: fixed;
-}
-
-#u9824-7
-{
-	background-color: transparent;
-	text-align: center;
-	font-size: 12px;
-	line-height: 14px;
-	position: fixed;
-}
-
 #menuu9481
 {
 	border-style: none;
@@ -218,6 +195,29 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u9825
+{
+	background-color: #E1E2EC;
+	position: fixed;
+}
+
+#u9821
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
+#u9824-7
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 12px;
+	line-height: 14px;
+	position: fixed;
 }
 
 #u9823-4
