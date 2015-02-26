@@ -1,7 +1,7 @@
 .version.bio /* version checker */
 {
-	color: #0000EF;
-	background-color: #EF4860;
+	color: #00000F;
+	background-color: #90A593;
 }
 
 .html
@@ -158,8 +158,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #C69C6D;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	margin-top: 16px;
@@ -185,8 +185,8 @@
 	min-height: 41px;
 	background-color: transparent;
 	color: #C69C6D;
-	line-height: 29px;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	margin-top: 31px;

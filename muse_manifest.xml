@@ -1,4 +1,4 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424857089731" iceMarkupVersion="2">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424914634445" iceMarkupVersion="2">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
     <file name="index.css" crc="492672063" ref="index"/>
@@ -8,8 +8,8 @@
     <file name="edao.css" crc="473876326" ref="edao"/>
     <file name="loai.css" crc="347006655" ref="loai"/>
     <file name="gc.css" crc="3872408657" ref="gc"/>
-    <file name="bio.css" crc="4025436256" ref="bio"/>
-    <file name="blog.css" crc="4080887151" ref="blog"/>
+    <file name="bio.css" crc="261137811" ref="bio"/>
+    <file name="blog.css" crc="4235468770" ref="blog"/>
     <file name="oils.css" crc="4059602484" ref="oils"/>
     <file name="master_b-master.css" crc="4175435674" ref="blog:bio:circulum-vite:shop"/>
     <file name="shop.css" crc="4204992806" ref="shop"/>
@@ -102,17 +102,15 @@
     <file name="dr020315-01(s).jpg" crc="4207315368" ref="blog"/>
     <file name="dr020415-02(s)-crop-u10032.jpg" crc="99573280" ref="blog"/>
     <file name="u10040-4.png" crc="392323776" ref="blog"/>
-    <file name="u10038-4.png" crc="3948808516" ref="blog"/>
-    <file name="u10039-4.png" crc="3948808516" ref="blog"/>
   </folder>
   <file name="index.html" crc="4066033823" mt="1424857074967" redirect="true"/>
-  <file name="circulum-vite.html" crc="4071875995" mt="1424857065753" redirect="true"/>
+  <file name="circulum-vite.html" crc="4071875995" mt="1424914612458" redirect="true"/>
   <file name="gc.html" crc="172564875" mt="1424857074967" redirect="true"/>
   <file name="loai.html" crc="3883762509" mt="1424857074967" redirect="true"/>
   <file name="edao.html" crc="3829974619" mt="1424857074967" redirect="true"/>
   <file name="ocean.html" crc="3808001633" mt="1424857074967" redirect="true"/>
-  <file name="bio.html" crc="491360876" mt="1424857065753" redirect="true"/>
-  <file name="blog.html" crc="72023589" mt="1424857065753" redirect="true"/>
+  <file name="bio.html" crc="491360876" mt="1424914612458" redirect="true"/>
+  <file name="blog.html" crc="3783660201" mt="1424914625407" redirect="true"/>
   <file name="oils.html" crc="4193725357" mt="1424857074967" redirect="true"/>
-  <file name="shop.html" crc="87811464" mt="1424857065753" redirect="true"/>
+  <file name="shop.html" crc="87811464" mt="1424914612458" redirect="true"/>
 </manifest>
