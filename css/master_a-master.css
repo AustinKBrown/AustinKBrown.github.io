@@ -231,7 +231,7 @@
 	position: fixed;
 }
 
-#u7352
+#u10556,#u7352
 {
 	border-style: none;
 	border-color: transparent;
@@ -242,9 +242,9 @@
 #u10103-4
 {
 	background-color: transparent;
+	line-height: 14px;
 	text-align: right;
 	font-size: 12px;
-	line-height: 14px;
 	position: fixed;
 }
 

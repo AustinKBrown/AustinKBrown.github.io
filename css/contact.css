@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000000;
-	background-color: #4C6A05;
+	color: #000016;
+	background-color: #3921F6;
 }
 
 .html
@@ -38,7 +38,7 @@
 
 #u9531
 {
-	z-index: 64;
+	z-index: 63;
 	width: 1588px;
 	top: -50px;
 	left: 0px;
@@ -51,7 +51,7 @@
 
 #u9479
 {
-	z-index: 66;
+	z-index: 65;
 	width: 730px;
 	height: 34px;
 	top: 18px;
@@ -60,14 +60,14 @@
 
 #u9480-4
 {
-	z-index: 67;
+	z-index: 66;
 	top: 23px;
 	left: 35px;
 }
 
 #menuu9481
 {
-	z-index: 71;
+	z-index: 70;
 	width: 416px;
 	top: 18px;
 	left: 314px;
@@ -368,8 +368,8 @@
 	filter: alpha(opacity=45);
 	padding: 6px;
 	color: #C69C6D;
-	font-size: 13px;
 	line-height: 13px;
+	font-size: 13px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -485,8 +485,8 @@
 	filter: alpha(opacity=45);
 	padding: 6px;
 	color: #C69C6D;
-	font-size: 13px;
 	line-height: 13px;
+	font-size: 13px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -569,8 +569,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -598,8 +598,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #FF0000;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -627,8 +627,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #00FF00;
-	font-size: 12px;
 	line-height: 12px;
+	font-size: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -750,8 +750,8 @@
 	filter: alpha(opacity=45);
 	padding: 6px;
 	color: #C69C6D;
-	font-size: 13px;
 	line-height: 13px;
+	font-size: 13px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -848,36 +848,46 @@
 	visibility: hidden;
 }
 
-#u9825
+#u10564
 {
-	z-index: 63;
-	height: 38px;
-	bottom: -2px;
+	z-index: 101;
+	height: 74px;
+	bottom: 0px;
 }
 
-#u9825-bw
+#u10564-bw
 {
-	z-index: 63;
+	z-index: 101;
 }
 
-#u10048
+#u10568
+{
+	z-index: 107;
+	width: 63px;
+	min-height: 28px;
+	bottom: 42px;
+	left: 50%;
+	margin-left: -557px;
+}
+
+#u10565
 {
 	z-index: 102;
 	width: 225px;
 	min-height: 39px;
-	bottom: -8px;
+	bottom: 31px;
 	left: 50%;
-	margin-left: -580px;
+	margin-left: -491px;
 }
 
-#u10050-4
+#u10567-4
 {
 	z-index: 103;
 	width: 303px;
 	min-height: 27px;
-	bottom: -1px;
+	bottom: 41px;
 	left: 50%;
-	margin-left: 177px;
+	margin-left: 222px;
 }
 
 body

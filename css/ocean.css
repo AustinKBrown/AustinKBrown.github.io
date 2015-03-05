@@ -1,7 +1,7 @@
 .version.ocean /* version checker */
 {
 	color: #000013;
-	background-color: #2EA5C3;
+	background-color: #4F7D57;
 }
 
 .html
@@ -483,7 +483,7 @@
 #u9830
 {
 	z-index: 30;
-	height: 38px;
+	height: 74px;
 	bottom: 0px;
 }
 
@@ -492,14 +492,24 @@
 	z-index: 30;
 }
 
+#u10556
+{
+	z-index: 72;
+	width: 63px;
+	min-height: 28px;
+	bottom: 42px;
+	left: 50%;
+	margin-left: -557px;
+}
+
 #u7352
 {
 	z-index: 67;
 	width: 225px;
 	min-height: 39px;
-	bottom: -7px;
+	bottom: 31px;
 	left: 50%;
-	margin-left: -580px;
+	margin-left: -491px;
 }
 
 #u10103-4
@@ -507,9 +517,9 @@
 	z-index: 68;
 	width: 303px;
 	min-height: 27px;
-	bottom: 5px;
+	bottom: 41px;
 	left: 50%;
-	margin-left: 177px;
+	margin-left: 222px;
 }
 
 #u6982-9

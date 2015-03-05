@@ -25,6 +25,20 @@
 	vertical-align: top;
 }
 
+#u10570
+{
+	background-color: #E1E2EC;
+	position: fixed;
+}
+
+#u10574,#u10571
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
+}
+
 #menuu10355
 {
 	border-style: none;
@@ -231,6 +245,15 @@
 	cursor: pointer;
 }
 
+#u10573-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	text-align: right;
+	font-size: 12px;
+	position: fixed;
+}
+
 #u10425,#u10422,#u10428,#u10431
 {
 	border-style: none;
@@ -251,28 +274,5 @@
 	color: #A67C52;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
-}
-
-#u10391
-{
-	background-color: #E1E2EC;
-	position: fixed;
-}
-
-#u10353
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: fixed;
-}
-
-#u10352-4
-{
-	background-color: transparent;
-	text-align: right;
-	font-size: 12px;
-	line-height: 14px;
-	position: fixed;
 }
 
