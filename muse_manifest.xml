@@ -1,32 +1,37 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424914634445" iceMarkupVersion="2">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1425524586415" iceMarkupVersion="2">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
-    <file name="index.css" crc="492672063" ref="index"/>
-    <file name="master_a-master.css" crc="257987744" ref="index:ocean:edao:loai:gc:oils"/>
-    <file name="circulum-vite.css" crc="4088392591" ref="circulum-vite"/>
-    <file name="ocean.css" crc="3936865103" ref="ocean"/>
-    <file name="edao.css" crc="473876326" ref="edao"/>
-    <file name="loai.css" crc="347006655" ref="loai"/>
-    <file name="gc.css" crc="3872408657" ref="gc"/>
-    <file name="bio.css" crc="261137811" ref="bio"/>
-    <file name="blog.css" crc="4235468770" ref="blog"/>
-    <file name="oils.css" crc="4059602484" ref="oils"/>
-    <file name="master_b-master.css" crc="4175435674" ref="blog:bio:circulum-vite:shop"/>
-    <file name="shop.css" crc="4204992806" ref="shop"/>
+    <file name="index.css" crc="527786681" ref="index"/>
+    <file name="master_a-master.css" crc="4136225989" ref="index:ocean:edao:loai:gc:oils"/>
+    <file name="circulum-vite.css" crc="143899327" ref="circulum-vite"/>
+    <file name="ocean.css" crc="321824195" ref="ocean"/>
+    <file name="edao.css" crc="47041155" ref="edao"/>
+    <file name="loai.css" crc="3971348557" ref="loai"/>
+    <file name="gc.css" crc="443005541" ref="gc"/>
+    <file name="blog.css" crc="4082304085" ref="blog"/>
+    <file name="oils.css" crc="111625675" ref="oils"/>
+    <file name="master_b-master.css" crc="4124114280" ref="blog:circulum-vite:shop:contact:about"/>
+    <file name="shop.css" crc="4197664607" ref="shop"/>
+    <file name="contact.css" crc="5007877" ref="contact"/>
+    <file name="about.css" crc="206106833" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:oils:shop"/>
-    <file name="museutils.js" crc="3793461109" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:oils:shop"/>
-    <file name="jquery.watch.js" crc="3766403489" ref="index:circulum-vite:gc:loai:edao:ocean:bio:blog:oils:shop"/>
-    <file name="webpro.js" crc="4263367560" ref="index:gc:loai:edao:ocean:blog"/>
+    <file name="jquery-1.8.3.min.js" crc="221936890" ref="index:circulum-vite:gc:loai:edao:ocean:blog:oils:shop:about:contact"/>
+    <file name="museutils.js" crc="3793461109" ref="index:circulum-vite:gc:loai:edao:ocean:blog:oils:shop:about:contact"/>
+    <file name="jquery.watch.js" crc="3766403489" ref="index:circulum-vite:gc:loai:edao:ocean:blog:oils:shop:about:contact"/>
+    <file name="webpro.js" crc="4263367560" ref="index:gc:loai:edao:ocean:blog:contact"/>
     <file name="musewpslideshow.js" crc="126372691" ref="index:gc:loai:edao:ocean:blog"/>
     <file name="jquery.museoverlay.js" crc="3946374898" ref="index:gc:loai:edao:ocean:blog"/>
     <file name="touchswipe.js" crc="3796284560" ref="index:gc:loai:edao:ocean:blog"/>
-    <file name="jquery.musemenu.js" crc="492415246" ref="index:bio:circulum-vite:gc:loai:edao:ocean:blog:oils:shop"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:bio:circulum-vite:gc:loai:edao:ocean:blog:oils:shop"/>
+    <file name="jquery.musemenu.js" crc="492415246" ref="index:circulum-vite:gc:loai:edao:ocean:blog:oils:shop:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:circulum-vite:gc:loai:edao:ocean:blog:oils:shop:about:contact"/>
+    <file name="form_check.php" crc="428372696" ref="contact"/>
+    <file name="form_throttle.php" crc="419817817" ref="contact"/>
+    <file name="form_process.php" crc="3787855599" ref="contact"/>
+    <file name="form-u10084.php" crc="4248020382" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="artist-s hands sq.jpg" crc="91339106" ref="bio"/>
+    <file name="artist-s hands sq.jpg" crc="91339106" ref="about"/>
     <file name="blank.gif" crc="4208392903" ref="index:gc:loai:edao:ocean"/>
     <file name="loading.gif" crc="3815509949" ref="index:gc:loai:edao:ocean"/>
     <file name="life of an installation_1.jpg" crc="336288976" ref="index:loai"/>
@@ -70,10 +75,10 @@
     <file name="u9460-4.png" crc="4224340687" ref="index"/>
     <file name="20131112_ocean_10482x321-crop-u9428.jpg" crc="89044928" ref="index"/>
     <file name="u9462-4.png" crc="4226367780" ref="index"/>
-    <file name="finished_22-crop-u9531.jpg" crc="535276052" ref="bio:circulum-vite:blog:shop"/>
-    <file name="u9480-4.png" crc="43829688" ref="bio:circulum-vite:blog:shop"/>
+    <file name="finished_22-crop-u9531.jpg" crc="535276052" ref="circulum-vite:blog:shop:about:contact"/>
+    <file name="u9480-4.png" crc="43829688" ref="circulum-vite:blog:shop:about:contact"/>
     <file name="u9614-4.png" crc="4063116458" ref="index"/>
-    <file name="close up_s.jpg" crc="4256572699" ref="index"/>
+    <file name="close up_s.jpg" crc="478032202" ref="index"/>
     <file name="20131112_ocean_10482x321.jpg" crc="418727602" ref="ocean"/>
     <file name="u9777-4.png" crc="3909014612" ref="blog"/>
     <file name="leek blossom_s.jpg" crc="188628851" ref="blog"/>
@@ -102,15 +107,24 @@
     <file name="dr020315-01(s).jpg" crc="4207315368" ref="blog"/>
     <file name="dr020415-02(s)-crop-u10032.jpg" crc="99573280" ref="blog"/>
     <file name="u10040-4.png" crc="392323776" ref="blog"/>
+    <file name="ocean stoll_1s.jpg" crc="4107666722" ref="index:blog"/>
+    <file name="u10183-4.png" crc="4280758935" ref="blog"/>
+    <file name="ocean stoll_s.gif" crc="4243880462" ref="blog"/>
+    <file name="u10102-4.png" crc="3828869891" ref="contact"/>
+    <file name="u10100-17.png" crc="4161109276" ref="contact"/>
+    <file name="u10100-17-r.png" crc="205009469" ref="contact"/>
+    <file name="u10100-17-m.png" crc="24686169" ref="contact"/>
+    <file name="u10100-17-fs.png" crc="520263768" ref="contact"/>
   </folder>
-  <file name="index.html" crc="4066033823" mt="1424857074967" redirect="true"/>
-  <file name="circulum-vite.html" crc="4071875995" mt="1424914612458" redirect="true"/>
-  <file name="gc.html" crc="172564875" mt="1424857074967" redirect="true"/>
-  <file name="loai.html" crc="3883762509" mt="1424857074967" redirect="true"/>
-  <file name="edao.html" crc="3829974619" mt="1424857074967" redirect="true"/>
-  <file name="ocean.html" crc="3808001633" mt="1424857074967" redirect="true"/>
-  <file name="bio.html" crc="491360876" mt="1424914612458" redirect="true"/>
-  <file name="blog.html" crc="3783660201" mt="1424914625407" redirect="true"/>
-  <file name="oils.html" crc="4193725357" mt="1424857074967" redirect="true"/>
-  <file name="shop.html" crc="87811464" mt="1424914612458" redirect="true"/>
+  <file name="index.html" crc="169117896" mt="1425521252234" redirect="true"/>
+  <file name="circulum-vite.html" crc="4005695184" mt="1425521262661" redirect="true"/>
+  <file name="gc.html" crc="4082919531" mt="1425520615669" redirect="true"/>
+  <file name="loai.html" crc="281514312" mt="1425520615669" redirect="true"/>
+  <file name="edao.html" crc="4143276884" mt="1425520615669" redirect="true"/>
+  <file name="ocean.html" crc="3931677749" mt="1425520615669" redirect="true"/>
+  <file name="blog.html" crc="161127334" mt="1425524488982" redirect="true"/>
+  <file name="oils.html" crc="4239104911" mt="1425520615669" redirect="true"/>
+  <file name="shop.html" crc="3855511394" mt="1425521262661" redirect="true"/>
+  <file name="about.html" crc="4118258828" mt="1425524560020" redirect="true"/>
+  <file name="contact.html" crc="388669122" mt="1425521262661" redirect="true"/>
 </manifest>

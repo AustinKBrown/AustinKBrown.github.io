@@ -132,7 +132,41 @@
 	visibility: inherit;
 }
 
-#u8254,#u9636,#u8275,#u9573
+#u10076
+{
+	background-color: transparent;
+	opacity: 0.85;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
+	position: relative;
+}
+
+#u10076:hover
+{
+	background-color: #C7C9ED;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+}
+
+#u10079-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	color: #000000;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u8276.MuseMenuActive #u8277-4 p,#u10076:hover #u10079-4 p
+{
+	color: #43270C;
+	visibility: inherit;
+}
+
+#u8254,#u9636,#u8275,#u10075,#u9573
 {
 	background-color: transparent;
 	position: relative;
@@ -155,7 +189,7 @@
 	filter: alpha(opacity=100);
 }
 
-#u8257.MuseMenuActive,#u9637.MuseMenuActive,#u8276.MuseMenuActive,#u9574.MuseMenuActive
+#u8257.MuseMenuActive,#u9637.MuseMenuActive,#u8276.MuseMenuActive,#u10076.MuseMenuActive,#u9574.MuseMenuActive
 {
 	background-color: #C7C9ED;
 	opacity: 0.5;
@@ -174,7 +208,7 @@
 	position: relative;
 }
 
-#u8276.MuseMenuActive #u8277-4 p,#u9574:hover #u9577-4 p
+#u10076.MuseMenuActive #u10079-4 p,#u9574:hover #u9577-4 p
 {
 	color: #43270C;
 	visibility: inherit;
@@ -205,16 +239,7 @@
 	position: fixed;
 }
 
-#u9376-7
-{
-	background-color: transparent;
-	text-align: center;
-	font-size: 12px;
-	line-height: 14px;
-	position: fixed;
-}
-
-#u7366-4
+#u10103-4
 {
 	background-color: transparent;
 	text-align: right;
