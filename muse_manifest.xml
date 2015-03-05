@@ -1,4 +1,4 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1425524586415" iceMarkupVersion="2">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1425525878526" iceMarkupVersion="2">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
     <file name="index.css" crc="527786681" ref="index"/>
@@ -8,7 +8,7 @@
     <file name="edao.css" crc="47041155" ref="edao"/>
     <file name="loai.css" crc="3971348557" ref="loai"/>
     <file name="gc.css" crc="443005541" ref="gc"/>
-    <file name="blog.css" crc="4082304085" ref="blog"/>
+    <file name="blog.css" crc="292107990" ref="blog"/>
     <file name="oils.css" crc="111625675" ref="oils"/>
     <file name="master_b-master.css" crc="4124114280" ref="blog:circulum-vite:shop:contact:about"/>
     <file name="shop.css" crc="4197664607" ref="shop"/>
@@ -117,14 +117,14 @@
     <file name="u10100-17-fs.png" crc="520263768" ref="contact"/>
   </folder>
   <file name="index.html" crc="169117896" mt="1425521252234" redirect="true"/>
-  <file name="circulum-vite.html" crc="4005695184" mt="1425521262661" redirect="true"/>
+  <file name="circulum-vite.html" crc="4005695184" mt="1425525533333" redirect="true"/>
   <file name="gc.html" crc="4082919531" mt="1425520615669" redirect="true"/>
   <file name="loai.html" crc="281514312" mt="1425520615669" redirect="true"/>
   <file name="edao.html" crc="4143276884" mt="1425520615669" redirect="true"/>
   <file name="ocean.html" crc="3931677749" mt="1425520615669" redirect="true"/>
-  <file name="blog.html" crc="161127334" mt="1425524488982" redirect="true"/>
+  <file name="blog.html" crc="121975485" mt="1425525869263" redirect="true"/>
   <file name="oils.html" crc="4239104911" mt="1425520615669" redirect="true"/>
-  <file name="shop.html" crc="3855511394" mt="1425521262661" redirect="true"/>
-  <file name="about.html" crc="4118258828" mt="1425524560020" redirect="true"/>
-  <file name="contact.html" crc="388669122" mt="1425521262661" redirect="true"/>
+  <file name="shop.html" crc="3855511394" mt="1425525533333" redirect="true"/>
+  <file name="about.html" crc="4118258828" mt="1425525533333" redirect="true"/>
+  <file name="contact.html" crc="187808669" mt="1425525533333" redirect="true"/>
 </manifest>

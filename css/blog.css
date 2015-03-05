@@ -1,7 +1,7 @@
 .version.blog /* version checker */
 {
-	color: #0000F3;
-	background-color: #530455;
+	color: #000011;
+	background-color: #6936D6;
 }
 
 .html
@@ -741,14 +741,14 @@
 #u10113
 {
 	z-index: 97;
-	width: 612px;
-	height: 1071px;
+	width: 638px;
+	height: 1081px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
-	padding: 87px 403px 995px 141px;
+	padding: 87px 377px 985px 141px;
 }
 
 #u10183-4
@@ -776,7 +776,7 @@
 #u10202-19
 {
 	z-index: 104;
-	width: 300px;
+	width: 330px;
 	min-height: 564px;
 	background-color: transparent;
 	color: #C69C6D;
@@ -791,7 +791,7 @@
 	z-index: 123;
 	width: 612px;
 	background-color: transparent;
-	margin-top: 18px;
+	margin-top: 28px;
 	position: relative;
 }
 
