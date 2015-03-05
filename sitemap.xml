@@ -295,12 +295,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://AustinKBrown.com/images/u9777-4.png</loc>
-    <lastmod>2015-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://AustinKBrown.com/images/leek%20blossom_s.jpg</loc>
     <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -308,12 +302,6 @@
   </url>
   <url>
     <loc>http://AustinKBrown.com/images/close%20up.jpg</loc>
-    <lastmod>2015-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://AustinKBrown.com/images/u9831-4.png</loc>
     <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -385,12 +373,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://AustinKBrown.com/images/dr020515-04(s)-crop-u9972.jpg</loc>
-    <lastmod>2015-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://AustinKBrown.com/images/dr020515-05(hd).jpg</loc>
     <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -445,25 +427,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://AustinKBrown.com/images/dr020415-02(s)-crop-u10032.jpg</loc>
-    <lastmod>2015-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://AustinKBrown.com/images/u10040-4.png</loc>
-    <lastmod>2015-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://AustinKBrown.com/images/ocean%20stoll_1s.jpg</loc>
-    <lastmod>2015-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://AustinKBrown.com/images/u10183-4.png</loc>
     <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -500,6 +464,60 @@
   </url>
   <url>
     <loc>http://AustinKBrown.com/images/u10100-17-fs.png</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/finished_22-crop-u10392.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u10350-4.png</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u10529-4.png</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u10304-4.png</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u10518-4.png</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u10496-4.png</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/dr020515-04(s)-crop-u10474.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/dr020415-02(s)-crop-u10494.jpg</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/images/u10448-4.png</loc>
     <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -566,6 +584,30 @@
   </url>
   <url>
     <loc>http://AustinKBrown.com/contact.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/the-blossom-and-the-bee.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/hear-the-waves.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/people-of-the-palouse.html</loc>
+    <lastmod>2015-03-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://AustinKBrown.com/hood-comic.html</loc>
     <lastmod>2015-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
