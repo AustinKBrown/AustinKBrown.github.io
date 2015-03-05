@@ -25,20 +25,6 @@
 	vertical-align: top;
 }
 
-#u9825
-{
-	background-color: #E1E2EC;
-	position: fixed;
-}
-
-#u10048
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: fixed;
-}
-
 #menuu9481
 {
 	border-style: none;
@@ -243,6 +229,20 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u9825
+{
+	background-color: #E1E2EC;
+	position: fixed;
+}
+
+#u10048
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: fixed;
 }
 
 #u10050-4
