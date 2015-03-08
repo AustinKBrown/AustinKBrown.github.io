@@ -1,4 +1,4 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425781486703">
+<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425781580155">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
     <file name="master_blog-master.css" crc="3762181012" ref="blog:people-of-the-palouse:hear-the-waves:the-blossom-and-the-bee:hood-comic"/>
