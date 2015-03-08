@@ -1,7 +1,12 @@
 .version.people_of_the_palouse /* version checker */
 {
+<<<<<<< HEAD
 	color: #00000E;
 	background-color: #055CCC;
+=======
+	color: #000008;
+	background-color: #A5B0D2;
+>>>>>>> origin/master
 }
 
 .html
@@ -33,7 +38,11 @@
 
 #u10392
 {
+<<<<<<< HEAD
 	z-index: 189;
+=======
+	z-index: 82;
+>>>>>>> origin/master
 	width: 1588px;
 	top: -50px;
 	left: 0px;
@@ -46,7 +55,11 @@
 
 #u8288
 {
+<<<<<<< HEAD
 	z-index: 191;
+=======
+	z-index: 84;
+>>>>>>> origin/master
 	width: 730px;
 	height: 34px;
 	top: 15px;
@@ -55,8 +68,13 @@
 
 #u8133-4
 {
+<<<<<<< HEAD
 	z-index: 192;
 	top: 20px;
+=======
+	z-index: 85;
+	top: 23px;
+>>>>>>> origin/master
 	left: 35px;
 }
 
@@ -379,7 +397,11 @@
 
 #menuu8253
 {
+<<<<<<< HEAD
 	z-index: 196;
+=======
+	z-index: 89;
+>>>>>>> origin/master
 	width: 416px;
 	top: 15px;
 	left: 314px;
@@ -1025,6 +1047,7 @@
 	min-height: 347.64999999999645px;
 }
 
+<<<<<<< HEAD
 #u10677-4
 {
 	z-index: 93;
@@ -1083,6 +1106,61 @@
 	margin-right: -10000px;
 	margin-top: 114px;
 	left: 124px;
+=======
+#pu10570
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: -1609px;
+}
+
+#pu10570_position_content
+{
+	margin-top: -262px;
+	padding-bottom: 336px;
+}
+
+#u10570
+{
+	z-index: 120;
+	height: 74px;
+	bottom: -37px;
+}
+
+#u10570-bw
+{
+	z-index: 120;
+}
+
+#u10574
+{
+	z-index: 126;
+	width: 63px;
+	min-height: 28px;
+	bottom: 5px;
+	left: 50%;
+	margin-left: -557px;
+}
+
+#u10571
+{
+	z-index: 121;
+	width: 225px;
+	min-height: 39px;
+	bottom: -6px;
+	left: 50%;
+	margin-left: -491px;
+}
+
+#u10573-4
+{
+	z-index: 122;
+	width: 303px;
+	min-height: 27px;
+	bottom: 4px;
+	left: 50%;
+	margin-left: 222px;
+>>>>>>> origin/master
 }
 
 body

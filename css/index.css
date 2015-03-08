@@ -1,7 +1,12 @@
 .version.index /* version checker */
 {
+<<<<<<< HEAD
 	color: #0000F2;
 	background-color: #424980;
+=======
+	color: #0000F7;
+	background-color: #0132C1;
+>>>>>>> origin/master
 }
 
 .html
@@ -386,6 +391,51 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+<<<<<<< HEAD
+=======
+#u9830
+{
+	z-index: 76;
+	height: 74px;
+	bottom: 0px;
+}
+
+#u9830-bw
+{
+	z-index: 76;
+}
+
+#u10556
+{
+	z-index: 118;
+	width: 63px;
+	min-height: 28px;
+	bottom: 42px;
+	left: 50%;
+	margin-left: -557px;
+}
+
+#u7352
+{
+	z-index: 113;
+	width: 225px;
+	min-height: 39px;
+	bottom: 31px;
+	left: 50%;
+	margin-left: -491px;
+}
+
+#u10103-4
+{
+	z-index: 114;
+	width: 303px;
+	min-height: 27px;
+	bottom: 41px;
+	left: 50%;
+	margin-left: 222px;
+}
+
+>>>>>>> origin/master
 #u9614-4
 {
 	z-index: 55;
@@ -475,9 +525,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #A67C52;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	margin-top: 7px;
 	position: relative;
@@ -535,9 +585,9 @@
 	min-height: 37px;
 	background-color: transparent;
 	color: #A67C52;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	margin-left: 32px;
 	margin-top: 6px;
@@ -678,9 +728,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #A67C52;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	margin-top: 1px;
 	position: relative;
@@ -731,9 +781,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #A67C52;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -780,9 +830,9 @@
 	min-height: 28px;
 	background-color: transparent;
 	color: #A67C52;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -801,9 +851,9 @@
 	min-height: 13px;
 	background-color: transparent;
 	color: #A67C52;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -816,9 +866,9 @@
 	min-height: 35px;
 	background-color: transparent;
 	color: #A67C52;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;

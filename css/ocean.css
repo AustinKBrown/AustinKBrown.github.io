@@ -1,7 +1,12 @@
 .version.ocean /* version checker */
 {
+<<<<<<< HEAD
 	color: #000014;
 	background-color: #DCD20C;
+=======
+	color: #000013;
+	background-color: #4F7D57;
+>>>>>>> origin/master
 }
 
 .html
@@ -512,8 +517,13 @@
 #u9830
 {
 	z-index: 30;
+<<<<<<< HEAD
 	min-height: 347.649999999996px;
 	padding-bottom: 0px;
+=======
+	height: 74px;
+	bottom: 0px;
+>>>>>>> origin/master
 }
 
 #u9830_align_to_page
@@ -598,11 +608,22 @@
 	left: 725px;
 }
 
+#u10556
+{
+	z-index: 72;
+	width: 63px;
+	min-height: 28px;
+	bottom: 42px;
+	left: 50%;
+	margin-left: -557px;
+}
+
 #u7352
 {
 	z-index: 179;
 	width: 225px;
 	min-height: 39px;
+<<<<<<< HEAD
 	margin-right: -10000px;
 	margin-top: 7px;
 	left: 788px;
@@ -798,6 +819,11 @@
 	min-height: 20px;
 	margin-right: -10000px;
 	left: 468px;
+=======
+	bottom: 31px;
+	left: 50%;
+	margin-left: -491px;
+>>>>>>> origin/master
 }
 
 #u10103-4
@@ -805,8 +831,14 @@
 	z-index: 180;
 	width: 303px;
 	min-height: 27px;
+<<<<<<< HEAD
 	left: 757px;
 	margin-top: 10px;
+=======
+	bottom: 41px;
+	left: 50%;
+	margin-left: 222px;
+>>>>>>> origin/master
 }
 
 #u9830-bw

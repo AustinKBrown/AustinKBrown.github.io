@@ -1,7 +1,12 @@
 .version.hood_comic /* version checker */
 {
+<<<<<<< HEAD
 	color: #0000FC;
 	background-color: #562CD4;
+=======
+	color: #000001;
+	background-color: #64C0CF;
+>>>>>>> origin/master
 }
 
 .html
@@ -38,7 +43,11 @@
 
 #u10392
 {
+<<<<<<< HEAD
 	z-index: 152;
+=======
+	z-index: 45;
+>>>>>>> origin/master
 	width: 1588px;
 	top: -50px;
 	left: 0px;
@@ -51,7 +60,11 @@
 
 #u8288
 {
+<<<<<<< HEAD
 	z-index: 154;
+=======
+	z-index: 47;
+>>>>>>> origin/master
 	width: 730px;
 	height: 34px;
 	top: 15px;
@@ -60,14 +73,23 @@
 
 #u8133-4
 {
+<<<<<<< HEAD
 	z-index: 155;
 	top: 20px;
+=======
+	z-index: 48;
+	top: 23px;
+>>>>>>> origin/master
 	left: 35px;
 }
 
 #menuu8253
 {
+<<<<<<< HEAD
 	z-index: 159;
+=======
+	z-index: 52;
+>>>>>>> origin/master
 	width: 416px;
 	top: 15px;
 	left: 314px;
@@ -572,6 +594,7 @@
 	position: relative;
 }
 
+<<<<<<< HEAD
 #u10686-4
 {
 	z-index: 68;
@@ -704,6 +727,54 @@
 }
 
 #u10700-4
+=======
+#pu10570
+{
+	width: 0.01px;
+	margin-left: -100px;
+	margin-top: -155px;
+}
+
+#pu10570_position_content
+{
+	margin-top: -262px;
+	padding-bottom: 336px;
+}
+
+#u10570
+{
+	z-index: 83;
+	height: 74px;
+	bottom: -37px;
+}
+
+#u10570-bw
+{
+	z-index: 83;
+}
+
+#u10574
+{
+	z-index: 89;
+	width: 63px;
+	min-height: 28px;
+	bottom: 5px;
+	left: 50%;
+	margin-left: -557px;
+}
+
+#u10571
+{
+	z-index: 84;
+	width: 225px;
+	min-height: 39px;
+	bottom: -6px;
+	left: 50%;
+	margin-left: -491px;
+}
+
+#u10573-4
+>>>>>>> origin/master
 {
 	z-index: 116;
 	width: 170px;
@@ -760,6 +831,7 @@
 	z-index: 191;
 	width: 303px;
 	min-height: 27px;
+<<<<<<< HEAD
 	left: 757px;
 	margin-top: 10px;
 }
@@ -828,6 +900,11 @@
 	margin-right: -10000px;
 	margin-top: 114px;
 	left: 124px;
+=======
+	bottom: 4px;
+	left: 50%;
+	margin-left: 222px;
+>>>>>>> origin/master
 }
 
 body
