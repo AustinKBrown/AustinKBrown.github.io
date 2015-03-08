@@ -1,12 +1,7 @@
 .version.circulum_vite /* version checker */
 {
-<<<<<<< HEAD
 	color: #00000F;
 	background-color: #154D09;
-=======
-	color: #00001B;
-	background-color: #0D4D7F;
->>>>>>> origin/master
 }
 
 .html
@@ -38,11 +33,7 @@
 
 #u10607
 {
-<<<<<<< HEAD
 	z-index: 213;
-=======
-	z-index: 72;
->>>>>>> origin/master
 	width: 1588px;
 	top: -50px;
 	left: 0px;
@@ -55,11 +46,7 @@
 
 #u8288
 {
-<<<<<<< HEAD
 	z-index: 215;
-=======
-	z-index: 74;
->>>>>>> origin/master
 	width: 730px;
 	height: 34px;
 	top: 15px;
@@ -68,7 +55,6 @@
 
 #u8133-4
 {
-<<<<<<< HEAD
 	z-index: 216;
 	top: 20px;
 	left: 35px;
@@ -79,52 +65,6 @@
 	z-index: 20;
 	display: block;
 	vertical-align: top;
-=======
-	z-index: 75;
-	top: 23px;
-	left: 35px;
-}
-
-#u10564
-{
-	z-index: 110;
-	height: 74px;
-	bottom: 0px;
-}
-
-#u10564-bw
-{
-	z-index: 110;
-}
-
-#u10568
-{
-	z-index: 116;
-	width: 63px;
-	min-height: 28px;
-	bottom: 42px;
-	left: 50%;
-	margin-left: -557px;
-}
-
-#u10565
-{
-	z-index: 111;
-	width: 225px;
-	min-height: 39px;
-	bottom: 31px;
-	left: 50%;
-	margin-left: -491px;
-}
-
-#u3322-53
-{
-	z-index: 2;
-	width: 558px;
-	min-height: 206px;
-	background-color: transparent;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
->>>>>>> origin/master
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 100px;
@@ -133,30 +73,7 @@
 
 #menuu8253
 {
-<<<<<<< HEAD
 	z-index: 220;
-=======
-	color: #43270C;
-}
-
-#u3322-5
-{
-	font-size: 18px;
-	line-height: 22px;
-	color: #8C6239;
-}
-
-#u3322-12,#u3322-14,#u3322-16,#u3322-18,#u3322-20,#u3322-22,#u3322-27,#u3322-29,#u3322-31,#u3322-33,#u3322-35,#u3322-37,#u3322-39,#u3322-41,#u3322-43,#u3322-45,#u3322-47,#u3322-49
-{
-	font-size: 16px;
-	line-height: 19px;
-	color: #43270C;
-}
-
-#menuu9481
-{
-	z-index: 79;
->>>>>>> origin/master
 	width: 416px;
 	top: 15px;
 	left: 314px;
@@ -702,11 +619,7 @@
 	position: relative;
 }
 
-<<<<<<< HEAD
 #u10699-4
-=======
-#u10567-4
->>>>>>> origin/master
 {
 	z-index: 169;
 	width: 170px;
@@ -771,7 +684,6 @@
 	z-index: 252;
 	width: 303px;
 	min-height: 27px;
-<<<<<<< HEAD
 	left: 757px;
 	margin-top: 10px;
 }
@@ -840,11 +752,6 @@
 	margin-right: -10000px;
 	margin-top: 115px;
 	left: 124px;
-=======
-	bottom: 41px;
-	left: 50%;
-	margin-left: 222px;
->>>>>>> origin/master
 }
 
 body

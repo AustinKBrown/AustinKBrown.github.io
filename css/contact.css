@@ -1,12 +1,7 @@
 .version.contact /* version checker */
 {
-<<<<<<< HEAD
 	color: #000012;
 	background-color: #0E21C5;
-=======
-	color: #000016;
-	background-color: #3921F6;
->>>>>>> origin/master
 }
 
 .html
@@ -44,11 +39,7 @@
 
 #u10607
 {
-<<<<<<< HEAD
 	z-index: 194;
-=======
-	z-index: 63;
->>>>>>> origin/master
 	width: 1588px;
 	top: -50px;
 	left: 0px;
@@ -61,11 +52,7 @@
 
 #u8288
 {
-<<<<<<< HEAD
 	z-index: 196;
-=======
-	z-index: 65;
->>>>>>> origin/master
 	width: 730px;
 	height: 34px;
 	top: 15px;
@@ -74,23 +61,14 @@
 
 #u8133-4
 {
-<<<<<<< HEAD
 	z-index: 197;
 	top: 20px;
-=======
-	z-index: 66;
-	top: 23px;
->>>>>>> origin/master
 	left: 35px;
 }
 
 #menuu8253
 {
-<<<<<<< HEAD
 	z-index: 201;
-=======
-	z-index: 70;
->>>>>>> origin/master
 	width: 416px;
 	top: 15px;
 	left: 314px;
@@ -424,8 +402,8 @@
 	filter: alpha(opacity=45);
 	padding: 6px;
 	color: #C69C6D;
-	line-height: 13px;
 	font-size: 13px;
+	line-height: 13px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -541,8 +519,8 @@
 	filter: alpha(opacity=45);
 	padding: 6px;
 	color: #C69C6D;
-	line-height: 13px;
 	font-size: 13px;
+	line-height: 13px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -625,8 +603,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -654,8 +632,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #FF0000;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -683,8 +661,8 @@
 	filter: alpha(opacity=0);
 	padding-top: 4px;
 	color: #00FF00;
-	line-height: 12px;
 	font-size: 12px;
+	line-height: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -806,8 +784,8 @@
 	filter: alpha(opacity=45);
 	padding: 6px;
 	color: #C69C6D;
-	line-height: 13px;
 	font-size: 13px;
+	line-height: 13px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -904,7 +882,6 @@
 	visibility: hidden;
 }
 
-<<<<<<< HEAD
 #u10661
 {
 	z-index: 8;
@@ -1013,31 +990,6 @@
 }
 
 #u10685-4
-=======
-#u10564
-{
-	z-index: 101;
-	height: 74px;
-	bottom: 0px;
-}
-
-#u10564-bw
-{
-	z-index: 101;
-}
-
-#u10568
-{
-	z-index: 107;
-	width: 63px;
-	min-height: 28px;
-	bottom: 42px;
-	left: 50%;
-	margin-left: -557px;
-}
-
-#u10565
->>>>>>> origin/master
 {
 	z-index: 102;
 	width: 170px;
@@ -1085,7 +1037,6 @@
 	z-index: 232;
 	width: 225px;
 	min-height: 39px;
-<<<<<<< HEAD
 	margin-right: -10000px;
 	margin-top: 7px;
 	left: 788px;
@@ -1209,14 +1160,6 @@
 }
 
 #u10697-4
-=======
-	bottom: 31px;
-	left: 50%;
-	margin-left: -491px;
-}
-
-#u10567-4
->>>>>>> origin/master
 {
 	z-index: 190;
 	left: 120px;
@@ -1296,7 +1239,6 @@
 	z-index: 233;
 	width: 303px;
 	min-height: 27px;
-<<<<<<< HEAD
 	left: 757px;
 	margin-top: 10px;
 }
@@ -1365,11 +1307,6 @@
 	margin-right: -10000px;
 	margin-top: 114px;
 	left: 124px;
-=======
-	bottom: 41px;
-	left: 50%;
-	margin-left: 222px;
->>>>>>> origin/master
 }
 
 body

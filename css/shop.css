@@ -1,12 +1,7 @@
 .version.shop /* version checker */
 {
-<<<<<<< HEAD
 	color: #000005;
 	background-color: #14E533;
-=======
-	color: #000011;
-	background-color: #FB7811;
->>>>>>> origin/master
 }
 
 .html
@@ -38,11 +33,7 @@
 
 #u9531
 {
-<<<<<<< HEAD
 	z-index: 125;
-=======
-	z-index: 12;
->>>>>>> origin/master
 	width: 1588px;
 	top: -50px;
 	left: 0px;
@@ -55,11 +46,7 @@
 
 #u8288
 {
-<<<<<<< HEAD
 	z-index: 127;
-=======
-	z-index: 14;
->>>>>>> origin/master
 	width: 730px;
 	height: 34px;
 	top: 15px;
@@ -68,7 +55,6 @@
 
 #u8133-4
 {
-<<<<<<< HEAD
 	z-index: 128;
 	top: 20px;
 	left: 35px;
@@ -95,66 +81,6 @@
 
 #u10576
 {
-=======
-	z-index: 15;
-	top: 23px;
-	left: 35px;
-}
-
-#u10564
-{
-	z-index: 50;
-	height: 74px;
-	bottom: 0px;
-}
-
-#u10564-bw
-{
-	z-index: 50;
-}
-
-#u10568
-{
-	z-index: 56;
-	width: 63px;
-	min-height: 28px;
-	bottom: 42px;
-	left: 50%;
-	margin-left: -557px;
-}
-
-#u10565
-{
-	z-index: 51;
-	width: 225px;
-	min-height: 39px;
-	bottom: 31px;
-	left: 50%;
-	margin-left: -491px;
-}
-
-#pu10576-6
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 76px;
-	margin-left: 20px;
-}
-
-#u10576-6
-{
-	z-index: 6;
-	width: 409px;
-	min-height: 50px;
-	background-color: transparent;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	position: relative;
-}
-
-#u10576
-{
->>>>>>> origin/master
 	color: #C69C6D;
 }
 
@@ -172,20 +98,7 @@
 
 #menuu8253
 {
-<<<<<<< HEAD
 	z-index: 132;
-=======
-	width: 0.01px;
-	padding-bottom: 313px;
-	margin-right: -10000px;
-	margin-top: -18px;
-	margin-left: 214px;
-}
-
-#menuu9481
-{
-	z-index: 19;
->>>>>>> origin/master
 	width: 416px;
 	top: 15px;
 	left: 314px;
@@ -412,19 +325,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-<<<<<<< HEAD
-=======
-#u10567-4
-{
-	z-index: 52;
-	width: 303px;
-	min-height: 27px;
-	bottom: 41px;
-	left: 50%;
-	margin-left: 222px;
-}
-
->>>>>>> origin/master
 #pu9807
 {
 	width: 0.01px;

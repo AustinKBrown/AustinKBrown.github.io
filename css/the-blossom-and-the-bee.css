@@ -1,12 +1,7 @@
 .version.the_blossom_and_the_bee /* version checker */
 {
-<<<<<<< HEAD
 	color: #0000F6;
 	background-color: #1DBF27;
-=======
-	color: #0000F0;
-	background-color: #3E732E;
->>>>>>> origin/master
 }
 
 .html
@@ -44,11 +39,7 @@
 
 #u10392
 {
-<<<<<<< HEAD
 	z-index: 166;
-=======
-	z-index: 59;
->>>>>>> origin/master
 	width: 1588px;
 	top: -50px;
 	left: 0px;
@@ -61,11 +52,7 @@
 
 #u8288
 {
-<<<<<<< HEAD
 	z-index: 168;
-=======
-	z-index: 61;
->>>>>>> origin/master
 	width: 730px;
 	height: 34px;
 	top: 15px;
@@ -74,23 +61,14 @@
 
 #u8133-4
 {
-<<<<<<< HEAD
 	z-index: 169;
 	top: 20px;
-=======
-	z-index: 62;
-	top: 23px;
->>>>>>> origin/master
 	left: 35px;
 }
 
 #menuu8253
 {
-<<<<<<< HEAD
 	z-index: 173;
-=======
-	z-index: 66;
->>>>>>> origin/master
 	width: 416px;
 	top: 15px;
 	left: 314px;
@@ -471,64 +449,6 @@
 	left: 11px;
 }
 
-<<<<<<< HEAD
-=======
-#pu10570
-{
-	width: 0.01px;
-	margin-left: -100px;
-	margin-top: -369px;
-}
-
-#pu10570_position_content
-{
-	margin-top: -262px;
-	padding-bottom: 336px;
-}
-
-#u10570
-{
-	z-index: 97;
-	height: 74px;
-	bottom: -37px;
-}
-
-#u10570-bw
-{
-	z-index: 97;
-}
-
-#u10574
-{
-	z-index: 103;
-	width: 63px;
-	min-height: 28px;
-	bottom: 5px;
-	left: 50%;
-	margin-left: -557px;
-}
-
-#u10571
-{
-	z-index: 98;
-	width: 225px;
-	min-height: 39px;
-	bottom: -6px;
-	left: 50%;
-	margin-left: -491px;
-}
-
-#u10573-4
-{
-	z-index: 99;
-	width: 303px;
-	min-height: 27px;
-	bottom: 4px;
-	left: 50%;
-	margin-left: 222px;
-}
-
->>>>>>> origin/master
 #u10309-4
 {
 	z-index: 34;

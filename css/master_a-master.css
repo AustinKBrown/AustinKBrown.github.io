@@ -264,10 +264,8 @@
 #u10103-4
 {
 	background-color: transparent;
-	line-height: 14px;
 	text-align: right;
 	font-size: 12px;
-<<<<<<< HEAD
 	line-height: 14px;
 	position: relative;
 }
@@ -297,8 +295,5 @@
 	line-height: 17px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
-=======
-	position: fixed;
->>>>>>> origin/master
 }
 

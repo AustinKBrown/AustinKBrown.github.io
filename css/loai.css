@@ -1,12 +1,7 @@
 .version.loai /* version checker */
 {
-<<<<<<< HEAD
 	color: #0000EC;
 	background-color: #2C010A;
-=======
-	color: #00000F;
-	background-color: #BDDFE4;
->>>>>>> origin/master
 }
 
 .html
@@ -27,20 +22,15 @@
 	margin-right: auto;
 }
 
-#page_position_content
-{
-	margin-top: -36px;
-	padding-bottom: 62px;
-	width: 0.01px;
-}
-
 #slideshowu6550
 {
 	z-index: 2;
 	width: 0.01px;
 	height: 1804px;
-	left: -100px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: -36px;
+	left: -100px;
 }
 
 #u6587
@@ -203,14 +193,9 @@
 {
 	width: 0.01px;
 	padding-bottom: 40px;
-<<<<<<< HEAD
 	margin-right: -10000px;
 	margin-top: -22px;
 	margin-left: -100px;
-=======
-	margin-left: -100px;
-	margin-top: -1789px;
->>>>>>> origin/master
 }
 
 #u8288
@@ -229,7 +214,6 @@
 	left: 35px;
 }
 
-<<<<<<< HEAD
 #u6692
 {
 	z-index: 44;
@@ -244,8 +228,6 @@
 	left: 20px;
 }
 
-=======
->>>>>>> origin/master
 #menuu8253
 {
 	z-index: 163;
@@ -475,67 +457,6 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u9830
-{
-	z-index: 45;
-	height: 74px;
-	bottom: 0px;
-}
-
-#u9830-bw
-{
-	z-index: 45;
-}
-
-#u10556
-{
-	z-index: 87;
-	width: 63px;
-	min-height: 28px;
-	bottom: 42px;
-	left: 50%;
-	margin-left: -557px;
-}
-
-#u7352
-{
-	z-index: 82;
-	width: 225px;
-	min-height: 39px;
-	bottom: 31px;
-	left: 50%;
-	margin-left: -491px;
-}
-
-#u10103-4
-{
-	z-index: 83;
-	width: 303px;
-	min-height: 27px;
-	bottom: 41px;
-	left: 50%;
-	margin-left: 222px;
-}
-
-#pu6692
-{
-	width: 0.01px;
-	margin-left: 20px;
-	margin-top: -1363px;
-}
-
-#u6692
-{
-	z-index: 44;
-	width: 405px;
-	min-height: 320px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
 #u6691-27
 {
 	z-index: 17;
@@ -546,7 +467,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 460px;
+	margin-top: 405px;
+	left: 480px;
 }
 
 #u6691-2
@@ -569,7 +491,6 @@
 	line-height: 27px;
 }
 
-<<<<<<< HEAD
 #pu9830
 {
 	width: 0.01px;
@@ -942,8 +863,6 @@
 	left: 124px;
 }
 
-=======
->>>>>>> origin/master
 body
 {
 	position: relative;

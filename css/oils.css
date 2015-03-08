@@ -1,12 +1,7 @@
 .version.oils /* version checker */
 {
-<<<<<<< HEAD
 	color: #0000EC;
 	background-color: #329DAF;
-=======
-	color: #0000FE;
-	background-color: #0CCAFA;
->>>>>>> origin/master
 }
 
 .html
@@ -290,13 +285,8 @@
 #u9830
 {
 	z-index: 2;
-<<<<<<< HEAD
 	min-height: 347.6499999999962px;
 	padding-bottom: 0px;
-=======
-	height: 74px;
-	bottom: 0px;
->>>>>>> origin/master
 }
 
 #u9830_align_to_page
@@ -381,22 +371,11 @@
 	left: 725px;
 }
 
-#u10556
-{
-	z-index: 44;
-	width: 63px;
-	min-height: 28px;
-	bottom: 42px;
-	left: 50%;
-	margin-left: -557px;
-}
-
 #u7352
 {
 	z-index: 151;
 	width: 225px;
 	min-height: 39px;
-<<<<<<< HEAD
 	margin-right: -10000px;
 	margin-top: 7px;
 	left: 788px;
@@ -592,11 +571,6 @@
 	min-height: 20px;
 	margin-right: -10000px;
 	left: 468px;
-=======
-	bottom: 31px;
-	left: 50%;
-	margin-left: -491px;
->>>>>>> origin/master
 }
 
 #u10103-4
@@ -604,7 +578,6 @@
 	z-index: 152;
 	width: 303px;
 	min-height: 27px;
-<<<<<<< HEAD
 	left: 757px;
 	margin-top: 10px;
 }
@@ -673,11 +646,6 @@
 	margin-right: -10000px;
 	margin-top: 115px;
 	left: 124px;
-=======
-	bottom: 41px;
-	left: 50%;
-	margin-left: 222px;
->>>>>>> origin/master
 }
 
 body

@@ -1,12 +1,7 @@
 .version.about /* version checker */
 {
-<<<<<<< HEAD
 	color: #0000EF;
 	background-color: #29470C;
-=======
-	color: #000015;
-	background-color: #ED6932;
->>>>>>> origin/master
 }
 
 .html
@@ -38,17 +33,7 @@
 
 #u10607
 {
-<<<<<<< HEAD
 	z-index: 140;
-=======
-	width: 0.01px;
-	padding-bottom: 134px;
-}
-
-#u9531
-{
-	z-index: 17;
->>>>>>> origin/master
 	width: 1588px;
 	top: -50px;
 	left: 0px;
@@ -61,11 +46,7 @@
 
 #u8288
 {
-<<<<<<< HEAD
 	z-index: 142;
-=======
-	z-index: 19;
->>>>>>> origin/master
 	width: 730px;
 	height: 34px;
 	top: 15px;
@@ -74,51 +55,11 @@
 
 #u8133-4
 {
-<<<<<<< HEAD
 	z-index: 143;
 	top: 20px;
 	left: 35px;
 }
 
-=======
-	z-index: 20;
-	top: 23px;
-	left: 35px;
-}
-
-#u10564
-{
-	z-index: 55;
-	height: 74px;
-	bottom: 0px;
-}
-
-#u10564-bw
-{
-	z-index: 55;
-}
-
-#u10568
-{
-	z-index: 61;
-	width: 63px;
-	min-height: 28px;
-	bottom: 42px;
-	left: 50%;
-	margin-left: -557px;
-}
-
-#u10565
-{
-	z-index: 56;
-	width: 225px;
-	min-height: 39px;
-	bottom: 31px;
-	left: 50%;
-	margin-left: -491px;
-}
-
->>>>>>> origin/master
 #pu2421
 {
 	width: 0.01px;
@@ -163,11 +104,7 @@
 
 #menuu8253
 {
-<<<<<<< HEAD
 	z-index: 147;
-=======
-	z-index: 24;
->>>>>>> origin/master
 	width: 416px;
 	top: 15px;
 	left: 314px;
@@ -404,21 +341,8 @@
 
 #u10664
 {
-<<<<<<< HEAD
 	z-index: 14;
 	width: 222px;
-=======
-	z-index: 13;
-	width: 279px;
-	min-height: 41px;
-	background-color: #C7C9ED;
-	color: #C69C6D;
-	line-height: 29px;
-	font-size: 24px;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	font-weight: bold;
-	position: relative;
->>>>>>> origin/master
 }
 
 #u10666
@@ -449,7 +373,6 @@
 #u10662
 {
 	z-index: 9;
-<<<<<<< HEAD
 	width: 222px;
 	padding-bottom: 4px;
 	margin-right: -10000px;
@@ -517,17 +440,6 @@
 {
 	width: 0.01px;
 	left: 120px;
-=======
-	width: 279px;
-	min-height: 41px;
-	background-color: #C7C9ED;
-	color: #C69C6D;
-	line-height: 29px;
-	font-size: 24px;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	font-weight: bold;
-	margin-top: 24px;
->>>>>>> origin/master
 	position: relative;
 }
 
@@ -615,11 +527,7 @@
 	position: relative;
 }
 
-<<<<<<< HEAD
 #u10686-4
-=======
-#u10567-4
->>>>>>> origin/master
 {
 	z-index: 56;
 	width: 170px;
@@ -807,7 +715,6 @@
 	z-index: 179;
 	width: 303px;
 	min-height: 27px;
-<<<<<<< HEAD
 	left: 757px;
 	margin-top: 10px;
 }
@@ -876,11 +783,6 @@
 	margin-right: -10000px;
 	margin-top: 114px;
 	left: 124px;
-=======
-	bottom: 41px;
-	left: 50%;
-	margin-left: 222px;
->>>>>>> origin/master
 }
 
 body
