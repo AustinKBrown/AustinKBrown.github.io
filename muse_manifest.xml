@@ -1,26 +1,26 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426046944674">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426047072731">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
-    <file name="master_blog-master.css" crc="4095437637" ref="blog:people-of-the-palouse:hear-the-waves:the-blossom-and-the-bee:hood-comic:weavers--field"/>
+    <file name="master_a-master.css" crc="3959072185" ref="people-of-the-palouse:edao:index:circulum-vite:ocean:oils:about:blog:shop:weavers--field:hood-comic:contact:the-blossom-and-the-bee:gc:hear-the-waves:loai"/>
+    <file name="master_blog-master.css" crc="4095437637" ref="people-of-the-palouse:blog:weavers--field:hood-comic:the-blossom-and-the-bee:hear-the-waves"/>
+    <file name="master_about-master.css" crc="493097296" ref="circulum-vite:about:contact"/>
     <file name="master_b-master.css" crc="330097373" ref="shop"/>
-    <file name="master_a-master.css" crc="3959072185" ref="blog:people-of-the-palouse:about:oils:index:circulum-vite:ocean:hear-the-waves:the-blossom-and-the-bee:edao:hood-comic:loai:contact:shop:gc:weavers--field"/>
-    <file name="master_about-master.css" crc="493097296" ref="about:circulum-vite:contact"/>
-    <file name="blog.css" crc="491546489" ref="blog"/>
     <file name="people-of-the-palouse.css" crc="191572261" ref="people-of-the-palouse"/>
-    <file name="about.css" crc="3954676464" ref="about"/>
-    <file name="oils.css" crc="308257907" ref="oils"/>
+    <file name="edao.css" crc="3895689648" ref="edao"/>
     <file name="index.css" crc="4127918053" ref="index"/>
     <file name="circulum-vite.css" crc="320509487" ref="circulum-vite"/>
     <file name="ocean.css" crc="360173199" ref="ocean"/>
-    <file name="hear-the-waves.css" crc="4183540094" ref="hear-the-waves"/>
-    <file name="the-blossom-and-the-bee.css" crc="45836655" ref="the-blossom-and-the-bee"/>
-    <file name="edao.css" crc="3895689648" ref="edao"/>
-    <file name="hood-comic.css" crc="4133097359" ref="hood-comic"/>
-    <file name="loai.css" crc="30250764" ref="loai"/>
-    <file name="contact.css" crc="4221152366" ref="contact"/>
+    <file name="oils.css" crc="308257907" ref="oils"/>
+    <file name="about.css" crc="3954676464" ref="about"/>
+    <file name="blog.css" crc="491546489" ref="blog"/>
     <file name="shop.css" crc="4120693121" ref="shop"/>
-    <file name="gc.css" crc="224968590" ref="gc"/>
     <file name="weavers--field.css" crc="363946023" ref="weavers--field"/>
+    <file name="hood-comic.css" crc="4133097359" ref="hood-comic"/>
+    <file name="contact.css" crc="4221152366" ref="contact"/>
+    <file name="the-blossom-and-the-bee.css" crc="45836655" ref="the-blossom-and-the-bee"/>
+    <file name="gc.css" crc="224968590" ref="gc"/>
+    <file name="hear-the-waves.css" crc="4183540094" ref="hear-the-waves"/>
+    <file name="loai.css" crc="30250764" ref="loai"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="364326742" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field"/>
@@ -47,15 +47,20 @@
     <file name="tape hangings_18.jpg" crc="4218333813" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index:gc:loai:edao:ocean"/>
     <file name="u8133-4.png" crc="43829688" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field"/>
-    <file name="ocean stoll_1s.jpg" crc="150543658" ref="index"/>
+    <file name="u9614_states.png" crc="4063116458" ref="index"/>
+    <file name="u9614_states-r.png" crc="4063116458" ref="index"/>
+    <file name="weavers- field_s.gif" crc="358964005" ref="index"/>
     <file name="main entry balcony floor2.jpg" crc="169550685" ref="index"/>
+    <file name="u9460_states.png" crc="4224340687" ref="index"/>
+    <file name="u9460_states-r.png" crc="4224340687" ref="index"/>
     <file name="et dices ad odorandum_102.jpg" crc="4157306746" ref="index"/>
     <file name="20131112_ocean_10482x321-crop-u9428.jpg" crc="89044928" ref="index"/>
     <file name="life of an installation_9.jpg" crc="363923377" ref="index"/>
     <file name="u9462-4.png" crc="4226367780" ref="index"/>
+    <file name="close up_s.jpg" crc="478032202" ref="index"/>
     <file name="-1 man and dog.jpg" crc="197407421" ref="index"/>
     <file name="what-.png" crc="522574381" ref="index"/>
-    <file name="close up_s.jpg" crc="478032202" ref="index"/>
+    <file name="ocean stoll_1s.jpg" crc="150543658" ref="index"/>
     <file name="u10697-4.png" crc="3763983556" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field"/>
     <file name="finished_22-crop-u10607.jpg" crc="535276052" ref="about:circulum-vite:contact"/>
     <file name="artist-s hands sq.jpg" crc="91339106" ref="about"/>
@@ -89,7 +94,8 @@
     <file name="20131112_the ocean_15482x321.jpg" crc="3782429590" ref="ocean"/>
     <file name="finished_22-crop-u9531.jpg" crc="535276052" ref="shop"/>
     <file name="finished_22-crop-u10392.jpg" crc="535276052" ref="blog:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field"/>
-    <file name="ocean stoll_s.gif" crc="4243880462" ref="hear-the-waves"/>
+    <file name="u10761-8.png" crc="225819041" ref="blog"/>
+    <file name="weavers- field_s2.gif" crc="358964005" ref="blog:weavers--field"/>
     <file name="u10102-4.png" crc="3828869891" ref="contact"/>
     <file name="u10100-17.png" crc="4161109276" ref="contact"/>
     <file name="u10100-17-r.png" crc="205009469" ref="contact"/>
@@ -99,6 +105,8 @@
     <file name="leek blossom_s.jpg" crc="188628851" ref="the-blossom-and-the-bee"/>
     <file name="close up.jpg" crc="150056943" ref="the-blossom-and-the-bee"/>
     <file name="u10518-4.png" crc="42962435" ref="hear-the-waves"/>
+    <file name="ocean stoll_s.gif" crc="4243880462" ref="hear-the-waves"/>
+    <file name="ocean stoll_1s2.jpg" crc="531472453" ref="hear-the-waves"/>
     <file name="u10496-4.png" crc="392323776" ref="people-of-the-palouse"/>
     <file name="dougiesmall.jpg" crc="3761987263" ref="people-of-the-palouse"/>
     <file name="dr020715-04(s).jpg" crc="4184925496" ref="people-of-the-palouse"/>
@@ -123,17 +131,9 @@
     <file name="dr020415-02(s)-crop-u10494.jpg" crc="52390345" ref="people-of-the-palouse"/>
     <file name="u10448-4.png" crc="250938663" ref="hood-comic"/>
     <file name="hood11 (another comic).jpg" crc="414304979" ref="hood-comic"/>
-    <file name="u9614_states.png" crc="4063116458" ref="index"/>
-    <file name="u9614_states-r.png" crc="4063116458" ref="index"/>
-    <file name="weavers- field_s.gif" crc="358964005" ref="index"/>
-    <file name="u9460_states.png" crc="4224340687" ref="index"/>
-    <file name="u9460_states-r.png" crc="4224340687" ref="index"/>
-    <file name="u10761-8.png" crc="225819041" ref="blog"/>
-    <file name="weavers- field_s2.gif" crc="358964005" ref="blog:weavers--field"/>
-    <file name="ocean stoll_1s2.jpg" crc="531472453" ref="hear-the-waves"/>
     <file name="u10723-8.png" crc="503451838" ref="weavers--field"/>
   </folder>
-  <file name="index.html" crc="4198786400" mt="1426046295579" redirect="true"/>
+  <file name="index.html" crc="4198786400" mt="1426047061291" redirect="true"/>
   <file name="about.html" crc="182608072" mt="1426045569995" redirect="true"/>
   <file name="circulum-vite.html" crc="476973938" mt="1426045569995" redirect="true"/>
   <file name="gc.html" crc="3918614119" mt="1426045569995" redirect="true"/>
