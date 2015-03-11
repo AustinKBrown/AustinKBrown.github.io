@@ -4,7 +4,15 @@
 	position: fixed;
 }
 
-#u10425,#u10422,#u10428,#u10431
+#u10427-4,#u10423-4,#u10429-4
+{
+	background-color: transparent;
+	color: #A67C52;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u10756,#u10425,#u10422,#u10428,#u10431
 {
 	border-style: none;
 	border-color: transparent;
@@ -12,16 +20,17 @@
 	position: relative;
 }
 
-#u10426,#u10424,#u10430,#u10433
+#u10757,#u10426,#u10424,#u10430,#u10433
 {
 	background-color: #C7C9ED;
 	position: relative;
 }
 
-#u10427-4,#u10423-4,#u10429-4,#u10432-4
+#u10758-4,#u10432-4
 {
 	background-color: transparent;
 	color: #A67C52;
+	line-height: 17px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }

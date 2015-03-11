@@ -166,12 +166,6 @@
 	visibility: inherit;
 }
 
-#u8254,#u9636,#u8275,#u10075,#u9573
-{
-	background-color: transparent;
-	position: relative;
-}
-
 #u9574
 {
 	background-color: transparent;
@@ -238,9 +232,9 @@
 #u10676-4
 {
 	background-color: transparent;
-	color: #43270C;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
+	color: #43270C;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -256,9 +250,9 @@
 #u10684-4
 {
 	background-color: transparent;
-	color: #43270C;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
+	color: #43270C;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -289,9 +283,9 @@
 #u10692-4
 {
 	background-color: transparent;
-	color: #43270C;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
+	color: #43270C;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -319,15 +313,7 @@
 	filter: alpha(opacity=50);
 }
 
-#u10556,#u7352
-{
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-}
-
-#u10686-4
+#u10766-4
 {
 	background-color: transparent;
 	color: #A67C52;
@@ -335,7 +321,7 @@
 	position: relative;
 }
 
-#u10695-4.MuseLinkActive,#u10686-4:hover
+#u10695-4.MuseLinkActive,#u10766-4:hover
 {
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
@@ -350,7 +336,7 @@
 	position: relative;
 }
 
-#u10686-4.MuseLinkActive,#u10694-4:hover
+#u10766-4.MuseLinkActive,#u10694-4:hover
 {
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
@@ -373,6 +359,21 @@
 	filter: alpha(opacity=50);
 }
 
+#u10686-4
+{
+	background-color: transparent;
+	color: #A67C52;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	position: relative;
+}
+
+#u10678-4.MuseLinkActive,#u10686-4:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
 #u10679-4
 {
 	background-color: transparent;
@@ -382,7 +383,7 @@
 	position: relative;
 }
 
-#u10678-4.MuseLinkActive,#u10679-4:hover
+#u10686-4.MuseLinkActive,#u10679-4:hover
 {
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
@@ -407,9 +408,9 @@
 #u10696-4
 {
 	background-color: transparent;
-	color: #43270C;
-	font-size: 16px;
 	line-height: 19px;
+	font-size: 16px;
+	color: #43270C;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -490,12 +491,34 @@
 	position: relative;
 }
 
+#u8254,#u9636,#u8275,#u10075,#u9573,#u10739-4
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u10739
+{
+	color: #8C6239;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+}
+
+#u10556,#u7352,#u10737
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
 #u10103-4
 {
 	background-color: transparent;
+	line-height: 14px;
 	text-align: right;
 	font-size: 12px;
-	line-height: 14px;
+	color: #43270C;
+	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
 
@@ -562,8 +585,8 @@
 #u10682-4
 {
 	background-color: transparent;
-	color: #8C6239;
 	line-height: 17px;
+	color: #8C6239;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
