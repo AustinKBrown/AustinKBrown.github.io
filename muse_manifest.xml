@@ -1,4 +1,4 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428537954015">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1428538122995">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
     <file name="master_a-master.css" crc="244967395" ref="people-of-the-palouse:edao:index:circulum-vite:ocean:oils:about:blog:shop:weavers--field:hood-comic:contact:the-blossom-and-the-bee:gc:hear-the-waves:loai:one-day"/>
@@ -7,7 +7,7 @@
     <file name="master_b-master.css" crc="330097373" ref="shop"/>
     <file name="people-of-the-palouse.css" crc="3773289343" ref="people-of-the-palouse"/>
     <file name="edao.css" crc="3895689648" ref="edao"/>
-    <file name="index.css" crc="4204432245" ref="index"/>
+    <file name="index.css" crc="55400174" ref="index"/>
     <file name="circulum-vite.css" crc="320509487" ref="circulum-vite"/>
     <file name="ocean.css" crc="360173199" ref="ocean"/>
     <file name="oils.css" crc="308257907" ref="oils"/>
@@ -58,10 +58,10 @@
     <file name="20131112_ocean_10482x321-crop-u9428.jpg" crc="89044928" ref="index"/>
     <file name="life of an installation_9.jpg" crc="363923377" ref="index"/>
     <file name="u9462-4.png" crc="4226367780" ref="index"/>
-    <file name="close up_s.jpg" crc="478032202" ref="index"/>
+    <file name="close up_s.jpg" crc="151741406" ref="index"/>
     <file name="-1 man and dog.jpg" crc="197407421" ref="index"/>
     <file name="what-.png" crc="522574381" ref="index"/>
-    <file name="ocean stoll_1s.jpg" crc="531472453" ref="index:hear-the-waves"/>
+    <file name="ocean stoll_1s.jpg" crc="150543658" ref="index:hear-the-waves"/>
     <file name="u10697-4.png" crc="3763983556" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day"/>
     <file name="finished_22-crop-u10607.jpg" crc="535276052" ref="about:circulum-vite:contact"/>
     <file name="artist-s hands sq.jpg" crc="91339106" ref="about"/>
@@ -133,13 +133,15 @@
     <file name="1152 bird watching april 7th 2015_s560x384.jpg" crc="244424854" ref="index"/>
     <file name="u10906-4.png" crc="33980848" ref="blog"/>
     <file name="1036 people watching april 7th 2015_s.jpg" crc="4202706481" ref="blog:one-day"/>
-    <file name="1152 bird watching april 7th 2015_s.jpg" crc="501724510" ref="blog:one-day"/>
+    <file name="1152 bird watching april 7th 2015_s.jpg" crc="501724510" ref="blog:one-day:index"/>
     <file name="1307 blue bicycle april 7th 2015_s.jpg" crc="3832690508" ref="blog:one-day"/>
     <file name="1622 coffee april 7th 2015_s.jpg" crc="4011925755" ref="blog:one-day"/>
     <file name="1849 dinner april 7th 2015_s.jpg" crc="4040322056" ref="blog:one-day"/>
     <file name="u10860-4.png" crc="33980848" ref="one-day"/>
+    <file name="chipmonk.jpg" crc="4120195662" ref="index"/>
+    <file name="close up_s269x180.jpg" crc="388615037" ref="index"/>
   </folder>
-  <file name="index.html" crc="310077567" mt="1428537853918" redirect="true"/>
+  <file name="index.html" crc="3866205159" mt="1428538109210" redirect="true"/>
   <file name="about.html" crc="182608072" mt="1428528152265" redirect="true"/>
   <file name="circulum-vite.html" crc="476973938" mt="1428528152265" redirect="true"/>
   <file name="gc.html" crc="3918614119" mt="1428528152265" redirect="true"/>
