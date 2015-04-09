@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001C;
-	background-color: #3D20DF;
+	color: #0000FA;
+	background-color: #9A8B75;
 }
 
 .html
@@ -417,7 +417,7 @@
 
 #u10803
 {
-	z-index: 81;
+	z-index: 79;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -428,43 +428,32 @@
 	left: 846px;
 }
 
-#ppu10769
+#ppu10949
 {
 	width: 0.01px;
-	margin-left: -31px;
+	margin-left: -20px;
 	margin-top: -1px;
 }
 
-#pu10769
+#pu10949
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 1px;
 }
 
-#u10769
+#u10949
 {
-	z-index: 72;
-	width: 618px;
+	z-index: 80;
+	width: 559px;
 	background-color: transparent;
+	margin-left: 20px;
 	position: relative;
-}
-
-#u10769:hover
-{
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
-	width: 618px;
-	min-height: 0px;
-	margin: 0px;
 }
 
 #pu9391
 {
 	width: 0.01px;
-	margin-left: 11px;
-	margin-top: 82px;
+	margin-top: 55px;
 }
 
 #u9391
@@ -528,12 +517,11 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
+	color: #A67C52;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	margin-left: 11px;
 	margin-top: 7px;
 	position: relative;
 }
@@ -547,13 +535,12 @@
 	padding-bottom: 0px;
 	min-height: 36px;
 	width: 590px;
-	margin: 7px 0px 0px 11px;
+	margin: 7px 0px 0px;
 }
 
 #ppu9421
 {
 	width: 0.01px;
-	margin-left: 11px;
 	margin-top: 1px;
 }
 
@@ -602,10 +589,10 @@
 	width: 220px;
 	min-height: 37px;
 	background-color: transparent;
-	line-height: 22px;
+	color: #A67C52;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	margin-left: 32px;
 	margin-top: 6px;
@@ -681,7 +668,7 @@
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-left: 755px;
+	margin-left: 744px;
 }
 
 #u9463
@@ -767,10 +754,10 @@
 	width: 252px;
 	min-height: 28px;
 	background-color: transparent;
-	line-height: 22px;
+	color: #A67C52;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	top: -1px;
 	margin-bottom: -1px;
@@ -829,10 +816,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
+	color: #A67C52;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	margin-top: 1px;
 	position: relative;
@@ -894,10 +881,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 22px;
+	color: #A67C52;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -916,7 +903,7 @@
 
 #u10781
 {
-	z-index: 74;
+	z-index: 72;
 	width: 255px;
 	border-style: none;
 	border-color: transparent;
@@ -924,12 +911,12 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 121px;
-	left: 781px;
+	left: 770px;
 }
 
 #u10774
 {
-	z-index: 75;
+	z-index: 73;
 	width: 255px;
 	background-color: transparent;
 	position: relative;
@@ -947,14 +934,14 @@
 
 #u10780-4
 {
-	z-index: 77;
+	z-index: 75;
 	width: 255px;
 	min-height: 28px;
 	background-color: transparent;
-	line-height: 22px;
+	color: #A67C52;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	top: -1px;
 	margin-bottom: -1px;
@@ -986,10 +973,10 @@
 	width: 307px;
 	min-height: 13px;
 	background-color: transparent;
-	line-height: 22px;
+	color: #A67C52;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1013,10 +1000,10 @@
 	width: 270px;
 	min-height: 35px;
 	background-color: transparent;
-	line-height: 22px;
+	color: #A67C52;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	line-height: 22px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;

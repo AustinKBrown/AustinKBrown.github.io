@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000FB;
-	background-color: #99AC6E;
+	color: #000017;
+	background-color: #77360F;
 }
 
 .html
@@ -379,8 +379,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #8C6239;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
@@ -487,8 +487,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #8C6239;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
@@ -745,8 +745,8 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
 	text-align: left;
+	line-height: 14px;
 	color: #8C6239;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
