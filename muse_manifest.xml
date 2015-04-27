@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430173026513">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430173428602">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
     <file name="master_a-master.css" crc="21747701" ref="people-of-the-palouse:edao:index:circulum-vite:ocean:oils:about:blog:shop:weavers--field:hood-comic:contact:the-blossom-and-the-bee:gc:hear-the-waves:loai:one-day:art-in-the-kenworthy"/>
@@ -22,7 +22,7 @@
     <file name="hear-the-waves.css" crc="4239459544" ref="hear-the-waves"/>
     <file name="loai.css" crc="30250764" ref="loai"/>
     <file name="one-day.css" crc="4240659618" ref="one-day"/>
-    <file name="art-in-the-kenworthy.css" crc="3885283434" ref="art-in-the-kenworthy"/>
+    <file name="art-in-the-kenworthy.css" crc="36432168" ref="art-in-the-kenworthy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy"/>
@@ -165,5 +165,5 @@
   <file name="hood-comic.html" crc="4138181999" mt="1430171745448" redirect="true"/>
   <file name="weavers--field.html" crc="69771828" mt="1430171745448" redirect="true"/>
   <file name="one-day.html" crc="3792892884" mt="1430171745448" redirect="true"/>
-  <file name="art-in-the-kenworthy.html" crc="499386622" mt="1430172934094" redirect="true"/>
+  <file name="art-in-the-kenworthy.html" crc="3898687694" mt="1430173413807" redirect="true"/>
 </manifest>
