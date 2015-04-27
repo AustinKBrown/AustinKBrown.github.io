@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430173516248">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430173585560">
   <folder name="css">
     <file name="site_global.css" crc="3767251341"/>
     <file name="master_a-master.css" crc="21747701" ref="people-of-the-palouse:edao:index:circulum-vite:ocean:oils:about:blog:shop:weavers--field:hood-comic:contact:the-blossom-and-the-bee:gc:hear-the-waves:loai:one-day:art-in-the-kenworthy"/>
@@ -12,7 +12,7 @@
     <file name="ocean.css" crc="360173199" ref="ocean"/>
     <file name="oils.css" crc="308257907" ref="oils"/>
     <file name="about.css" crc="3954676464" ref="about"/>
-    <file name="blog.css" crc="52740627" ref="blog"/>
+    <file name="blog.css" crc="4036528583" ref="blog"/>
     <file name="shop.css" crc="33661315" ref="shop"/>
     <file name="weavers--field.css" crc="224236276" ref="weavers--field"/>
     <file name="hood-comic.css" crc="113496732" ref="hood-comic"/>
@@ -157,7 +157,7 @@
   <file name="ocean.html" crc="4012024719" mt="1430171609251" redirect="true"/>
   <file name="oils.html" crc="3969167791" mt="1430171609251" redirect="true"/>
   <file name="shop.html" crc="3947502323" mt="1430171609251" redirect="true"/>
-  <file name="blog.html" crc="5622603" mt="1430172911779" redirect="true"/>
+  <file name="blog.html" crc="525235075" mt="1430173575061" redirect="true"/>
   <file name="contact.html" crc="4143672843" mt="1430171609251" redirect="true"/>
   <file name="the-blossom-and-the-bee.html" crc="489460347" mt="1430171745448" redirect="true"/>
   <file name="hear-the-waves.html" crc="4101026249" mt="1430171745448" redirect="true"/>
