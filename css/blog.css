@@ -1,7 +1,7 @@
 .version.blog /* version checker */
 {
-	color: #000012;
-	background-color: #4397A7;
+	color: #0000F8;
+	background-color: #58F609;
 }
 
 .html
@@ -965,8 +965,8 @@
 {
 	width: 0.01px;
 	left: 124px;
-	top: -5px;
-	margin-bottom: -5px;
+	top: -6px;
+	margin-bottom: -6px;
 	position: relative;
 }
 
@@ -1030,8 +1030,8 @@
 	width: 170px;
 	min-height: 20px;
 	left: 592px;
-	top: -7px;
-	margin-bottom: -7px;
+	top: -6px;
+	margin-bottom: -6px;
 }
 
 #u10708-4:hover
@@ -1040,7 +1040,7 @@
 	padding-bottom: 0px;
 	min-height: 20px;
 	width: 170px;
-	margin: 0px 0px -7px;
+	margin: 0px 0px -6px;
 }
 
 #u10708-4.MuseLinkActive
@@ -1049,7 +1049,7 @@
 	padding-bottom: 0px;
 	min-height: 20px;
 	width: 170px;
-	margin: 0px 0px -7px;
+	margin: 0px 0px -6px;
 }
 
 #u10706-4

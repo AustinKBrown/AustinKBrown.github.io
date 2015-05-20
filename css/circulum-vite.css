@@ -1,7 +1,7 @@
 .version.circulum_vite /* version checker */
 {
-	color: #000005;
-	background-color: #FE3735;
+	color: #0000F0;
+	background-color: #7042CC;
 }
 
 .html
@@ -385,7 +385,7 @@
 #pu9830
 {
 	width: 0.01px;
-	margin: 1191px -10000px -375px -100px;
+	margin: 1174px -10000px -375px -100px;
 }
 
 #u9830
@@ -1169,6 +1169,6 @@ body
 #page .verticalspacer
 {
 	clear: both;
-	margin-bottom: -1191px;
+	margin-bottom: -1174px;
 }
 
