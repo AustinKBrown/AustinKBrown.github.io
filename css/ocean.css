@@ -1,12 +1,12 @@
 .version.ocean /* version checker */
 {
-	color: #000015;
-	background-color: #77CE8F;
+	color: #0000FC;
+	background-color: #8BBC1D;
 }
 
 .html
 {
-	background-color: #E1E2EC;
+	background-color: #FCFCFF;
 }
 
 #page
@@ -479,28 +479,12 @@
 #u6982-9
 {
 	z-index: 21;
-	width: 418px;
-	min-height: 621px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 404px;
-	left: 480px;
-}
-
-#u6982-2
-{
-	font-size: 24px;
-	line-height: 29px;
-	color: #8C6239;
-}
-
-#u6982-7
-{
-	font-size: 19px;
-	line-height: 27px;
+	left: 479px;
 }
 
 #pu9830

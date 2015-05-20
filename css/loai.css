@@ -1,12 +1,12 @@
 .version.loai /* version checker */
 {
-	color: #000001;
-	background-color: #CD970C;
+	color: #0000FE;
+	background-color: #E5282D;
 }
 
 .html
 {
-	background-color: #E1E2EC;
+	background-color: #FCFCFF;
 }
 
 #page
@@ -460,35 +460,12 @@
 #u6691-27
 {
 	z-index: 17;
-	width: 418px;
-	min-height: 621px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 405px;
-	left: 480px;
-}
-
-#u6691-2
-{
-	font-size: 24px;
-	line-height: 29px;
-	color: #8C6239;
-}
-
-#u6691-22,#u6691-24
-{
-	font-size: 19px;
-	text-align: right;
-	line-height: 27px;
-}
-
-#u6691-7,#u6691-9,#u6691-11,#u6691-13,#u6691-15,#u6691-17,#u6691-19,#u6691-21,#u6691-25
-{
-	font-size: 19px;
-	line-height: 27px;
+	left: 479px;
 }
 
 #pu9830

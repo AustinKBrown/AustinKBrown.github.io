@@ -1,12 +1,12 @@
 .version.index /* version checker */
 {
-	color: #00000E;
-	background-color: #D8CC8F;
+	color: #0000F5;
+	background-color: #3ED10B;
 }
 
 .html
 {
-	background-color: #E1E2EC;
+	background-color: #FCFCFF;
 }
 
 #page
@@ -422,11 +422,23 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#ppu9614
+#ppppu9614
 {
 	width: 0.01px;
 	margin-left: -20px;
 	margin-top: 52px;
+}
+
+#pppu9614
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 24px;
+}
+
+#ppu9614
+{
+	width: 0.01px;
 }
 
 #u9614
@@ -435,7 +447,6 @@
 	position: relative;
 	width: 654px;
 	margin-right: -10000px;
-	margin-top: 24px;
 }
 
 #u9614_states
@@ -451,45 +462,20 @@
 	background: url("../images/u9614_states-r.png") no-repeat 0px 0px;
 }
 
-#u10803
-{
-	z-index: 85;
-	width: 200px;
-	min-height: 100px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 846px;
-}
-
-#ppu11066
-{
-	width: 0.01px;
-	margin-left: -20px;
-	margin-top: -1px;
-}
-
-#pu11066
-{
-	width: 0.01px;
-	margin-right: -10000px;
-}
-
-#u11066
+#u11208
 {
 	z-index: 86;
-	width: 559px;
+	width: 591px;
 	background-color: transparent;
-	margin-left: 20px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 60px;
 }
 
 #pu9391
 {
 	width: 0.01px;
-	margin-top: 40px;
+	margin-top: 35px;
 }
 
 #u9391
@@ -556,7 +542,7 @@
 	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	margin-top: 7px;
 	position: relative;
@@ -628,7 +614,7 @@
 	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	margin-left: 32px;
 	margin-top: 6px;
@@ -698,13 +684,37 @@
 	margin: -73px -70px 3px -374px;
 }
 
+#pu10803
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 744px;
+}
+
+#u10803
+{
+	z-index: 85;
+	width: 200px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 102px;
+	position: relative;
+}
+
+#ppu9463
+{
+	width: 0.01px;
+	margin-top: 15px;
+}
+
 #pu9463
 {
 	z-index: 2;
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	margin-left: 744px;
 }
 
 #u9463
@@ -712,7 +722,7 @@
 	z-index: 0;
 	width: 302px;
 	border-color: #43270C;
-	background-color: #C7C9ED;
+	background-color: #E8D3C9;
 	opacity: 0.45;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=45)";
 	filter: alpha(opacity=45);
@@ -794,7 +804,7 @@
 	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	top: -1px;
 	margin-bottom: -1px;
@@ -856,7 +866,7 @@
 	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	margin-top: 1px;
 	position: relative;
@@ -921,7 +931,7 @@
 	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -948,7 +958,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 121px;
-	left: 770px;
+	left: 26px;
 }
 
 #u10774
@@ -978,7 +988,7 @@
 	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	top: -1px;
 	margin-bottom: -1px;
@@ -1013,7 +1023,7 @@
 	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1040,7 +1050,7 @@
 	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	color: #A67C52;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 	margin-right: -10000px;

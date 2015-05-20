@@ -1,12 +1,12 @@
 .version.gc /* version checker */
 {
-	color: #00000D;
-	background-color: #68BF8E;
+	color: #0000FB;
+	background-color: #C91A02;
 }
 
 .html
 {
-	background-color: #E1E2EC;
+	background-color: #FCFCFF;
 }
 
 #page
@@ -414,28 +414,12 @@
 #u6180-12
 {
 	z-index: 2;
-	width: 418px;
-	min-height: 621px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
+	display: block;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 403px;
-	left: 496px;
-}
-
-#u6180-2
-{
-	font-size: 24px;
-	line-height: 29px;
-	color: #8C6239;
-}
-
-#u6180-7,#u6180-8,#u6180-10
-{
-	font-size: 19px;
-	line-height: 27px;
+	left: 495px;
 }
 
 #pu9830

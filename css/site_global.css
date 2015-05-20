@@ -153,9 +153,9 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .Body-head
 {
-	color: #A67C52;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	font-size: 14px;
+	color: #43270C;
+	font-family: Chunkslab-full;
+	font-size: 28px;
 	font-weight: bold;
 	text-align: left;
 	padding: 0px;
