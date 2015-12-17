@@ -1,180 +1,165 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432156641336">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1450331071456" domain="AustinKBrown.com">
   <folder name="css">
-    <file name="site_global.css" crc="3834772275"/>
-    <file name="master_a-master.css" crc="4173717622" ref="people-of-the-palouse:edao:index:circulum-vite:ocean:oils:about:blog:shop:weavers--field:hood-comic:contact:the-blossom-and-the-bee:gc:hear-the-waves:loai:one-day:art-in-the-kenworthy:hayden-gallery-show"/>
-    <file name="master_blog-master.css" crc="3794868121" ref="people-of-the-palouse:blog:weavers--field:hood-comic:the-blossom-and-the-bee:hear-the-waves:one-day:art-in-the-kenworthy:hayden-gallery-show"/>
-    <file name="master_about-master.css" crc="4236364645" ref="circulum-vite:about:contact"/>
-    <file name="master_b-master.css" crc="330097373" ref="shop"/>
-    <file name="people-of-the-palouse.css" crc="284846278" ref="people-of-the-palouse"/>
-    <file name="edao.css" crc="3818900721" ref="edao"/>
-    <file name="index.css" crc="313250448" ref="index"/>
-    <file name="circulum-vite.css" crc="4033888972" ref="circulum-vite"/>
-    <file name="ocean.css" crc="4237016093" ref="ocean"/>
-    <file name="oils.css" crc="154227084" ref="oils"/>
-    <file name="about.css" crc="3917603214" ref="about"/>
-    <file name="blog.css" crc="4166579721" ref="blog"/>
-    <file name="shop.css" crc="4113587688" ref="shop"/>
-    <file name="weavers--field.css" crc="3837785944" ref="weavers--field"/>
-    <file name="hood-comic.css" crc="4094911422" ref="hood-comic"/>
-    <file name="contact.css" crc="114750188" ref="contact"/>
-    <file name="the-blossom-and-the-bee.css" crc="4222629988" ref="the-blossom-and-the-bee"/>
-    <file name="gc.css" crc="4224260610" ref="gc"/>
-    <file name="hear-the-waves.css" crc="4108447239" ref="hear-the-waves"/>
-    <file name="loai.css" crc="4276430893" ref="loai"/>
-    <file name="one-day.css" crc="3914035406" ref="one-day"/>
-    <file name="art-in-the-kenworthy.css" crc="3959949276" ref="art-in-the-kenworthy"/>
-    <file name="hayden-gallery-show.css" crc="77276196" ref="hayden-gallery-show"/>
+    <file name="site_global.css" crc="173668959"/>
+    <file name="master_a-master.css" crc="405638047" ref="people-of-the-palouse:edao:index:circulum-vite:ocean:oils:about:blog:shop:weavers--field:hood-comic:contact:the-blossom-and-the-bee:gc:hear-the-waves:loai:one-day:art-in-the-kenworthy:hayden-gallery-show:studio-adventures"/>
+    <file name="master_blog-master.css" crc="4111167502" ref="people-of-the-palouse:blog:weavers--field:hood-comic:the-blossom-and-the-bee:hear-the-waves:one-day:art-in-the-kenworthy:hayden-gallery-show:studio-adventures"/>
+    <file name="master_about-master.css" crc="646341" ref="circulum-vite:about:contact"/>
+    <file name="people-of-the-palouse.css" crc="4265609503" ref="people-of-the-palouse"/>
+    <file name="edao.css" crc="187286238" ref="edao"/>
+    <file name="index.css" crc="3808739087" ref="index"/>
+    <file name="circulum-vite.css" crc="3941484065" ref="circulum-vite"/>
+    <file name="ocean.css" crc="4044005498" ref="ocean"/>
+    <file name="oils.css" crc="4130897220" ref="oils"/>
+    <file name="about.css" crc="4107143462" ref="about"/>
+    <file name="blog.css" crc="3906549659" ref="blog"/>
+    <file name="shop.css" crc="4061843299" ref="shop"/>
+    <file name="weavers--field.css" crc="4267068659" ref="weavers--field"/>
+    <file name="hood-comic.css" crc="213350847" ref="hood-comic"/>
+    <file name="contact.css" crc="3866455256" ref="contact"/>
+    <file name="the-blossom-and-the-bee.css" crc="3946804742" ref="the-blossom-and-the-bee"/>
+    <file name="gc.css" crc="290727252" ref="gc"/>
+    <file name="hear-the-waves.css" crc="314923839" ref="hear-the-waves"/>
+    <file name="loai.css" crc="224291610" ref="loai"/>
+    <file name="one-day.css" crc="507887279" ref="one-day"/>
+    <file name="art-in-the-kenworthy.css" crc="4170216641" ref="art-in-the-kenworthy"/>
+    <file name="hayden-gallery-show.css" crc="3938165185" ref="hayden-gallery-show"/>
+    <file name="studio-adventures.css" crc="45958704" ref="studio-adventures"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show"/>
-    <file name="museutils.js" crc="521960461" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show"/>
-    <file name="webpro.js" crc="220831917" ref="index:gc:loai:edao:ocean:contact"/>
-    <file name="musewpslideshow.js" crc="224651946" ref="index:gc:loai:edao:ocean"/>
-    <file name="jquery.museoverlay.js" crc="276313855" ref="index:gc:loai:edao:ocean"/>
-    <file name="touchswipe.js" crc="325405309" ref="index:gc:loai:edao:ocean"/>
-    <file name="jquery.musemenu.js" crc="397543671" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show"/>
-    <file name="jquery.watch.js" crc="56779320" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show"/>
-    <file name="form_check.php" crc="218543696" ref="contact"/>
-    <file name="form_throttle.php" crc="3988545917" ref="contact"/>
-    <file name="form_process.php" crc="4264751530" ref="contact"/>
-    <file name="form-u10084.php" crc="237027719" ref="contact"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show:studio-adventures"/>
+    <file name="museutils.js" crc="275725342" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show:studio-adventures"/>
+    <file name="webpro.js" crc="3883484123" ref="index:gc:loai:edao:ocean:contact"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:gc:loai:edao:ocean"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:gc:loai:edao:ocean"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:gc:loai:edao:ocean"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show:studio-adventures"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show:studio-adventures"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show:studio-adventures"/>
+    <file name="form_check.php" crc="3932029206" ref="contact"/>
+    <file name="form_throttle.php" crc="314685628" ref="contact"/>
+    <file name="form_process.php" crc="401030677" ref="contact"/>
+    <file name="form-u10084.php" crc="4147670177" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="finished_20.jpg" crc="456402806" ref="index:gc"/>
+    <file name="finished_20.jpg" crc="456402806" ref="gc" seo="true"/>
     <file name="blank.gif" crc="4208392903" ref="index:gc:loai:edao:ocean"/>
-    <file name="senior gallery panarama.jpg" crc="3871640257" ref="index:loai"/>
-    <file name="life of an installation_1.jpg" crc="336288976" ref="index:loai"/>
-    <file name="et dices ad odorandum_10.jpg" crc="4079560682" ref="index:edao"/>
-    <file name="et dices ad odorandum_11.jpg" crc="3768017835" ref="index:edao"/>
-    <file name="tape hangings_18.jpg" crc="4218333813" ref="index"/>
+    <file name="senior gallery panarama.jpg" crc="3871640257" ref="loai" seo="true"/>
+    <file name="life of an installation_1.jpg" crc="336288976" ref="loai" seo="true"/>
+    <file name="et dices ad odorandum_10.jpg" crc="4157306746" ref="index" seo="true"/>
+    <file name="et dices ad odorandum_11.jpg" crc="3768017835" ref="edao" seo="true"/>
     <file name="loading.gif" crc="3815509949" ref="index:gc:loai:edao:ocean"/>
-    <file name="u8133-4.png" crc="43829688" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show"/>
-    <file name="u9614_states.png" crc="210530312" ref="index"/>
-    <file name="u9614_states-r.png" crc="210530312" ref="index"/>
-    <file name="weavers- field_s.gif" crc="358964005" ref="weavers--field"/>
-    <file name="main entry balcony floor2.jpg" crc="169550685" ref="index"/>
-    <file name="u9460_states.png" crc="209056055" ref="index"/>
-    <file name="u9460_states-r.png" crc="209056055" ref="index"/>
-    <file name="et dices ad odorandum_102.jpg" crc="4157306746" ref="index"/>
-    <file name="20131112_ocean_10482x321-crop-u9428.jpg" crc="89044928" ref="index"/>
-    <file name="life of an installation_9.jpg" crc="363923377" ref="index"/>
-    <file name="u9462-4.png" crc="4226367780" ref="index"/>
-    <file name="close up_s.jpg" crc="388615037" ref="index"/>
-    <file name="-1 man and dog.jpg" crc="197407421" ref="index"/>
-    <file name="what-.png" crc="522574381" ref="index"/>
-    <file name="ocean stoll_1s.jpg" crc="150543658" ref="index"/>
-    <file name="u10697-4.png" crc="3763983556" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show"/>
-    <file name="finished_22-crop-u10607.jpg" crc="535276052" ref="about:circulum-vite:contact"/>
-    <file name="artist-s hands sq.jpg" crc="3780645426" ref="about"/>
-    <file name="u3322-80.png" crc="134077881" ref="circulum-vite"/>
-    <file name="finished_5.jpg" crc="383772532" ref="gc"/>
-    <file name="finished_6.jpg" crc="297017224" ref="gc"/>
-    <file name="finished_17.jpg" crc="18943587" ref="gc"/>
-    <file name="finished_22.jpg" crc="4199651112" ref="gc"/>
-    <file name="south west balcony second story.jpg" crc="499408599" ref="gc"/>
-    <file name="west balcony second story.jpg" crc="62690714" ref="gc"/>
-    <file name="finished_20437x292.jpg" crc="4000203719" ref="gc"/>
-    <file name="life of an installation_92.jpg" crc="455096273" ref="loai"/>
-    <file name="senior gallery panarama-crop-u6557.jpg" crc="4193992165" ref="loai"/>
-    <file name="life of an installation_1483x322.jpg" crc="163636177" ref="loai"/>
-    <file name="life of an installation_9484x322.jpg" crc="3815038079" ref="loai"/>
-    <file name="et dices ad odorandum_23.jpg" crc="126365701" ref="edao"/>
-    <file name="odorandum wrap_6.jpg" crc="3856759696" ref="edao"/>
-    <file name="odorandum wrap.jpg" crc="526614507" ref="edao"/>
-    <file name="et dices ad odorandum_10482x321.jpg" crc="3905599164" ref="edao"/>
-    <file name="et dices ad odorandum_11-crop-u6428.jpg" crc="3924775206" ref="edao"/>
-    <file name="et dices ad odorandum_23-crop-u6501.jpg" crc="493572238" ref="edao"/>
-    <file name="odorandum wrap_6-crop-u6516.jpg" crc="352642173" ref="edao"/>
-    <file name="odorandum wrap-crop-u6531.jpg" crc="4274037157" ref="edao"/>
-    <file name="20131112_ocean_10.jpg" crc="65302721" ref="ocean"/>
-    <file name="20131112_reflections_theocean_15.jpg" crc="117841108" ref="ocean"/>
-    <file name="20131112_the ocean_6.jpg" crc="4184249271" ref="ocean"/>
-    <file name="20131112_the ocean_15.jpg" crc="4281014703" ref="ocean"/>
-    <file name="20131112_ocean_10482x321.jpg" crc="418727602" ref="ocean"/>
-    <file name="20131112_reflections_theocean_15482x321.jpg" crc="455384963" ref="ocean"/>
-    <file name="20131112_the ocean_6482x321.jpg" crc="271896179" ref="ocean"/>
-    <file name="20131112_the ocean_15482x321.jpg" crc="3782429590" ref="ocean"/>
-    <file name="finished_22-crop-u9531.jpg" crc="535276052" ref="shop"/>
-    <file name="finished_22-crop-u10392.jpg" crc="535276052" ref="blog:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show"/>
-    <file name="u10102-4.png" crc="3828869891" ref="contact"/>
-    <file name="u10100-17.png" crc="4007243173" ref="contact"/>
-    <file name="u10100-17-r.png" crc="205009469" ref="contact"/>
-    <file name="u10100-17-m.png" crc="24686169" ref="contact"/>
-    <file name="u10100-17-fs.png" crc="520263768" ref="contact"/>
-    <file name="u10304-4.png" crc="3909014612" ref="the-blossom-and-the-bee"/>
-    <file name="leek blossom_s.jpg" crc="188628851" ref="the-blossom-and-the-bee"/>
-    <file name="close up.jpg" crc="49610692" ref="index"/>
-    <file name="u10518-4.png" crc="42962435" ref="hear-the-waves"/>
-    <file name="ocean stoll_s.gif" crc="4243880462" ref="hear-the-waves"/>
-    <file name="u10496-4.png" crc="392323776" ref="people-of-the-palouse"/>
-    <file name="dougiesmall.jpg" crc="3761987263" ref="people-of-the-palouse"/>
-    <file name="dr020715-04(s).jpg" crc="4184925496" ref="people-of-the-palouse"/>
-    <file name="dr020715-03(s).jpg" crc="4135426151" ref="people-of-the-palouse"/>
-    <file name="bros.jpg" crc="4294221801" ref="people-of-the-palouse"/>
-    <file name="dr020115-05(s).jpg" crc="532911400" ref="people-of-the-palouse"/>
-    <file name="dr013015-02 terri workman(s).jpg" crc="3850052592" ref="people-of-the-palouse"/>
-    <file name="warm smiles(s).jpg" crc="4017116014" ref="people-of-the-palouse"/>
-    <file name="dr020315-01(s).jpg" crc="4207315368" ref="people-of-the-palouse"/>
-    <file name="dr013015-01 summer howard(s).jpg" crc="4078012394" ref="people-of-the-palouse"/>
-    <file name="012915-05 stacy mohondro(s).jpg" crc="467216476" ref="people-of-the-palouse"/>
-    <file name="families.jpg" crc="377284662" ref="people-of-the-palouse"/>
-    <file name="dr020715-01(s).jpg" crc="64323821" ref="people-of-the-palouse"/>
-    <file name="dr020915-01_jhudson_s.jpg" crc="4013477339" ref="people-of-the-palouse"/>
-    <file name="coupleinthefield.jpg" crc="4099109394" ref="people-of-the-palouse"/>
+    <file name="u8133-4.png" crc="3858849938" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show:studio-adventures"/>
+    <file name="weavers- field_s.gif" crc="358964005" ref="weavers--field" seo="true"/>
+    <file name="main entry balcony floor2.jpg" crc="169550685" ref="index" seo="true"/>
+    <file name="et dices ad odorandum_102.jpg" crc="4079560682" ref="edao" seo="true"/>
+    <file name="life of an installation_9.jpg" crc="363923377" ref="index" seo="true"/>
+    <file name="close up_s.jpg" crc="388615037" ref="index" seo="true"/>
+    <file name="-1 man and dog.jpg" crc="197407421" ref="index" seo="true"/>
+    <file name="what-.png" crc="522574381" ref="index" seo="true"/>
+    <file name="ocean stoll_1s.jpg" crc="150543658" ref="index" seo="true"/>
+    <file name="u10697-4.png" crc="3763983556" ref="index:about:circulum-vite:gc:loai:edao:ocean:oils:shop:blog:contact:the-blossom-and-the-bee:hear-the-waves:people-of-the-palouse:hood-comic:weavers--field:one-day:art-in-the-kenworthy:hayden-gallery-show:studio-adventures"/>
+    <file name="artist-s hands sq.jpg" crc="3883260831" ref="about" seo="true"/>
+    <file name="finished_5.jpg" crc="383772532" ref="gc" seo="true"/>
+    <file name="finished_6.jpg" crc="297017224" ref="gc" seo="true"/>
+    <file name="finished_17.jpg" crc="18943587" ref="gc" seo="true"/>
+    <file name="finished_22.jpg" crc="4199651112" ref="gc" seo="true"/>
+    <file name="south west balcony second story.jpg" crc="499408599" ref="gc" seo="true"/>
+    <file name="west balcony second story.jpg" crc="62690714" ref="gc" seo="true"/>
+    <file name="finished_20437x292.jpg" crc="3792754262" ref="gc" seo="true"/>
+    <file name="life of an installation_92.jpg" crc="455096273" ref="loai" seo="true"/>
+    <file name="senior gallery panarama-crop-u6557.jpg" crc="521766495" ref="loai"/>
+    <file name="life of an installation_1483x322.jpg" crc="4123617465" ref="loai" seo="true"/>
+    <file name="life of an installation_9484x322.jpg" crc="4092206269" ref="loai" seo="true"/>
+    <file name="et dices ad odorandum_23.jpg" crc="126365701" ref="edao" seo="true"/>
+    <file name="odorandum wrap_6.jpg" crc="3856759696" ref="edao" seo="true"/>
+    <file name="odorandum wrap.jpg" crc="526614507" ref="edao" seo="true"/>
+    <file name="et dices ad odorandum_10482x321.jpg" crc="4049432345" ref="edao" seo="true"/>
+    <file name="et dices ad odorandum_11-crop-u6428.jpg" crc="3909128274" ref="edao"/>
+    <file name="et dices ad odorandum_23-crop-u6501.jpg" crc="3923735708" ref="edao"/>
+    <file name="odorandum wrap_6-crop-u6516.jpg" crc="37687480" ref="edao"/>
+    <file name="odorandum wrap-crop-u6531.jpg" crc="3758996839" ref="edao"/>
+    <file name="20131112_ocean_10.jpg" crc="65302721" ref="ocean" seo="true"/>
+    <file name="20131112_reflections_theocean_15.jpg" crc="117841108" ref="ocean" seo="true"/>
+    <file name="20131112_the ocean_6.jpg" crc="4184249271" ref="ocean" seo="true"/>
+    <file name="20131112_the ocean_15.jpg" crc="4281014703" ref="ocean" seo="true"/>
+    <file name="20131112_ocean_10482x321.jpg" crc="3983005854" ref="ocean" seo="true"/>
+    <file name="20131112_reflections_theocean_15482x321.jpg" crc="126911817" ref="ocean" seo="true"/>
+    <file name="20131112_the ocean_6482x321.jpg" crc="4187187709" ref="ocean" seo="true"/>
+    <file name="20131112_the ocean_15482x321.jpg" crc="3821524506" ref="ocean" seo="true"/>
+    <file name="u10100-17.png" crc="529316192" ref="contact"/>
+    <file name="u10100-17-r.png" crc="269370525" ref="contact"/>
+    <file name="u10100-17-m.png" crc="364315399" ref="contact"/>
+    <file name="u10100-17-fs.png" crc="392397353" ref="contact"/>
+    <file name="leek blossom_s.jpg" crc="188628851" ref="the-blossom-and-the-bee" seo="true"/>
+    <file name="ocean stoll_s.gif" crc="4243880462" ref="hear-the-waves" seo="true"/>
+    <file name="dougiesmall.jpg" crc="3761987263" ref="people-of-the-palouse" seo="true"/>
+    <file name="dr020715-04(s).jpg" crc="4184925496" ref="people-of-the-palouse" seo="true"/>
+    <file name="dr020715-03(s).jpg" crc="4135426151" ref="people-of-the-palouse" seo="true"/>
+    <file name="bros.jpg" crc="4294221801" ref="people-of-the-palouse" seo="true"/>
+    <file name="dr020115-05(s).jpg" crc="532911400" ref="people-of-the-palouse" seo="true"/>
+    <file name="dr013015-02 terri workman(s).jpg" crc="3850052592" ref="people-of-the-palouse" seo="true"/>
+    <file name="warm smiles(s).jpg" crc="4017116014" ref="people-of-the-palouse" seo="true"/>
+    <file name="dr020315-01(s).jpg" crc="4207315368" ref="people-of-the-palouse" seo="true"/>
+    <file name="dr013015-01 summer howard(s).jpg" crc="4078012394" ref="people-of-the-palouse" seo="true"/>
+    <file name="012915-05 stacy mohondro(s).jpg" crc="467216476" ref="people-of-the-palouse" seo="true"/>
+    <file name="families.jpg" crc="377284662" ref="people-of-the-palouse" seo="true"/>
+    <file name="dr020715-01(s).jpg" crc="64323821" ref="people-of-the-palouse" seo="true"/>
+    <file name="dr020915-01_jhudson_s.jpg" crc="4013477339" ref="people-of-the-palouse" seo="true"/>
+    <file name="coupleinthefield.jpg" crc="4099109394" ref="people-of-the-palouse" seo="true"/>
     <file name="dr020515-04(s)-crop-u10474.jpg" crc="404273674" ref="people-of-the-palouse"/>
-    <file name="dr020515-05(hd).jpg" crc="4252362578" ref="people-of-the-palouse"/>
-    <file name="dr020515-02(s).jpg" crc="4157858368" ref="people-of-the-palouse"/>
-    <file name="-3 happy veggies(s).jpg" crc="485787786" ref="people-of-the-palouse"/>
-    <file name="mananddog.jpg" crc="127212402" ref="people-of-the-palouse"/>
-    <file name="dr013015-04 stacy mohondro(s).jpg" crc="3867764325" ref="people-of-the-palouse"/>
+    <file name="dr020515-05(hd).jpg" crc="4252362578" ref="people-of-the-palouse" seo="true"/>
+    <file name="dr020515-02(s).jpg" crc="4157858368" ref="people-of-the-palouse" seo="true"/>
+    <file name="mananddog.jpg" crc="127212402" ref="people-of-the-palouse" seo="true"/>
+    <file name="dr013015-04 stacy mohondro(s).jpg" crc="3867764325" ref="people-of-the-palouse" seo="true"/>
     <file name="dr020415-02(s)-crop-u10494.jpg" crc="52390345" ref="people-of-the-palouse"/>
-    <file name="u10448-4.png" crc="250938663" ref="hood-comic"/>
-    <file name="hood11 (another comic).jpg" crc="414304979" ref="hood-comic"/>
-    <file name="u10723-8.png" crc="503451838" ref="weavers--field"/>
-    <file name="1036 people watching april 7th 2015_s.jpg" crc="4202706481" ref="one-day"/>
-    <file name="1152 bird watching april 7th 2015_s.jpg" crc="501724510" ref="one-day:index"/>
-    <file name="1307 blue bicycle april 7th 2015_s.jpg" crc="3832690508" ref="one-day"/>
-    <file name="1622 coffee april 7th 2015_s.jpg" crc="4011925755" ref="one-day"/>
-    <file name="1849 dinner april 7th 2015_s.jpg" crc="4040322056" ref="one-day"/>
-    <file name="u10860-4.png" crc="33980848" ref="one-day"/>
-    <file name="chipmonk.jpg" crc="4120195662" ref="index"/>
-    <file name="framed selections_1.jpg" crc="524135282" ref="art-in-the-kenworthy"/>
-    <file name="framed selections_2.jpg" crc="275384970" ref="art-in-the-kenworthy"/>
-    <file name="framed selections_3.jpg" crc="34081146" ref="art-in-the-kenworthy"/>
-    <file name="framed selections.jpg" crc="140932228" ref="art-in-the-kenworthy"/>
-    <file name="close up742x495.jpg" crc="4060206649" ref="the-blossom-and-the-bee"/>
-    <file name="ocean stoll_1s2.jpg" crc="531472453" ref="hear-the-waves"/>
-    <file name="u11035-4.png" crc="417792895" ref="art-in-the-kenworthy"/>
-    <file name="u6180-12.png" crc="4286864788" ref="gc"/>
-    <file name="u6691-27.png" crc="329346338" ref="loai"/>
-    <file name="u6547-12.png" crc="4012054666" ref="edao"/>
-    <file name="u6982-9.png" crc="4009652639" ref="ocean"/>
-    <file name="u11185-4.png" crc="4051424323" ref="blog"/>
-    <file name="leek blossom_s-crop-u11189.jpg" crc="183784492" ref="blog"/>
-    <file name="sun blossom-crop-u11191.jpg" crc="477840695" ref="blog"/>
-    <file name="u11110-4.png" crc="4051424323" ref="hayden-gallery-show"/>
-    <file name="leek blossom_s-crop-u11162.jpg" crc="183784492" ref="hayden-gallery-show"/>
-    <file name="sun blossom-crop-u11169.jpg" crc="477840695" ref="hayden-gallery-show"/>
-    <file name="sun blossom-crop-u11208.jpg" crc="435653048" ref="index"/>
+    <file name="hood11 (another comic).jpg" crc="414304979" ref="hood-comic" seo="true"/>
+    <file name="1036 people watching april 7th 2015_s.jpg" crc="4202706481" ref="one-day" seo="true"/>
+    <file name="1152 bird watching april 7th 2015_s.jpg" crc="501724510" ref="one-day" seo="true"/>
+    <file name="1307 blue bicycle april 7th 2015_s.jpg" crc="3832690508" ref="one-day" seo="true"/>
+    <file name="1622 coffee april 7th 2015_s.jpg" crc="4011925755" ref="one-day" seo="true"/>
+    <file name="1849 dinner april 7th 2015_s.jpg" crc="4040322056" ref="one-day" seo="true"/>
+    <file name="framed selections_1.jpg" crc="524135282" ref="art-in-the-kenworthy" seo="true"/>
+    <file name="framed selections_2.jpg" crc="275384970" ref="art-in-the-kenworthy" seo="true"/>
+    <file name="framed selections_3.jpg" crc="34081146" ref="art-in-the-kenworthy" seo="true"/>
+    <file name="framed selections.jpg" crc="140932228" ref="art-in-the-kenworthy" seo="true"/>
+    <file name="close up742x495.jpg" crc="4276574124" ref="the-blossom-and-the-bee" seo="true"/>
+    <file name="ocean stoll_1s2.jpg" crc="531472453" ref="hear-the-waves" seo="true"/>
+    <file name="leek blossom_s-crop-u11189.jpg" crc="3854932629" ref="blog"/>
+    <file name="sun blossom-crop-u11191.jpg" crc="4117914867" ref="blog"/>
+    <file name="leek blossom_s-crop-u11162.jpg" crc="3854932629" ref="hayden-gallery-show"/>
+    <file name="sun blossom-crop-u11169.jpg" crc="4117914867" ref="hayden-gallery-show"/>
+    <file name="sun blossom-crop-u11208.jpg" crc="4208716593" ref="index"/>
+    <file name="finished_20-crop-u5522.jpg" crc="4000455109" ref="index"/>
+    <file name="senior gallery panarama1112x301.jpg" crc="3925629383" seo="true" ref="index"/>
+    <file name="life of an installation_1-crop-u5412.jpg" crc="55821575" ref="index"/>
+    <file name="et dices ad odorandum_10-crop-u5424.jpg" crc="272761039" ref="index"/>
+    <file name="et dices ad odorandum_11-crop-u5436.jpg" crc="4069685754" ref="index"/>
+    <file name="tape hangings_18-crop-u5450.jpg" crc="3894800836" ref="index"/>
+    <file name="1152 bird watching april 7th 2015_s-crop-u10960.jpg" crc="182584864" ref="index"/>
+    <file name="chipmonk-crop-u10974.jpg" crc="4093009313" ref="index"/>
+    <file name="close up-crop-u10998.jpg" crc="3773268905" ref="index"/>
+    <file name="20131112_the ocean-crop-u9428.jpg" crc="323440484" ref="index"/>
+    <file name="-3 happy veggitables.jpg" crc="252107277" seo="true" ref="people-of-the-palouse"/>
+    <file name="one world cafe.png" crc="70196240" seo="true" ref="studio-adventures"/>
   </folder>
-  <file name="index.html" crc="3873710820" mt="1432156572101" redirect="true"/>
-  <file name="about.html" crc="3871722711" mt="1432156572101" redirect="true"/>
-  <file name="circulum-vite.html" crc="368946960" mt="1432156572101" redirect="true"/>
-  <file name="gc.html" crc="3973476251" mt="1432156572101" redirect="true"/>
-  <file name="loai.html" crc="513938055" mt="1432156572101" redirect="true"/>
-  <file name="edao.html" crc="405236815" mt="1432156572101" redirect="true"/>
-  <file name="ocean.html" crc="4077557961" mt="1432156572101" redirect="true"/>
-  <file name="oils.html" crc="3969167791" mt="1432156572101" redirect="true"/>
-  <file name="shop.html" crc="3947502323" mt="1432156572101" redirect="true"/>
-  <file name="blog.html" crc="66701515" mt="1432156572101" redirect="true"/>
-  <file name="contact.html" crc="4143672843" mt="1432156572101" redirect="true"/>
-  <file name="the-blossom-and-the-bee.html" crc="535115527" mt="1432156572101" redirect="true"/>
-  <file name="hear-the-waves.html" crc="317364983" mt="1432156572101" redirect="true"/>
-  <file name="people-of-the-palouse.html" crc="4008137526" mt="1432156572101" redirect="true"/>
-  <file name="hood-comic.html" crc="255652460" mt="1432156572101" redirect="true"/>
-  <file name="weavers--field.html" crc="472656481" mt="1432156572101" redirect="true"/>
-  <file name="one-day.html" crc="207285033" mt="1432156572101" redirect="true"/>
-  <file name="art-in-the-kenworthy.html" crc="3947134241" mt="1432156572101" redirect="true"/>
-  <file name="hayden-gallery-show.html" crc="162652819" mt="1432156572101" redirect="true"/>
+  <file name="index.html" crc="453078880" mt="1450330194234" redirect="true" seo="true"/>
+  <file name="about.html" crc="4214663674" mt="1450330030544" redirect="true" seo="true"/>
+  <file name="circulum-vite.html" crc="95244742" mt="1450330030544" redirect="true" seo="true"/>
+  <file name="gc.html" crc="3786026821" mt="1450329828383" redirect="true" seo="true"/>
+  <file name="loai.html" crc="297561017" mt="1450329828383" redirect="true" seo="true"/>
+  <file name="edao.html" crc="4267738401" mt="1450329828383" redirect="true" seo="true"/>
+  <file name="ocean.html" crc="3870773723" mt="1450329828383" redirect="true" seo="true"/>
+  <file name="oils.html" crc="82755367" mt="1450329828383" redirect="true" seo="true"/>
+  <file name="shop.html" crc="4039259199" mt="1450330021417" redirect="true" seo="true"/>
+  <file name="blog.html" crc="59370189" mt="1450330008840" redirect="true" seo="true"/>
+  <file name="contact.html" crc="3788220954" mt="1450330030544" redirect="true" seo="true"/>
+  <file name="the-blossom-and-the-bee.html" crc="3963370886" mt="1450330008840" redirect="true" seo="true"/>
+  <file name="hear-the-waves.html" crc="4271952150" mt="1450330008840" redirect="true" seo="true"/>
+  <file name="people-of-the-palouse.html" crc="3910269583" mt="1450330294709" redirect="true" seo="true"/>
+  <file name="hood-comic.html" crc="426164912" mt="1450330008840" redirect="true" seo="true"/>
+  <file name="weavers--field.html" crc="376854006" mt="1450330008840" redirect="true" seo="true"/>
+  <file name="one-day.html" crc="419853180" mt="1450330008840" redirect="true" seo="true"/>
+  <file name="art-in-the-kenworthy.html" crc="337144789" mt="1450330008840" redirect="true" seo="true"/>
+  <file name="hayden-gallery-show.html" crc="521607340" mt="1450330008840" redirect="true" seo="true"/>
+  <file name="studio-adventures.html" crc="46059812" seo="true" mt="1450330008840" redirect="true"/>
 </manifest>

@@ -1,18 +1,3 @@
-#u8288
-{
-	border-color: #000000;
-	background-color: #E8D3C9;
-	opacity: 0.75;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
-	filter: alpha(opacity=75);
-	position: fixed;
-}
-
-#u8133-4
-{
-	position: fixed;
-}
-
 #u8133-4_img
 {
 	display: block;
@@ -27,7 +12,7 @@
 	opacity: 0.85;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
 	filter: alpha(opacity=85);
-	position: fixed;
+	position: relative;
 }
 
 #u8257
@@ -224,7 +209,7 @@
 	background-color: #E8D3C9;
 }
 
-#u9830_align_to_page
+#u8133-4,#u9830_align_to_page
 {
 	position: relative;
 }
@@ -232,9 +217,9 @@
 #u10676-4
 {
 	background-color: transparent;
+	color: #43270C;
 	line-height: 19px;
 	font-size: 16px;
-	color: #43270C;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -250,9 +235,9 @@
 #u10684-4
 {
 	background-color: transparent;
+	color: #43270C;
 	line-height: 19px;
 	font-size: 16px;
-	color: #43270C;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -283,9 +268,9 @@
 #u10692-4
 {
 	background-color: transparent;
+	color: #43270C;
 	line-height: 19px;
 	font-size: 16px;
-	color: #43270C;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -346,8 +331,8 @@
 #u10678-4
 {
 	background-color: transparent;
-	color: #875E35;
 	line-height: 17px;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -377,8 +362,8 @@
 #u10679-4
 {
 	background-color: transparent;
-	color: #875E35;
 	line-height: 17px;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -408,9 +393,9 @@
 #u10696-4
 {
 	background-color: transparent;
+	color: #43270C;
 	line-height: 19px;
 	font-size: 16px;
-	color: #43270C;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -426,8 +411,8 @@
 #u10683-4
 {
 	background-color: transparent;
-	color: #875E35;
 	line-height: 17px;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -514,10 +499,10 @@
 #u10103-4
 {
 	background-color: transparent;
+	color: #43270C;
 	line-height: 14px;
 	text-align: right;
 	font-size: 12px;
-	color: #43270C;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
@@ -585,8 +570,8 @@
 #u10682-4
 {
 	background-color: transparent;
-	line-height: 17px;
 	color: #8C6239;
+	line-height: 17px;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	font-weight: bold;
 	position: relative;
@@ -602,8 +587,8 @@
 #u10699-4,#u10700-4,#u10701-4,#u10703-4,#u10704-4,#u10702-4,#u10680-4
 {
 	background-color: transparent;
-	color: #875E35;
 	line-height: 17px;
+	color: #875E35;
 	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
 	position: relative;
 }
