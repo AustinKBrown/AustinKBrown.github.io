@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1457093331487" domain="AustinKBrown.com">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1457093955469" domain="AustinKBrown.com">
   <folder name="css">
     <file name="site_global.css" crc="4031824741"/>
     <file name="master_a-master.css" crc="329793314" ref="people-of-the-palouse:edao:index:circulum-vite:ocean:oils:about:blog:shop:weavers--field:hood-comic:contact:the-blossom-and-the-bee:gc:hear-the-waves:loai:one-day:art-in-the-kenworthy:hayden-gallery-show:studio-adventures:paintings:sculpture"/>
@@ -25,7 +25,7 @@
     <file name="hayden-gallery-show.css" crc="4222496885" ref="hayden-gallery-show"/>
     <file name="studio-adventures.css" crc="489842450" ref="studio-adventures"/>
     <file name="master_folio.css" crc="12855589" ref="paintings:sculpture"/>
-    <file name="paintings.css" crc="3856235795" ref="paintings"/>
+    <file name="paintings.css" crc="3810234926" ref="paintings"/>
     <file name="sculpture.css" crc="206312625" ref="sculpture"/>
   </folder>
   <folder name="scripts">
@@ -197,7 +197,7 @@
     <file name="u12422_states-r.png" crc="417445490" ref="sculpture:paintings"/>
     <file name="u12423-4.png" crc="4234274439" ref="sculpture:paintings"/>
     <file name="drape_3-recovered5-crop-u12414.jpg" crc="4159678693" ref="sculpture:paintings"/>
-    <file name="north west second story228x152.jpg" crc="73661942" seo="true" ref="sculpture"/>
+    <file name="north west second story228x152.jpg" crc="73661942" seo="true" ref="sculpture:paintings"/>
     <file name="u12407_states.png" crc="3933482005" ref="sculpture:paintings"/>
     <file name="u12407_states-r.png" crc="14387502" ref="sculpture:paintings"/>
     <file name="u12408_states.png" crc="4108182165" ref="sculpture:paintings"/>
@@ -210,7 +210,7 @@
     <file name="u12411_states-r.png" crc="429341811" ref="sculpture:paintings"/>
     <file name="sun blossom-crop-u12412.jpg" crc="366727474" ref="sculpture:paintings"/>
     <file name="-1 man and dog-crop-u12416.jpg" crc="214703614" ref="sculpture:paintings"/>
-    <file name="what-165x139.png" crc="487662447" seo="true" ref="sculpture"/>
+    <file name="what-165x139.png" crc="487662447" seo="true" ref="sculpture:paintings"/>
     <file name="jesus 1.jpg" crc="4177952381" seo="true" ref="sculpture:paintings"/>
     <file name="u12424_states.png" crc="101995218" ref="sculpture:paintings"/>
     <file name="u12424_states-r.png" crc="4161318468" ref="sculpture:paintings"/>
@@ -218,50 +218,44 @@
     <file name="u12167_states.png" crc="3916093404" ref="sculpture"/>
     <file name="u12167_states-r.png" crc="4279991921" ref="sculpture"/>
     <file name="u12329-4.png" crc="436516845" ref="paintings"/>
-    <file name="cebimde.jpg" crc="4251578857" seo="true" ref="paintings"/>
-    <file name="leek blossom(print).jpg" crc="70820676" seo="true" ref="paintings"/>
-    <file name="1036 people watching april 7th 2015.jpg" crc="3790843337" seo="true" ref="paintings"/>
-    <file name="1152 bird watching april 7th 2015.jpg" crc="87043184" seo="true" ref="paintings"/>
-    <file name="1307 blue bicycle april 7th 2015.jpg" crc="449405493" seo="true" ref="paintings"/>
-    <file name="1622 green chair april 7th 2015.jpg" crc="3998778571" seo="true" ref="paintings"/>
-    <file name="1849 dinner april 7th 2015.jpg" crc="174777060" seo="true" ref="paintings"/>
-    <file name="drizzle.jpg" crc="306491082" seo="true" ref="paintings"/>
-    <file name="drought.jpg" crc="4111806606" seo="true" ref="paintings"/>
-    <file name="friendship square.jpg" crc="300517904" seo="true" ref="paintings"/>
+    <file name="cebimde.jpg" crc="509988977" seo="true" ref="paintings"/>
+    <file name="leek blossom(print).jpg" crc="4234002890" seo="true" ref="paintings"/>
+    <file name="1036 people watching april 7th 2015.jpg" crc="316105687" seo="true" ref="paintings"/>
+    <file name="1152 bird watching april 7th 2015.jpg" crc="4077166612" seo="true" ref="paintings"/>
+    <file name="1307 blue bicycle april 7th 2015.jpg" crc="3931004610" seo="true" ref="paintings"/>
+    <file name="1622 green chair april 7th 2015.jpg" crc="226404315" seo="true" ref="paintings"/>
+    <file name="1849 dinner april 7th 2015.jpg" crc="349675948" seo="true" ref="paintings"/>
+    <file name="drizzle.jpg" crc="3866910412" seo="true" ref="paintings"/>
+    <file name="drought.jpg" crc="4134606295" seo="true" ref="paintings"/>
+    <file name="friendship square.jpg" crc="4108409105" seo="true" ref="paintings"/>
     <file name="amanda.jpg" crc="4243534754" seo="true" ref="paintings"/>
-    <file name="lady slipper.jpg" crc="323427341" seo="true" ref="paintings"/>
-    <file name="main and 5th, moscow.jpg" crc="3851582462" seo="true" ref="paintings"/>
-    <file name="chipmonk_s.jpg" crc="3778100414" seo="true" ref="paintings"/>
-    <file name="cebimde230x184.jpg" crc="291454855" seo="true" ref="paintings"/>
-    <file name="leek blossom(print)-crop-u12746.jpg" crc="4256438813" ref="paintings"/>
-    <file name="1036 people watching april 7th 2015-crop-u12781.jpg" crc="172319146" ref="paintings"/>
-    <file name="1152 bird watching april 7th 2015267x184.jpg" crc="109790190" seo="true" ref="paintings"/>
-    <file name="1307 blue bicycle april 7th 2015-crop-u12799.jpg" crc="479290245" ref="paintings"/>
-    <file name="1622 green chair april 7th 2015-crop-u12808.jpg" crc="3893261719" ref="paintings"/>
-    <file name="1849 dinner april 7th 2015-crop-u12817.jpg" crc="3852125852" ref="paintings"/>
-    <file name="drizzle-crop-u12856.jpg" crc="4015577216" ref="paintings"/>
-    <file name="drought-crop-u12865.jpg" crc="4061105654" ref="paintings"/>
-    <file name="friendship square-crop-u12879.jpg" crc="4012957054" ref="paintings"/>
+    <file name="lady slipper.jpg" crc="3896137713" seo="true" ref="paintings"/>
+    <file name="main and 5th, moscow.jpg" crc="420920866" seo="true" ref="paintings"/>
+    <file name="chipmonk_s.jpg" crc="4074009698" seo="true" ref="paintings"/>
+    <file name="cebimde230x184.jpg" crc="3808812239" seo="true" ref="paintings"/>
+    <file name="leek blossom(print)-crop-u12746.jpg" crc="4121306761" ref="paintings"/>
+    <file name="1036 people watching april 7th 2015-crop-u12781.jpg" crc="298828395" ref="paintings"/>
+    <file name="1152 bird watching april 7th 2015267x184.jpg" crc="241978011" seo="true" ref="paintings"/>
+    <file name="1307 blue bicycle april 7th 2015-crop-u12799.jpg" crc="3897914776" ref="paintings"/>
+    <file name="1622 green chair april 7th 2015-crop-u12808.jpg" crc="4205352038" ref="paintings"/>
+    <file name="1849 dinner april 7th 2015-crop-u12817.jpg" crc="359366270" ref="paintings"/>
+    <file name="drizzle-crop-u12856.jpg" crc="10958715" ref="paintings"/>
+    <file name="drought-crop-u12865.jpg" crc="212387951" ref="paintings"/>
+    <file name="friendship square-crop-u12879.jpg" crc="75571205" ref="paintings"/>
     <file name="amanda257x183.jpg" crc="3948404560" seo="true" ref="paintings"/>
-    <file name="lady slipper-crop-u12894.jpg" crc="4201895336" ref="paintings"/>
-    <file name="main and 5th, moscow-crop-u12909.jpg" crc="271387299" ref="paintings"/>
-    <file name="chipmonk_s215x217.jpg" crc="3982469635" seo="true" ref="paintings"/>
-    <file name="prussian still.jpg" crc="4069413609" seo="true" ref="paintings"/>
-    <file name="season-s_end.jpg" crc="172048186" seo="true" ref="paintings"/>
-    <file name="reis.jpg" crc="4092854508" seo="true" ref="paintings"/>
-    <file name="masks.jpg" crc="4094914913" seo="true" ref="paintings"/>
-    <file name="prussian still-crop-u12621.jpg" crc="468595696" ref="paintings"/>
-    <file name="season-s_end-crop-u12630.jpg" crc="27197282" ref="paintings"/>
-    <file name="reis258x193.jpg" crc="406191556" seo="true" ref="paintings"/>
-    <file name="masks-crop-u12661.jpg" crc="4270694699" ref="paintings"/>
-    <file name="facing winds.jpg" crc="227609959" seo="true" ref="paintings"/>
-    <file name="fire walker.jpg" crc="3976253620" seo="true" ref="paintings"/>
-    <file name="white caps-crop-u12558.jpg" crc="127937993" ref="paintings"/>
-    <file name="facing winds-crop-u12501.jpg" crc="4100397281" ref="paintings"/>
-    <file name="fire walker-crop-u12552.jpg" crc="280877720" ref="paintings"/>
-    <file name="white caps223x208.jpg" crc="294316993" seo="true" ref="paintings"/>
-    <file name="u12511-4.png" crc="4091025035" ref="paintings"/>
-    <file name="u12495-4.png" crc="404991748" ref="paintings"/>
+    <file name="lady slipper-crop-u12894.jpg" crc="284390235" ref="paintings"/>
+    <file name="main and 5th, moscow-crop-u12909.jpg" crc="3837520890" ref="paintings"/>
+    <file name="chipmonk_s215x217.jpg" crc="4078503174" seo="true" ref="paintings"/>
+    <file name="prussian still.jpg" crc="3939012159" seo="true" ref="paintings"/>
+    <file name="season-s_end.jpg" crc="374035414" seo="true" ref="paintings"/>
+    <file name="reis.jpg" crc="4021152901" seo="true" ref="paintings"/>
+    <file name="masks.jpg" crc="4077234774" seo="true" ref="paintings"/>
+    <file name="prussian still-crop-u12621.jpg" crc="3909096577" ref="paintings"/>
+    <file name="season-s_end-crop-u12630.jpg" crc="312450784" ref="paintings"/>
+    <file name="reis258x193.jpg" crc="3842951041" seo="true" ref="paintings"/>
+    <file name="masks-crop-u12661.jpg" crc="4001770678" ref="paintings"/>
+    <file name="u13163-4.png" crc="3836111749" ref="paintings"/>
+    <file name="u13162-4.png" crc="336413932" ref="paintings"/>
   </folder>
   <file name="index.html" crc="3848933296" mt="1457093224096" redirect="true" seo="true"/>
   <file name="about.html" crc="207996055" mt="1457092289240" redirect="true" seo="true"/>
@@ -284,5 +278,5 @@
   <file name="hayden-gallery-show.html" crc="4051198928" mt="1457092289240" redirect="true" seo="true"/>
   <file name="studio-adventures.html" crc="419274065" seo="true" mt="1457092289240" redirect="true"/>
   <file name="sculpture.html" crc="3897628656" seo="true" mt="1457092678387" redirect="true"/>
-  <file name="paintings.html" crc="4076209310" seo="true" mt="1457093087837" redirect="true"/>
+  <file name="paintings.html" crc="3783963118" seo="true" mt="1457093916813" redirect="true"/>
 </manifest>
