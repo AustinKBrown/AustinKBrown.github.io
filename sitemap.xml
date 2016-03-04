@@ -475,18 +475,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://AustinKBrown.com/images/drizzle.jpg</loc>
-    <lastmod>2016-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://AustinKBrown.com/images/drought.jpg</loc>
-    <lastmod>2016-03-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://AustinKBrown.com/images/friendship%20square.jpg</loc>
     <lastmod>2016-03-04</lastmod>
     <changefreq>weekly</changefreq>
