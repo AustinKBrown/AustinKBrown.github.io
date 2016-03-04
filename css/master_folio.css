@@ -1,0 +1,121 @@
+#u12404
+{
+	background-color: #998675;
+	position: relative;
+}
+
+#u12422_states
+{
+	vertical-align: top;
+	background: url("../images/u12422_states.png") no-repeat 0px 0px;
+}
+
+#u12422:hover #u12422_states
+{
+	background: url("../images/u12422_states-r.png") no-repeat 0px 1px;
+}
+
+#u12406
+{
+	background-color: #E1E2EC;
+	position: relative;
+}
+
+#u12423-4
+{
+	display: block;
+	vertical-align: top;
+	position: relative;
+}
+
+#u12425_clip
+{
+	overflow: hidden;
+}
+
+#u12407_states
+{
+	vertical-align: top;
+	background: url("../images/u12407_states.png") no-repeat 0px 0px;
+}
+
+#u12407:hover #u12407_states
+{
+	background: url("../images/u12407_states-r.png") no-repeat 0px 0px;
+}
+
+#u12408_states
+{
+	vertical-align: top;
+	background: url("../images/u12408_states.png") no-repeat 0px 0px;
+}
+
+#u12408:hover #u12408_states
+{
+	background: url("../images/u12408_states-r.png") no-repeat 0px 0px;
+}
+
+#u12409_states
+{
+	vertical-align: top;
+	background: url("../images/u12409_states.png") no-repeat 0px 0px;
+}
+
+#u12409:hover #u12409_states
+{
+	background: url("../images/u12409_states-r.png") no-repeat 0px 0px;
+}
+
+#u12410_states
+{
+	vertical-align: top;
+	background: url("../images/u12410_states.png") no-repeat 0px 0px;
+}
+
+#u12410:hover #u12410_states
+{
+	background: url("../images/u12410_states-r.png") no-repeat 0px 0px;
+}
+
+#u12411_states
+{
+	vertical-align: top;
+	background: url("../images/u12411_states.png") no-repeat 0px 0px;
+}
+
+#u12411:hover #u12411_states
+{
+	background: url("../images/u12411_states-r.png") no-repeat 0px 0px;
+}
+
+#u12414,#u12425,#u12412,#u12416
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u12418,#u12420
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #CACAC8;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u12422,#u12407,#u12408,#u12409,#u12410,#u12411,#u12424
+{
+	position: relative;
+}
+
+#u12424_states
+{
+	vertical-align: top;
+	background: url("../images/u12424_states.png") no-repeat 0px 0px;
+}
+
+#u12424:hover #u12424_states
+{
+	background: url("../images/u12424_states-r.png") no-repeat 0px 0px;
+}
+

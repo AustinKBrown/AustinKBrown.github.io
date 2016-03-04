@@ -137,9 +137,9 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .menu
 {
-	color: #43270C;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
-	font-size: 16px;
+	color: #603813;
+	font-family: Archive ;
+	font-size: 19px;
 	font-weight: bold;
 	text-align: center;
 	padding: 0px;
@@ -158,7 +158,7 @@ a.nontext /* used to override default properties of 'a' tag */
 .Body-head
 {
 	color: #754C24;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
+	font-family: ADAM.CG PRO;
 	font-size: 24px;
 	font-style: normal;
 	font-weight: normal;
@@ -168,8 +168,8 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .Body
 {
-	color: #C69C6D;
-	font-family: Lucida Sans, Lucida Grande, Lucida Sans Unicode, sans-serif;
+	color: #43270C;
+	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
 	font-size: 13px;
 	line-height: 18px;
 	padding: 0px;
