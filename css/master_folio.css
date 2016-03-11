@@ -4,17 +4,6 @@
 	position: relative;
 }
 
-#u12422_states
-{
-	vertical-align: top;
-	background: url("../images/u12422_states.png") no-repeat 0px 0px;
-}
-
-#u12422:hover #u12422_states
-{
-	background: url("../images/u12422_states-r.png") no-repeat 0px 1px;
-}
-
 #u12406
 {
 	background-color: #E1E2EC;
@@ -103,7 +92,18 @@
 	position: relative;
 }
 
-#u12422,#u12407,#u12408,#u12409,#u12410,#u12411,#u12424
+#u12422_states
+{
+	vertical-align: top;
+	background: url("../images/u12422_states.png") no-repeat 0px 0px;
+}
+
+#u12422:hover #u12422_states
+{
+	background: url("../images/u12422_states-r.png") no-repeat 0px 1px;
+}
+
+#u12407,#u12408,#u12409,#u12410,#u12411,#u12422,#u12424
 {
 	position: relative;
 }

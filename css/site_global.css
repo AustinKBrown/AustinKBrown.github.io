@@ -137,11 +137,12 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .menu
 {
-	color: #603813;
-	font-family: Archive ;
-	font-size: 19px;
-	font-weight: bold;
-	text-align: center;
+	color: #1F202A;
+	font-family: monarcha, sans-serif;
+	font-size: 23px;
+	font-style: italic;
+	font-weight: 400;
+	text-align: left;
 	padding: 0px;
 }
 
@@ -168,10 +169,20 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .Body
 {
-	color: #43270C;
-	font-family: Geneva, Verdana, Lucida Sans, Lucida Sans Unicode, sans-serif;
-	font-size: 13px;
-	line-height: 18px;
+	color: #1F202A;
+	font-family: monarcha, sans-serif;
+	font-size: 15px;
+	font-weight: 300;
+	line-height: 21px;
+	padding: 0px;
+}
+
+.Hand-written
+{
+	color: #1F202A;
+	font-family: marydale, sans-serif;
+	font-size: 18px;
+	font-weight: 400;
 	padding: 0px;
 }
 
